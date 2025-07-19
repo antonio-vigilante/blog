@@ -7,7 +7,7 @@ draft: false
 tags:
   - scuola
 description: 
-  A proposito di *Elogio dell’ignoranza e dell’errore* di Gianrico Carofiglio.
+  A proposito di Elogio dell’ignoranza e dell’errore di Gianrico Carofiglio.
 ---
 
 	
