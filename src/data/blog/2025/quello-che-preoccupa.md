@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2025-07-10
+pubDate: 2025-07-10
 title: "Quello che preoccupa"
 description: "A proposito degli studenti che rifiutano di sostenere l'orale agli esami di Stato."
 tags: 
