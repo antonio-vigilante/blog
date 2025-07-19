@@ -3,7 +3,7 @@ export const SITE = {
   author: "Antonio Vigilante",
   profile: "https://antoniovigilante.pages.dev/",
   desc: "Blog di Antonio Vigilante.",
-  title: "〰️ Attraversamenti",
+  title: "🅰ttraversamenti",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 3,
