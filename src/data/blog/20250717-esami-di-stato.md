@@ -1,6 +1,7 @@
 ---
 pubDatetime: 2025-07-10
 title: "Quello che preoccupa"
+description: "A proposito degli esami di Stato"
 tags: 
  - scuola
 author: Antonio Vigilante
