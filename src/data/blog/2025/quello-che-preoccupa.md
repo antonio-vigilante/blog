@@ -1,4 +1,6 @@
 ---
+pubDatetime: 2025-07-10
+title: "Quello che preoccupa"
 tags: 
  - scuola
 author: Antonio Vigilante
