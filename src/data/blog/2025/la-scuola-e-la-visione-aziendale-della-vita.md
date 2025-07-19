@@ -4,6 +4,7 @@ title: "La scuola e la visione aziendale della vita"
 description: "Gli studenti che rifiutano di sostenere l'orale degli esami di Stato e gli adulti che insegnano loro cos'è la vita."
 tags: 
  - scuola
+featured: true
 ---
 
 ![Sedie](/images/sedie.png)
