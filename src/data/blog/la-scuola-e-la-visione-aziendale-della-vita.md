@@ -1,11 +1,17 @@
 ---
-pubDatetime: 2025-07-17 
-title: "La scuola e la visione aziendale della vita"
-description: "Gli studenti che rifiutano di sostenere l'orale degli esami di Stato e gli adulti che insegnano loro cos'è la vita."
-tags: 
- - scuola
+author: Antonio Vigilante
+pubDatetime: 2025-07-12
+title: La scuola e la visione aziendale della vita
 featured: true
+draft: false
+tags:
+  - scuola
+description:
+  Gli studenti che rifiutano di sostenere l'orale degli esami di Stato e gli adulti che insegnano loro cos'è la vita.
+  of AstroPaper theme.
 ---
+
+
 
 ![Sedie](/images/sedie.png)
 

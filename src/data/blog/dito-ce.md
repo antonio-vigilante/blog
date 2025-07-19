@@ -1,10 +1,13 @@
 ---
-pubDatetime: 2025-07-01 
-title: "Dito c'è"
-description: ""
-tags: 
- - hermetica
+author: Antonio Vigilante
+pubDatetime: 2025-07-01
+title: Dito c'è
 featured: false
+draft: false
+tags:
+  - hermetica
+description:
+  Ora che Ermes è grande – ha compiuto tre anni a dicembre! – è necessario che gli parli di Dito.
 ---
 
 

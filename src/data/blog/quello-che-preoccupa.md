@@ -1,12 +1,17 @@
 ---
-author: Antonio Vigilante
+author: Antonio vigilante
 pubDatetime: 2025-07-10
 title: Quello che preoccupa
+featured: false
+draft: false
+tags:
+  - scuola
 description: 
-  A proposito degli studenti che rifiutano di sostenere l'orale agli esami di Stato
-tags: 
- - scuola
+  Il fatto che stia facendo venir fuori l’autoritarismo di tanti colleghi
+  dimostra che il gesto di quello studente che ha rifiutato di sostenere
+  l’orale degli esami di Stato era necessario.
 ---
+
 
 
 

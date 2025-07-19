@@ -3,11 +3,11 @@ export const SITE = {
   author: "Antonio Vigilante",
   profile: "https://antoniovigilante.pages.dev/",
   desc: "Blog di Antonio Vigilante.",
-  title: "./umbral",
+  title: "⚈ attraversamenti",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerIndex: 8,
-  postPerPage: 8,
+  postPerIndex: 3,
+  postPerPage:3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   showBackButton: false, // show back button in post detail
