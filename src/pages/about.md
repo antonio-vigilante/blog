@@ -2,6 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
+![Io e Mirò a Ponte allo Spino](/images/ponte-allo-spino.jpg)
 
 Sono nato a Foggia, città nella quale per diversi decenni ho espiato non so bene quale colpa; ora vivo a Siena, dove lavoro come tutor coordinatore di Filosofia e Scienze Umane all’Università (campus di Arezzo).
 
