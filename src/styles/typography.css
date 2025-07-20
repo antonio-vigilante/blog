@@ -4,7 +4,7 @@
   /* ===== Override default Tailwind Typography styles ===== */
   .app-prose {
     @apply prose;
-
+   font-family: 'Segoe UI', sans-serif;
     h1,
     h2,
     h3,
@@ -17,6 +17,7 @@
       @apply italic;
     }
 
+     
     p,
     strong,
     ol,
@@ -91,6 +92,12 @@
     }
   }
 
+/*==== Anteprima del post in homepage ==== */
+  .post-excerpt {
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.7;
+  }
+  
   /* ===== Code Blocks & Syntax Highlighting ===== */
   .astro-code {
     @apply flex border bg-(--shiki-light-bg) text-(--shiki-light) outline-border [&_span]:text-(--shiki-light);
