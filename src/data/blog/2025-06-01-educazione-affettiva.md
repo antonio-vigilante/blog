@@ -6,7 +6,7 @@ featured: false
 draft: false
 tags:
   - scuola
-  - educazione
+  - educazione all'affettività
 description:
   Cosa vuol dire educare all'affettività. O meglio: nell'affettività.
 ---
