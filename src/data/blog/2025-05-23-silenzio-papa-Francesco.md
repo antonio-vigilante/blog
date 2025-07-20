@@ -8,7 +8,7 @@ tags:
   - Chiesa
   - cattolicesimo
   - papa Francesco
-description: La Chiesa e i bambini rubati e venduti in Spagna.
+description: La Chiesa e i neonati rubati e venduti in Spagna.
 ---
  
 
