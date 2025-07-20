@@ -6,7 +6,7 @@ title: "Su di me"
 
 Sono nato a Foggia, città nella quale per diversi decenni ho espiato non so bene quale colpa; ora vivo a Siena, dove lavoro come tutor coordinatore di Filosofia e Scienze Umane all’Università (campus di Arezzo).
 
-Sono un pedagogista con un dottorato in Dinamiche formative e educazione alla politica; ho studiato anche relazioni gruppali, bioetica e philosophy for children/philosophy for community. Sono stato direttore scientifico di "Educazione Democratica" e sono attualmente direttore responsabile di "Educazione Aperta"; sono inoltre direttore scientifico della collana "Ianus. Educazione e trasformazione sociale" della casa editrice Ledizioni di Milano.
+Sono un pedagogista con un dottorato in Dinamiche formative e educazione alla politica; ho studiato anche relazioni gruppali, bioetica e philosophy for children/philosophy for community. Sono stato direttore scientifico di "Educazione Democratica"; sono attualmente direttore responsabile di "Educazione Aperta" e direttore scientifico della collana "Ianus. Educazione e trasformazione sociale" della casa editrice Ledizioni di Milano.
 
 Mi sono occupato di filosofia della nonviolenza; negli ultimi tempi mi occupo soprattutto di pedagogia scolastica e filosofia interculturale. Nel 2014 ho conseguito l’abilitazione all’insegnamento universitario della Filosofia Morale.
 
