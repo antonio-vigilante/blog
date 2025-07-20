@@ -6,8 +6,8 @@ export const SITE = {
   title: "_attraversamenti",
   ogImage: "og-image.png",
   lightAndDarkMode: true,
-  postPerIndex: 3,
-  postPerPage:3,
+  postPerIndex: 15,
+  postPerPage:15,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   showBackButton: false, // show back button in post detail
