@@ -24,10 +24,9 @@ Il papa dice, dunque, che chinque non sia credente non può essere operatore di 
 Illuminati da Dio, aperto al Trascendente, in dialogo con Dio, il papa è così miope da vedere le maggiori minacce alla pace mondiale non nel commercio internazionale delle armi, ma *nell'aborto, nell'eutanasia e nelle unioni gay*. La pace è minacciata ogni volta che non si rispetta la vita umana:
 
 > Via di realizzazione del bene comune e della pace è anzitutto il rispetto per la vita umana, considerata nella molteplicità dei suoi aspetti, a cominciare dal suo concepimento, nel suo svilupparsi, e sino alla sua fine naturale.
-
   
 Che anche l'esistenza di una persona omosessuale sia vita umana, come tale degna di rispetto,  è una cosa che l'apertura al Divino non riesce a fare entrare nella testa di questo vecchio ottuso. E non è ovviamente lecito attendersi alcun cenno allo scandalo immenso della sofferenza della vita animale, che per i cattolici - fedeli al mandato del _Genesi_ - semplicemente non esiste. Non c'è nessuna minaccia alla pace nel fatto che la vita di milioni ì di animali sia quotidianamente crocifissa negli allevamenti industriali - umiliata, offesa, derisa, smembrata. La miopia morale non gli consente di scorgere la continuità tra violenza sull'animale e violenza sull'uomo, tra l'organizzazione scientifica, sistematica dei macelli e quella dei campi di sterminio.
 
 Non c'è, in un discorso del genere, soltanto una morale insufficiente (quella ottusità morale, per non dire peggio, che lo porta a [ricevere in Vaticano Rebecca Kadaga](http://www.ilfattoquotidiano.it/2012/12/14/papa-benedice-promotrice-legge-che-prevede-pena-di-morte-per-gay-in-uganda/446392/), presidente del parlamento Ugandese, promotrice di una legge che prevede la pena di morte per i gay). C'è qualcosa di peggio: c'è _insufficienza religiosa_. La vera religione dà slancio alla morale, la apre, la rende più sensibile e profonda. Qui abbiamo una religione spenta che produce una morale spenta. Un sale che è diventato insipido.
 
->
+
