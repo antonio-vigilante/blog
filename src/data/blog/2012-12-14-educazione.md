@@ -10,7 +10,7 @@ description: La scuola e i mali della società.
 
 Questa mattina ho posto nella mia terza la domanda: Che cosa vuo dire educare? Dalla raccolta di idee è emerso il seguente quadro:
 
-[![](images/2012-12-14-educazione.jpg)
+![](images/2012-12-14-educazione.jpg)
 
 Ci sono diverse cose interessanti su questa lavagna. In genere quando faccio questa domanda accade che quasi tutti rispondano che educare è imporre le regole; qui invece emergono aspetti più raffinati, come "tirare fuori i valori", "formare la personalità" e "portare al rispetto degli altri" - e sorprende quel "non imporre nulla".
 
