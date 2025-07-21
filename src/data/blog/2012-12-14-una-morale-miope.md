@@ -9,14 +9,12 @@ tags:
 description: Il fanatismo di papa Benedetto XVI.
 ---
 
-  
 Nel [Messaggio di Benedetto XVI per la Giornata Mondiale della Pace](http://www.vatican.va/holy_father/benedict_xvi/messages/peace/documents/hf_ben-xvi_mes_20121208_xlvi-world-day-peace_it.html) si legge:  
 
 > Oltre a svariate forme di terrorismo e di criminalità internazionale, sono pericolosi per la pace quei fondamentalismi e quei fanatismi che stravolgono la vera natura della religione, chiamata a favorire la comunione e la riconciliazione tra gli uomini.
 
 Difficile dargli torto: fondamentalismo e fanatismo sono nemici della pace. Il problema è che il fondamentalismo ed il fanatismo sono sempre quelli degli altri. Più avanti, nel discorso, c'è il seguente passo:
 
- 
 > Per diventare autentici operatori di pace *sono fondamentali l’attenzione alla dimensione trascendente e il colloquio costante con Dio*, Padre misericordioso, mediante il quale si implora la redenzione conquistataci dal suo Figlio Unigenito. Così l’uomo può vincere quel germe di oscuramento e di negazione della pace che è il peccato in tutte le sue forme: egoismo e violenza, avidità e volontà di potenza e di dominio, intolleranza, odio e strutture ingiuste.
 
 Il papa dice, dunque, che chiunque non sia credente non può essere operatore di pace; nessuno che sia chiuso alla Trascendenza può vincere l'egoismo, la violenza eccetera. Tradotto in linguaggio corrente: tutti quelli che non sono credenti sono condannati ad essere cattivi. E cos'è questo, se non fondamentalismo e fanatismo?  
