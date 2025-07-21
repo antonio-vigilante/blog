@@ -1,34 +1,9 @@
 @import "tailwindcss";
 @import "./typography.css";
-@import url("https://fonts.googleapis.com/css2?family=Fira+Code&display=swap");
-
-
-
-@layer components {
-  .prose {
-    font-family: var(--font-serif);
-  }
-
-  .prose h1,
-  .prose h2,
-  .prose h3,
-  .prose h4 {
-    font-family: var(--font-serif);
-  }
-
-  .prose strong,
-  .prose em,
-  .prose blockquote {
-    font-family: var(--font-serif);
-  }
-}
-
-
 
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
-:root
-
+:root,
 html[data-theme="light"] {
   --background: #fdfdfd;
   --foreground: #282728;
