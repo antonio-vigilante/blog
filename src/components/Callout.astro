@@ -1,0 +1,24 @@
+---
+const { type = "note", icon = "💡", children } = Astro.props;
+
+const calloutColor = {
+  note: "border-blue-300 bg-blue-50 text-blue-900",
+  warning: "border-yellow-300 bg-yellow-50 text-yellow-900",
+  danger: "border-red-300 bg-red-50 text-red-900",
+};
+---
+
+<div class={`my-6 flex rounded-lg border p-4 ${calloutColor[type]}`}>
+  <div class="mr-3 text-xl leading-none">{icon}</div>
+  <div
+    class="callout-content w-full text-sm leading-relaxed"
+    style="font-family: sans-serif;"
+  >
+    {children}
+  </div>
+</div>
+
+
+
+
+

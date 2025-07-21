@@ -12,6 +12,7 @@ import IconRss from "@/assets/icons/IconRss.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
 import { SOCIALS } from "@/constants";
+import Callout from "@/components/Callout.astro"
 
 const posts = await getCollection("blog");
 
@@ -27,6 +28,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
       <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
         Blog di Antonio Vigilante.
       </h1>
+          
       <a
         target="_blank"
         href="/rss.xml"
@@ -47,6 +49,10 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 <p class="post-excerpt">Non è possibile commentare i post. Se ti interessa discutere qualcuna delle cose che scrivo, mandami una e-mail.</p>
      <p>&nbsp;</p>
  <p class="post-excerpt"> ✉️ antoniovigilante@autistici.org </p>
+ 
+  <p>&nbsp;</p>
+  
+
       
     </section>
 

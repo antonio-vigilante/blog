@@ -2,9 +2,9 @@
 title: Sulla soglia
 author: Antonio Vigilante
 pubDatetime: 2012-12-27
-categories: 
 tags: 
   - poesia residua"
+description: Sulla soglia del nome e della forma
 ---
 
 Sulla soglia del nome e della forma  
