@@ -4,7 +4,7 @@
   /* ===== Override default Tailwind Typography styles ===== */
   .app-prose {
     @apply prose;
-    font-family: var(--font-sans-serif);
+    font-family: sans-serif;
     font-size: 16px;
     line-height: 1.75; 
 
@@ -21,7 +21,6 @@
     }
  
 
-     
     p,
     strong,
     ol,
