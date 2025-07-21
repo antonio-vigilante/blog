@@ -14,6 +14,7 @@ import { SITE } from "@/config";
 import { SOCIALS } from "@/constants";
 
 const posts = await getCollection("blog");
+
 const sortedPosts = getSortedPosts(posts);
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
@@ -23,10 +24,9 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
   <Header />
   <main id="main-content" data-layout="index">
     <section id="hero" class="pt-8 pb-6">
-     <h1 class="text-4xl font-mono font-bold leading-snug">
+      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
         Blog di Antonio Vigilante.
       </h1>
-          
       <a
         target="_blank"
         href="/rss.xml"
@@ -42,16 +42,18 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         <span class="sr-only">RSS Feed</span>
       </a>
       <p class="post-excerpt">
-            Questo blog è un vicolo minimo della megalopoli della Rete. Può essere che sia perfino un vicolo cieco. Ma non sono forse utili anche i vicoli ciechi?</p>
-   
-<p class="post-excerpt">Non è possibile commentare i post. Se ti interessa discutere qualcuna delle cose che scrivo, mandami una e-mail.</p>
-     <p>&nbsp;</p>
- <p class="post-excerpt"> ✉️ antoniovigilante@autistici.org </p>
- 
-  <p>&nbsp;</p>
-  
-
+        Dove si parla di scuola - ah, la scuola - e di educazione, e di maleducazione, e di anarchismo, e di buddhismo, e della necessità di abbandonare ogni ismo, e di qualcos'altro ancora che ora non so dire. </p>
       
+    
+      {
+        // only display if at least one social link is enabled
+        SOCIALS.length > 0 && (
+          <div class="mt-4 flex flex-col sm:flex-row sm:items-center">
+            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Contatti:</div>
+            <Socials />
+          </div>
+        )
+      }
     </section>
 
     <Hr />
