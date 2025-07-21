@@ -98,7 +98,7 @@
 
 /*==== Anteprima del post in homepage ==== */
  .post-excerpt {
-  font-family: 'Segoe UI', sans-serif !important;
+  font-family: sans-serif;
   line-height: 1.7;
   }
   
@@ -113,7 +113,7 @@
 
   
  .card .post-excerpt {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: sans-serif;
 }
   
   /* ===== Code Blocks & Syntax Highlighting ===== */
