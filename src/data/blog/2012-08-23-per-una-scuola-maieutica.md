@@ -1,12 +1,14 @@
 ---
-title: "Per una scuola maieutica"
+title: Per una scuola maieutica
 author: Antonio Vigilante
-pubDetetima: 2012-08-23
+pubDatetima: 2012-08-23
 tags: 
   - Danilo Dolci
   - sinagogia
   - educazione
   - scuola
+  - Francesco Cappello
+description: A proposito di un libro di Francesco Cappello
 ---
 
 All'inizio degli anni Settanta Danilo Dolci maturò il progetto di creare un centro educativo che impiegasse la metodologia della maieutica reciproca, già sperimentata con successo come strumento per lo sviluppo comunitario. Il progetto non era particolarmente audace per chi, con la sola forza della maieutica e della protesta nonviolenta, era riuscito tra l’altro a creare una diga, quella sullo Jato, sottraendo alla mafia il controllo dell’acqua. Doveva essere, il centro educativo, una struttura progettata maieuticamente, vale a dire ascoltando le aspirazioni di bambini e ragazzi, padri e madri, educatori della zona. Nasce così il centro educativo di Mirto, in una bellissima posizione collinare che consente di vedere il mare, come richiesto soprattutto dai bambini. Ma le difficoltà non sono poche.
