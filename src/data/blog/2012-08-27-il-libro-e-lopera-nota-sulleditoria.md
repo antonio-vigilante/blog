@@ -1,5 +1,5 @@
 ---
-title: Il libro e l'opera: nota sull'editoria elettronica
+title: Il libro e l'opera. Nota sull'editoria elettronica
 author: Antonio Vigilante
 pubDatetime: 2012-08-27
 tags: 
