@@ -4,7 +4,10 @@
   /* ===== Override default Tailwind Typography styles ===== */
   .app-prose {
     @apply prose;
-   font-family: 'Segoe UI', sans-serif;
+    font-family: var(--font-sans-serif);
+    font-size: 16px;
+    line-height: 1.75; 
+
     h1,
     h2,
     h3,
@@ -16,7 +19,7 @@
     h3 {
       @apply italic;
     }
-
+ 
 
      
     p,
