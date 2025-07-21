@@ -6,7 +6,7 @@ tags:
   - Benedetto XVI
   - Cattolicesimo
   - Chiesa
-description: Una religione spenta che produce una morale spenta.
+description: Il fanatismo di papa Benedetto XVI.
 ---
 
   
@@ -19,7 +19,7 @@ Difficile dargli torto: fondamentalismo e fanatismo sono nemici della pace. Il p
  
 > Per diventare autentici operatori di pace *sono fondamentali l’attenzione alla dimensione trascendente e il colloquio costante con Dio*, Padre misericordioso, mediante il quale si implora la redenzione conquistataci dal suo Figlio Unigenito. Così l’uomo può vincere quel germe di oscuramento e di negazione della pace che è il peccato in tutte le sue forme: egoismo e violenza, avidità e volontà di potenza e di dominio, intolleranza, odio e strutture ingiuste.
 
-Il papa dice, dunque, che chinque non sia credente non può essere operatore di pace; nessuno che sia chiuso alla Trascendenza può vincere l'egoismo, la violenza eccetera. Tradotto in linguaggio corrente: tutti quelli che non sono credenti sono condannati ad essere cattivi. E cos'è questo, se non fondamentalismo e fanatismo?  
+Il papa dice, dunque, che chiunque non sia credente non può essere operatore di pace; nessuno che sia chiuso alla Trascendenza può vincere l'egoismo, la violenza eccetera. Tradotto in linguaggio corrente: tutti quelli che non sono credenti sono condannati ad essere cattivi. E cos'è questo, se non fondamentalismo e fanatismo?  
 
 Illuminati da Dio, aperto al Trascendente, in dialogo con Dio, il papa è così miope da vedere le maggiori minacce alla pace mondiale non nel commercio internazionale delle armi, ma *nell'aborto, nell'eutanasia e nelle unioni gay*. La pace è minacciata ogni volta che non si rispetta la vita umana:
 
