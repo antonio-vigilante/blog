@@ -1,7 +1,7 @@
 ---
 title: Per una scuola maieutica
 author: Antonio Vigilante
-pubDatetima: 2012-08-23
+pubDatetime: 2012-08-23
 tags: 
   - Danilo Dolci
   - sinagogia
