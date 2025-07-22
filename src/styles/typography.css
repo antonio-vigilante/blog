@@ -5,8 +5,8 @@
 @layer base {
   .app-prose {
     @apply prose;
-   font-family: 'EB Garamond', serif;
-   font-size: 2.1rem;
+   font-family: sans-serif;
+   font-size: 1.0rem;
    line-height: 1.75;
 
     h1,
