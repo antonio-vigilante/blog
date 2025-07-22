@@ -19,7 +19,7 @@ Difficile dargli torto: fondamentalismo e fanatismo sono nemici della pace. Il p
 
 Il papa dice, dunque, che chiunque non sia credente non può essere operatore di pace; nessuno che sia chiuso alla Trascendenza può vincere l'egoismo, la violenza eccetera. Tradotto in linguaggio corrente: tutti quelli che non sono credenti sono condannati ad essere cattivi. E cos'è questo, se non fondamentalismo e fanatismo?  
 
-Illuminati da Dio, aperto al Trascendente, in dialogo con Dio, il papa è così miope da vedere le maggiori minacce alla pace mondiale non nel commercio internazionale delle armi, ma *nell'aborto, nell'eutanasia e nelle unioni gay*. La pace è minacciata ogni volta che non si rispetta la vita umana:
+Illuminato da Dio, aperto al Trascendente, in dialogo con Dio, il papa è così miope da vedere le maggiori minacce alla pace mondiale non nel commercio internazionale delle armi, ma *nell'aborto, nell'eutanasia e nelle unioni gay*. La pace è minacciata ogni volta che non si rispetta la vita umana:
 
 > Via di realizzazione del bene comune e della pace è anzitutto il rispetto per la vita umana, considerata nella molteplicità dei suoi aspetti, a cominciare dal suo concepimento, nel suo svilupparsi, e sino alla sua fine naturale.
   
