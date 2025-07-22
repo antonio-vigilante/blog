@@ -10,7 +10,7 @@ Sono un pedagogista con un dottorato in Dinamiche formative e educazione alla po
 
 Mi sono occupato di filosofia della nonviolenza; negli ultimi tempi mi occupo soprattutto di pedagogia scolastica e filosofia interculturale. Nel 2014 ho conseguito l’abilitazione all’insegnamento universitario della Filosofia Morale.
 
-Il mio ultimo libro è *La stanza di fronte. Tre saggi di filosofia interculturale* (Ledizioni, 2024). [Qui](/libri.md) tutti i miei libri.
+Il mio ultimo libro è *La stanza di fronte. Tre saggi di filosofia interculturale* (Ledizioni, 2024). [Qui](/libri/) tutti i miei libri.
 
 Sono vegetariano fin dall’adolescenza. Ritengo che ogni essere vivente – compresi insetti e piante – abbia un diritto alla vita che può essere negato dall’essere umano soltanto per la sopravvivenza, e solo se non esistono alternative.
 
