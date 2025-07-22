@@ -10,7 +10,7 @@ description: S'è presentato, ho detto, solo un merlo
 S'è presentato, ho detto, solo un merlo  
 con nel becco un vermetto agonizzante.  
 Non si trattava invece d'un vermetto   
-agonizzante nel becco d'un merlo? 
+agonizzante nel becco d'un merlo?   
 Non mi diceva guarda guarda guardami  
 proprio lui il vermetto agonizzante?  
 Non cercava la pace del mio sguardo?  

@@ -13,7 +13,7 @@ dice qualcosa, ma non dice me
 e tuttavia s'infila dentro a un noi  
 insieme alle parole che non sei:  
 e questo è grande parte del groviglio  
-che ogni giorno ci fa tanto feroci.
+che ogni giorno ci fa tanto feroci.  
 
 *
 
@@ -25,4 +25,4 @@ soprattutto capace di silenzio.
 Ho fatto spazio al mondo: l'ho imparato  
 ma dopo lunga attesa a presentarsi  
 è stato solo un merlo sopra un bosso  
-con nel becco un vermetto agonizzante.
+con nel becco un vermetto agonizzante.  
