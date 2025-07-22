@@ -23,7 +23,7 @@ Vediamo come continua Ratzinger:
 
 Qui ha la massima rilevanza quel _solo_. E' davvero così? Possiamo considerare assurda la morte della persona amata _solo_ se pensiamo che esista un Dio che è Potere infinito? Sembrerebbe di sì, ad un primo sguardo. Ma è una soluzione che Capitini rifiuta, perché pensare Dio come un tale Potere vuol dire, se si vuole essere conseguenti, attribuire a Dio l'origine stessa del male: ossia fare di Dio stesso la ragione per cui la persona amata muore.
 
-Se Dio è l'Origine, a Lui va attribuito lo stesso male. Non serve a molto introdurre la figura dell'ha-Satan, poiché le cose sono due: o l'ha-Shatan è dall'origine, ed all'ora Dio non è Origine unica, né è assoluto, ma è parte di una Diade originaria; oppure Dio è origine anche del male, anche dell'ha-Shatan.
+Se Dio è l'Origine, a Lui va attribuito lo stesso male. Non serve a molto introdurre la figura dell'ha-Satan, poiché le cose sono due: o l'ha-Shatan è dall'origine, ed all'ora Dio non è Origine unica, né è assoluto, ma è parte di una Diade originaria; oppure Dio è origine anche del male, anche dell'ha-Satan.
 
 Per Capitini, occorre invece pensare Dio - quel Dio che chiama _compresenza_ (per la quale, precisa, "si può anche non parlare di Dio") - come anti-origine. Il pensiero teologico occidentale ha sempre messo Dio all'inizio del cosmo, come causa. Capitini compie lo sforzo, assolutamente originale (ma nella stessa direzione procede anche, benché in modo più oscuro e travagliato, Ferdinando Tartaglia), di pensare Dio dall'altra parte, mettendolo non all'inizio, ma alla fine - non come origine, ma come _telos_.
 
