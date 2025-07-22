@@ -4,7 +4,7 @@ author: Antonio Vigilante
 pubDatetime: 2025-04-25
 tags: 
   - poesia residua
-description: Non posso dirti nulla: ogni parola
+description: "Non posso dirti nulla: ogni parola"
 ---
 
 Non posso dirti nulla: ogni parola  
