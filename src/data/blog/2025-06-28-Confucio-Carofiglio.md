@@ -6,8 +6,8 @@ featured: false
 draft: false
 tags:
   - scuola
-description: 
-  A proposito di Elogio dell’ignoranza e dell’errore di Gianrico Carofiglio.
+description: |
+ Molti anni fa frequentavo un filosofo e scrittore la cui cultura era considerata quasi leggendaria. Ed era vasta, in effetti, ma con dei limiti ben precisi: le sue conoscenze riguardavano il campo storico, filosofico e letterario nell’area italiana e francese (non conosceva l’inglese), ma senza un reale aggiornamento sugli sviluppi più recenti; profonde erano invece le lacune nel campo scientifico. Come poteva apparire straordinariamente colta una persona con simili limiti? In primo luogo, essendo una persona di potere aveva la possibilità di stabilire, per così dire, l’agenda della discussione, facendo in modo che si muovesse sempre nel suo campo. Quando qualcuno portava la discussione in un campo per lui insicuro, interveniva con decisione, quando non con fastidio. La seconda ragione è che ha avuto la fortuna di vivere in un Paese in cui alcune cose, come la filosofia o la letteratura o il latino, sono unanimemente considerate cultura, mentre ci si può quasi vantare della propria ignoranza nel campo matematico o scientifico...
 ---
 
 	

@@ -6,10 +6,8 @@ featured: false
 draft: false
 tags:
   - scuola
-description: 
-  Il fatto che stia facendo venir fuori l’autoritarismo di tanti colleghi
-  dimostra che il gesto di quello studente che ha rifiutato di sostenere
-  l’orale degli esami di Stato era necessario.
+description: |
+  Il fatto che stia facendo venir fuori l’autoritarismo di tanti colleghi dimostra che il gesto di quello studente che ha rifiutato di sostenere l’orale degli esami di Stato era necessario. C’è chi propone a Valditara di intervenire urgentemente non per riformare un esame che è evidentemente una farsa e una mancanza di rispetto verso gli studenti, ma per impedire che chi si rifiuta di sostenere l’orale sia promosso agli esami di Stato. Sospetto che verrà fuori anche la proposta di denunciarlo per vilipendio della Sacra Istituzione....
 ---
 
 

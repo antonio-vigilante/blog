@@ -8,7 +8,8 @@ tags:
   - Chiesa
   - cattolicesimo
   - papa Francesco
-description: La Chiesa e i neonati rubati e venduti in Spagna.
+description: |
+  Scrivo questo articolo a un mese dalla morte di papa Francesco. Perché anche se sono ateo, e credo anzi di potermi definire perfino un ateo militante, credo nel rispetto delle persone. Immagino che il dolore di molti credenti per la morte del loro leader spirituale sia reale, e un dolore reale merita rispetto. Ora che il corpo di papa Francesco riposa in Santa Maria Maggiore e la sua vicenda appartiene alla storia, dovrò aggiunge tuttavia una nota dissonante al coro commosso di quanti hanno visto in quel papa l’apertura ad una Chiesa altra e, laicamente, ad un’altra politica.
 ---
  
 
