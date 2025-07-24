@@ -5,7 +5,7 @@ export const SITE = {
   desc: "Blog di Antonio Vigilante.",
   title: "_attraversamenti",
   ogImage: "og-image.png",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerIndex: 15,
   postPerPage:15,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes

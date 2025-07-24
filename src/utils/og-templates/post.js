@@ -178,7 +178,7 @@ export default async post => {
                             type: "span",
                             props: {
                               children: [
-                                "by ",
+                                "di ",
                                 {
                                   type: "span",
                                   props: {
