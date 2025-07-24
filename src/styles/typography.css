@@ -132,19 +132,19 @@
 /* === AGGIUNGI QUESTO FUORI === */
 @layer base {
   .app-prose a {
-    color: #2563eb; /* blue-600 */
+    color: #ff6b01; /* orange*/
   }
 
   .app-prose a:hover {
-    color: #1e40af; /* blue-800 */
+    color: #ff6b01; /* orange */
   }
 
   html.dark .app-prose a {
-    color: #f97316; /* orange-400 */
+    color: #ff6b01; /* orange */
   }
 
   html.dark .app-prose a:hover {
-    color: #fb923c; /* orange-300 */
+    color: #ff6b01; /* orange */
   }
 }
 
