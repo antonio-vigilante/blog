@@ -138,7 +138,7 @@
   }
 
   .app-prose :where(strong):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
-    color: #FFFFFF;
+    color: orange;
     font-weight: 600;
   }
   
