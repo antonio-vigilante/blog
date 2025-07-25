@@ -147,5 +147,10 @@
   html.dark .app-prose a:hover {
     color: #ff6b01; /* orange */
   }
+  
+  html.dark .app-prose p strong {
+  color: #ffffff; 
+}
+  
 }
 
