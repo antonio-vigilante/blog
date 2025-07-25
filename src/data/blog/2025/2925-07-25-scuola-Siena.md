@@ -8,7 +8,6 @@ tags:
   - scuola
   - Siena
 description: La scuola dovrebbe essere un luogo che lavora per la giustizia sociale e la crescita di tutti/e, non un filtro selettivo che riproduce disuguaglianze. Per questo sentiamo l’urgenza di riflettere pubblicamente sulla scuola che vogliamo, sui valori che devono orientarla, sui legami tra scuola e città; che è anche un modo per ragionare sulla cittadinanza
-
 ---
 
 Qualche giorno fa Susanna Guarino ha scritto sulla "Gazzetta di Siena"[un articolo](https://www.gazzettadisiena.it/sei-giustamente-bocciati-su-18-in-una-scuola-senese-un-problema-che-diventa-sociale/) a proposito di una classe seconda di una scuola secondaria senese in cui sono stati bocciati sei studenti. Questi studenti "giustamente bocciati" per Guarino sono "singoli bulletti che vivono sul filo di lana" e che "appartengono a famiglie alle quali non interessa nulla della loro cultura ed educazione". 
