@@ -131,26 +131,29 @@
 }
 
 /* === AGGIUNGI QUESTO FUORI === */
+
 @layer base {
   .app-prose a {
-    color: #ff6b01; /* orange*/
+    color: #ff6b01;
   }
 
+  .app-prose :where(strong):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+    color: #FFFFFF;
+    font-weight: 600;
+  }
+  
   .app-prose a:hover {
-    color: #ff6b01; /* orange */
+    color: #ff6b01;
   }
 
-  html.dark .app-prose a {
-    color: #ff6b01; /* orange */
-  }
-
+  html.dark .app-prose a,
   html.dark .app-prose a:hover {
-    color: #ff6b01; /* orange */
+    color: #ff6b01;
   }
-  
-  html.dark .app-prose p strong {
-  color: #ffffff; 
-}
-  
+
+  html.dark .prose,
+  html.dark .app-prose {
+    --tw-prose-bold: #ffffff;
+  }
 }
 

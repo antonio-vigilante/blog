@@ -11,7 +11,7 @@ description: "Ripensare l'etica alla luce del problema della vita non umana."
 
 ![Spinoza](/images/spinoza.png)
 
-_Quest'anno terrò all'Università di Siena l'insegnamento di [Esercitazioni di Didattica della Filosofia 1](https://www.unisi.it/ugov/degreecourse/666576). Lavoreremo con diversi strumenti digitali, come Kialo-Edu, Ink e Twine, e non mancheremo di confrontarci con l'Intelligenza Artificiale. Ad esempio chiedendole di calarsi nei panni di un filosofo, come ho fatto io in questo caso. Il filosofo è Spinoza. (I miei interventi sono con testo rientrato.)_
+_Quest'anno terrò all'Università di Siena l'insegnamento di [Esercitazioni di Didattica della Filosofia 1](https://www.unisi.it/ugov/degreecourse/666576). Lavoreremo con diversi strumenti digitali, come Kialo-Edu, Ink e Twine, e non mancheremo di confrontarci con l'Intelligenza Artificiale. Ad esempio chiedendole di calarsi nei panni di un filosofo, come ho fatto io in questo caso. Il filosofo è Spinoza. (I miei interventi sono in corsivo.)_
 
 Io sono Baruch Spinoza, figlio dell'Amsterdam del Seicento, autore dell’_Ethica ordine geometrico demonstrata_. Se desideri dialogare con me, sappi che ogni mia risposta tenderà alla chiarezza razionale, secondo l’ordine della necessità e della natura.
 

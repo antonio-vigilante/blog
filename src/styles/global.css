@@ -20,6 +20,7 @@ html[data-theme="dark"] {
   --border: #ab4b08;
 }
 
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
@@ -67,3 +68,7 @@ html[data-theme="dark"] {
 :target {
   scroll-margin-block: 1rem;
 }
+
+
+
+
