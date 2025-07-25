@@ -7,7 +7,7 @@ tags:
   - Indicazioni Nazionali
   - Ernesto Galli della Loggia
 description: "Dopo aver insultato gli autori delle attuali Indicazioni Nazionali, Ernesto Galli della Loggia riesce a ricorrere al più classico vittimismo quale risposta alle dure, e giustificatissime, critiche fatte al lavoro svolto da lui ed altri per le nuove Indicazioni Nazionali..."
-featured: true
+featured: false
 ---
 
 Dopo aver insultato (in *Insegnare l’Italia*, scritto con Loredana Perla), gli autori delle attuali Indicazioni Nazionali, dando loro degli “scervellati”, Ernesto Galli della Loggia riesce a ricorrere al più classico vittimismo quale risposta alle dure, e giustificatissime, critiche fatte al lavoro svolto da lui ed altri per le nuove Indicazioni Nazionali, nelle quali si legge, tra l’altro, che “Solo l’Occidente conosce la Storia”.

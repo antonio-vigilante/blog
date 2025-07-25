@@ -2,7 +2,7 @@
 author: Antonio vigilante
 pubDatetime: 2025-05-23
 title: Quel silenzio di papa Francesco sul crimine più grave della Chiesa
-featured: true
+featured: false
 draft: false
 tags:
   - Chiesa
