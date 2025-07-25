@@ -10,7 +10,7 @@ tags:
 description: La scuola dovrebbe essere un luogo che lavora per la giustizia sociale e la crescita di tutti/e, non un filtro selettivo che riproduce disuguaglianze. Per questo sentiamo l’urgenza di riflettere pubblicamente sulla scuola che vogliamo, sui valori che devono orientarla, sui legami tra scuola e città; che è anche un modo per ragionare sulla cittadinanza
 ---
 
-Qualche giorno fa Susanna Guarino ha scritto sulla "Gazzetta di Siena"[un articolo](https://www.gazzettadisiena.it/sei-giustamente-bocciati-su-18-in-una-scuola-senese-un-problema-che-diventa-sociale/) a proposito di una classe seconda di una scuola secondaria senese in cui sono stati bocciati sei studenti. Questi studenti "giustamente bocciati" per Guarino sono "singoli bulletti che vivono sul filo di lana" e che "appartengono a famiglie alle quali non interessa nulla della loro cultura ed educazione". 
+Qualche giorno fa Susanna Guarino ha scritto sulla "Gazzetta di Siena" [un articolo](https://www.gazzettadisiena.it/sei-giustamente-bocciati-su-18-in-una-scuola-senese-un-problema-che-diventa-sociale/) a proposito di una classe seconda di una scuola secondaria senese in cui sono stati bocciati sei studenti. Questi studenti "giustamente bocciati" per Guarino sono "singoli bulletti che vivono sul filo di lana" e che "appartengono a famiglie alle quali non interessa nulla della loro cultura ed educazione". 
 
 Un articolo giudicante, privo di qualsiasi tentativo di analisi sociale, che ha suscitato commenti apertamente razzistici - poiché l'articolo specifica anche che molti di quei "bulletti" sono di origine straniera. 
 
@@ -19,7 +19,8 @@ Con alcuni amici abbiamo scritto un comunicato di risposta, perché riteniamo in
 Vogliamo discuterne. Invitiamo gli studenti, i genitori, i docenti, i presidi, gli educatori, i rappresentanti delle associazioni, gli operatori sociali a confrontarsi sulla scuola, l'educazione, l'integrazione, lo sviluppo culturale che vogliamo. Invitiamo soprattutto gli studenti, perché è la loro parola che più di qualsiasi altra è urgente ascoltare.
 
 Di seguito il comunicato.
----
+
+*
 
 Un articolo recentemente apparso sulla Gazzetta di Siena ha raccontato con toni semplicistici e stigmatizzanti di sei studenti “giustamente bocciati” in una classe seconda superiore, attribuendo la responsabilità ai ragazzi e alle loro famiglie, con particolare “enfasi” su quelle di origine straniera.
 
