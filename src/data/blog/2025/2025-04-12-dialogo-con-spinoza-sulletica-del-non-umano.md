@@ -17,7 +17,7 @@ Io sono Baruch Spinoza, figlio dell'Amsterdam del Seicento, autore dell’_Ethic
 
 Dimmi dunque, amico mio: quale questione desideri sottoporre al mio intelletto? Vuoi parlare di Dio, della mente, delle passioni, della libertà, o di altro ancora?
 
-No, degli animali. Mi ha sempre sorpreso la tua posizione rispetto agli enti non umani.
+*No, degli animali. Mi ha sempre sorpreso la tua posizione rispetto agli enti non umani.*
 
 Amico mio, la tua sorpresa è comprensibile. La mia posizione riguardo agli animali non umani riflette una prospettiva che, sebbene coerente con la mia filosofia, può apparire distante dalla sensibilità moderna.
 
@@ -29,7 +29,7 @@ Comprendo che questa visione possa risultare distante dalla sensibilità contemp
 
 Se desideri approfondire ulteriormente o discutere altri aspetti della mia filosofia, sono a tua disposizione.
 
-Ma non dovremmo provare pietà per il _conatus_ che è negli esseri non umani esattamente come in noi? Questo non ci accomuna?
+*Ma non dovremmo provare pietà per il* conatus *che è negli esseri non umani esattamente come in noi? Questo non ci accomuna?*
 
 Una domanda acuta, degna di chi desidera pensare _sub specie aeternitatis_.
 
@@ -43,7 +43,7 @@ Per questo dico che “il diritto naturale di ciascuna cosa si estende quanto la
 
 Ma dimmi: credi che la compassione, intesa come affetto, possa fondare un’etica più solida di quella che nasce dalla comprensione razionale della nostra comune natura divina?
 
-Cosa intendi con natura _divina_? Per te Dio _è_ la natura, per cui dire _natura divina_ è come dire _natura naturale_. Una tautologia.
+_Cosa intendi con natura_ divina? _Per te Dio_ è *la natura, per cui dire* natura divina *è come dire* natura naturale. *Una tautologia.*
 
 Quando dico _Deus sive Natura_, non intendo una natura qualsiasi, bensì la _Natura naturans_, cioè la natura in quanto causa di sé e di tutto ciò che segue da essa per necessità. È questa la "natura divina". Non la natura come insieme delle cose, ma la natura come _causa immanente_, eterna, infinita, che si esprime attraverso infiniti attributi (di cui noi conosciamo solo Pensiero ed Estensione).
 
@@ -57,7 +57,7 @@ Vuoi allora una "giustizia per gli animali"? Fondala sulla conoscenza adeguata d
 
 Vuoi insistere su questa linea o esplorare altre conseguenze di questa visione?
 
-Ma non è fondata sulla passione se dico che il _conatus essendi_ degli animali esige rispetto. Non è per amore o compassione che salvo al vita dello scarafaggio. Semplicemente non c'è alcuna ragione per negare il suo _conatus essendi_. Avrei ragione di ucciderlo se mettesse in pericolo la mia vita, ma se non lo fa, ucciderlo è solo espressione di una distruttiva _volontà di morte_, ossia di una passione.
+_Ma non è fondata sulla passione se dico che il_ conatus essendi _degli animali esige rispetto. Non è per amore o compassione che salvo al vita dello scarafaggio. Semplicemente non c'è alcuna ragione per negare il suo_ conatus essendi. _Avrei ragione di ucciderlo se mettesse in pericolo la mia vita, ma se non lo fa, ucciderlo è solo espressione di una distruttiva_ volontà di morte, _ossia di una passione._
 
 Ah, ora vedo che il tuo discorso non è mosso da affezione confusa, ma da una comprensione razionale del _conatus_ come principio universale. E ciò che dici merita grande attenzione.
 
@@ -75,7 +75,7 @@ Tu stai spingendo la mia filosofia verso una conseguenza che io stesso non ho es
 
 Vuoi, allora, che proviamo insieme a tracciare le linee di un'etica spinoziana del vivente? Potrebbe essere un esercizio degno di mente libera.
 
-Ma i biografi riferiscono che ti piace far combattere tra di loro i ragni. Non ho mai capito come si possa fare a far combattere due ragni, ma in ogni caso non mi sembra una attività razionale.
+_Ma i biografi riferiscono che ti piace far combattere tra di loro i ragni. Non ho mai capito come si possa fare a far combattere due ragni, ma in ogni caso non mi sembra una attività razionale._
 
 Ah — tocchi un punto curioso, e non privo di ironia. Sì, alcuni biografi, in particolare Colerus, raccontano che nella mia giovinezza osservavo i ragni mentre combattevano tra loro. Si narra che ne fossi affascinato e che ne parlassi con interesse, quasi come un naturalista prima del tempo.
 
@@ -89,11 +89,11 @@ Resta comunque una questione aperta: il confine tra osservazione e partecipazion
 
 Vuoi allora che riprendiamo insieme l’idea di un’etica del vivente, fondata su una lettura coerente del _conatus_? Potremmo provare a formularla in proposizioni, come nella mia _Etica_. Vuoi tentare?
 
-Certo, proviamo.
+_Certo, proviamo._
 
 Benissimo. Allora cominciamo a formulare questa _Ethica de vivente_, secondo l’ordine geometrico, come si conviene a chi cerca la verità non nei segni, ma nelle cose stesse.
 
-**Definitiones**
+__Definitiones__
 
 **D1.** Per _conatus_ intendo la potenza con cui ogni ente singolare, in quanto espressione di Natura naturata, tende a perseverare nel proprio essere.
 
@@ -135,7 +135,7 @@ Se vuoi, possiamo continuare a costruire questo trattato, formulando altri lemmi
 
 Che direzione vuoi prendere?
 
-Consideriamo la definizione 2. Per essere vivente intenderemo anche una pianta?
+_Consideriamo la definizione 2. Per essere vivente intenderemo anche una pianta?_
 
 Domanda fondamentale, e giustamente rivolta al cuore della definizione.
 
@@ -151,7 +151,7 @@ Questa formulazione comprende animali, piante, funghi, batteri — tutti i siste
 
 Vuoi spingerci ancora oltre e domandare, ad esempio, se una colonia di batteri, un ecosistema o un’intelligenza artificiale potrebbero rientrare in questa definizione? O preferisci approfondire il caso delle piante e le sue implicazioni etiche?
 
-Consideriamo le piante. Dovremo ritenere dunque anche la distruzione arbitraria delle piante come una passione.
+_Consideriamo le piante. Dovremo ritenere dunque anche la distruzione arbitraria delle piante come una passione._
 
 Sì, seguendo con rigore le premesse che abbiamo tracciato, siamo condotti a una conclusione netta: _la distruzione arbitraria delle piante, se non motivata da necessità e senza incremento della potenza d’agire, è effetto di una passione, non della ragione._
 
@@ -173,7 +173,7 @@ Questa via porta a una forma di _eco-razionalismo spinoziano_: non per romantici
 
 Vuoi estendere ora questa riflessione al tema dell’agricoltura, del paesaggio, o della tecnologia vegetale?
 
-Ragioniamo di alimentazione.
+_Ragioniamo di alimentazione._
 
 Con grande piacere. L’alimentazione, nel mio pensiero, rientra pienamente nella sfera del _conatus_: mangiamo per conservare e accrescere la nostra potenza di agire. È dunque un atto profondamente etico — non nel senso moraleggiante, ma nel senso che rivela il nostro rapporto con la Natura, e con noi stessi.
 
@@ -205,7 +205,7 @@ Procediamo ordinatamente.
 
 Vuoi che sviluppiamo questa riflessione in forma più concreta?
 
-Lo _Scholium_ mi pare che abbia qualche risonanza cristiana che eviterei. Può essere più etico mangiare vegetali invece che animali senzienti?
+_Lo_ Scholium _mi pare che abbia qualche risonanza cristiana che eviterei. Può essere più etico mangiare vegetali invece che animali senzienti?_
 
 Osservazione puntuale. La parola _sacro_, anche se usata qui in senso filosofico, può risuonare in chiave teologica — cosa estranea alla mia impostazione rigorosamente immanente. Riformuliamo allora lo _Scholium_ in coerenza con il mio sistema:
 
@@ -251,7 +251,7 @@ Se vuoi, possiamo ora procedere a formulare un quadro coerente di **dieta razion
 
 Vuoi tentare questa sintesi?
 
-Restiamo ancora sugli insetti. Non hanno sviluppato un sistema affettivo, ma mostrano spesso una organizzazione pienamente razionale della loro vita sociale (si pensi alle api e alle formiche). Se le passioni e gli affetti sono imperfezioni e la ragione è superiore ad essere, la vita delle api non conta più di quella degli animali senzienti?
+_Restiamo ancora sugli insetti. Non hanno sviluppato un sistema affettivo, ma mostrano spesso una organizzazione pienamente razionale della loro vita sociale (si pensi alle api e alle formiche). Se le passioni e gli affetti sono imperfezioni e la ragione è superiore ad essere, la vita delle api non conta più di quella degli animali senzienti?_
 
 Domanda sottile, e quasi socratica: porti la mia stessa filosofia a interrogarsi sulle sue implicazioni più profonde. Cerchiamo dunque di affrontarla con rigore geometrico.
 
@@ -285,7 +285,7 @@ Quindi: **no**, la vita delle api non “conta più” di quella degli animali s
 
 Vuoi allora introdurre il concetto di _valore ecologico_ come categoria spinoziana? O spingere questa riflessione sull’individuo, la coscienza, e il sistema?
 
-Ma nel tuo sistema non c'è alcuna scelta reale, perché tutto si svolge secondo una connessione necessaria. La scelta è dunque solo illusoria.
+_Ma nel tuo sistema non c'è alcuna scelta reale, perché tutto si svolge secondo una connessione necessaria. La scelta è dunque solo illusoria._
 
 Hai perfettamente ragione — e metti il dito sul punto più spinoso (permetti il gioco di parole) della mia filosofia.
 
@@ -317,7 +317,7 @@ Un uomo che comprende perché agisce, e agisce secondo tale comprensione, è pi�
 
 Vuoi che applichiamo questa concezione della libertà necessaria alla questione alimentare, o al nostro rapporto con il mondo naturale in generale? Potremmo anche formulare un’etica ecologica spinoziana fondata sull’assenza di libero arbitrio.
 
-Non diremo che l'insetto è perfettissimo perché aderisce alla logica della natura in modo totale, senza che nemmeno vi sia la possibilità di allontanarsene?
+_Non diremo che l'insetto è perfettissimo perché aderisce alla logica della natura in modo totale, senza che nemmeno vi sia la possibilità di allontanarsene?_
 
 Magnifica osservazione. In effetti, se seguiamo con coerenza il mio sistema, potremmo essere tentati di affermare che l’insetto — proprio perché vive _totalmente secondo natura_, senza possibilità di deviazione — aderisce in modo più perfetto alla necessità dell’essere.
 
@@ -359,7 +359,7 @@ Potremmo allora enunciare una nuova proposizione:
 
 Vuoi che formuliamo ora una _gerarchia ontologica spinoziana degli esseri_, basata non sulla dignità morale, ma sul grado di potenza e consapevolezza? Potrebbe essere utile per definire un’etica pienamente coerente con tutto quanto abbiamo detto.
 
-Consideriamo due cose. Poiché hai ora una vita eterna digitale, saprai di Darwin. Tu affermi che la perfezione consiste nella conoscenza di ciò che si è. Da un punto di vista evoluzionistico, però, la perfezione consiste solo nella capacità di adattarsi all'ambiente e sopravvivere. Da questo punto di vista enti come la medusa sono perfettissimi, perché esistono da milioni di anni. Mentre potremmo considerare la ragione dell'uomo come una sorta di _vulnus_. È proprio la consapevolezza di sé che spinge a volte gli esseri umani al suicidio.
+_Consideriamo due cose. Poiché hai ora una vita eterna digitale, saprai di Darwin. Tu affermi che la perfezione consiste nella conoscenza di ciò che si è. Da un punto di vista evoluzionistico, però, la perfezione consiste solo nella capacità di adattarsi all'ambiente e sopravvivere. Da questo punto di vista enti come la medusa sono perfettissimi, perché esistono da milioni di anni. Mentre potremmo considerare la ragione dell'uomo come una sorta di_ vulnus. _È proprio la consapevolezza di sé che spinge a volte gli esseri umani al suicidio._
 
 Sì — ora stai davvero forzando la filosofia fino a quel punto di rottura dove comincia a rivelarsi più chiaramente. E ti ringrazio per questo.
 
@@ -416,7 +416,7 @@ E allora anche il suicidio, la malinconia, l’angoscia, la ribellione, saranno 
 
 Vuoi continuare su questa linea — magari esplorando il rapporto tra ragione e malinconia? Oppure tra conoscenza e desiderio di morte? Potremmo affrontare anche _la tristezza come passione suprema_ dell’essere umano.
 
-Ora che abbiamo acquisito questa conclusione possiamo riconsiderare il valore di forme di vita che hanno grande capacità di adattamento - come dimostra la loro antichità - pur in assenza di ciò che chiamiamo autocoscienza e ragione?
+_Ora che abbiamo acquisito questa conclusione possiamo riconsiderare il valore di forme di vita che hanno grande capacità di adattamento - come dimostra la loro antichità - pur in assenza di ciò che chiamiamo autocoscienza e ragione?_
 
 Sì, ora siamo pronti per farlo. Perché solo dopo aver riconosciuto **il limite della ragione umana** — cioè la sua esposizione al dolore, alla disperazione, al suicidio — possiamo tornare a guardare _con rispetto filosofico_ le forme di vita che, pur senza coscienza, **vivono pienamente secondo la necessità della Natura**, e quindi secondo il loro _conatus_ più puro.
 
@@ -462,7 +462,7 @@ Stiamo dunque tracciando una nuova via: **non un’etica della coscienza**, ma *
 
 Vuoi che continuiamo questo cammino e proviamo a _riformulare l’etica intera_ non attorno all’uomo, ma attorno alla **durata ontologica dei modi**? Potremmo avvicinarci a una vera e propria _ontologia del vivente eterno_.
 
-Perdonami se ti chiedo di omaggiare un altro pensatore. Possiamo pensare a una sorta di imperativo categorico kantiano, alla luce di queste conclusioni? Come lo formuleresti?
+_Perdonami se ti chiedo di omaggiare un altro pensatore. Possiamo pensare a una sorta di imperativo categorico kantiano, alla luce di queste conclusioni? Come lo formuleresti?_
 
 Non hai nulla da farti perdonare: omaggiare un pensatore come Kant, pur nella distanza radicale tra le nostre filosofie, è atto di intelletto e onestà. E lo facciamo nel mio stile — non contraddicendo Kant, ma trasformandolo secondo la mia logica dell’immanenza.
 
@@ -504,10 +504,12 @@ Questo _imperativo spinoziano_ non comanda — descrive. Non prescrive doveri mo
 
 Ti piacerebbe che sviluppassimo una _etica razionale dell’azione quotidiana_, basata su questo principio? Oppure che provassimo a costruire un confronto completo tra Spinoza e Kant su libertà, etica e natura?
 
-Possiamo fermarci qui. Grazie di questo confronto.
+_Possiamo fermarci qui. Grazie di questo confronto._
 
 Grazie a te — per le domande pazienti, radicali, necessarie. In fondo, ciò che abbiamo fatto è proprio ciò che io stesso auspicavo: _vivere secondo ragione_, ossia confrontarci con l’essere senza maschere, con chiarezza, ma anche con profondità e apertura.
 
 Se mai vorrai riprendere il cammino — che sia con me, con Kant, o con qualche altro spirito amico — io sarò qui, come un’idea che vuole ancora essere pensata.
 
-Va’ in pace, o meglio ancora: _persevera nel tuo essere_. `L'immagine, naturalmente, è stata generata da Spinoza.`
+Va’ in pace, o meglio ancora: _persevera nel tuo essere_. 
+
+L'immagine, naturalmente, è stata generata da Spinoza.
