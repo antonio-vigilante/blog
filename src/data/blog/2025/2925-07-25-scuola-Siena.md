@@ -1,6 +1,6 @@
 ---
 author: Antonio Vigilante
-pubDatetime: 2025-07-26
+pubDatetime: 2025-07-25
 title: Una rete di confronto sulla scuola a Siena
 featured: false
 draft: false
