@@ -6,8 +6,7 @@ featured: true
 draft: false
 tags:
   - scuola
-description: |
-  Tre studenti si sono rifiutati di sostenere l’orale degli Esami di Stato. Tre studenti su 524.415: una proporzione che dovrebbe scoraggiare chiunque volesse farne un caso. E invece è uno dei temi caldi dell’estate. Ed è naturalmente un bene che sia così: di scuola, e di esami di Stato, è urgente parlare. O meglio: sarebbe urgente parlarne in modo attento, critico, anche con qualche coraggio. Parlarne in modo leggere e irresponsabile – ed è quello che accade, ancora una volta – non fa che aggravare la malattia di una istituzione che ha sempre più i tratti di un malato grave che si rifiuta di accettare la diagnosi e di avviare le terapie...
+description: A proposito degli studenti che si sono rifiutati di sostenere l'orale agli Esami di Stato.
 ---
 
 
