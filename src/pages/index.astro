@@ -35,7 +35,8 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
     />
 
     <!-- Linea verticale -->
-    <div class="h-20 border-l border-gray-400"></div>
+     <div class="h-20 border-l border-gray-400"></div>
+    
     
     <h1 class="text-3xl font-bold sm:text-
 5xl">
@@ -44,11 +45,10 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
  </div>
          
       <p class="post-excerpt">
-     Sei capitato in un vicolo della Rete. Un vicolo minimo, poco frequentato. Può essere che sia perfino un vicolo cieco. Ma non servono forse anche i vicoli ciechi?</p>
+     Essere umano. Scrivo per non dimenticarmi.</p>
      <p>&nbsp;</p>
    <p><a href="rss.xml">RSS</a> | <a href="mailto:antoniovigilante@autistici.org">Email</a></p>
           </section>
-
     {
       featuredPosts.length > 0 && (
         <>
@@ -60,7 +60,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
               ))}
             </ul>
           </section>
-          {recentPosts.length > 0 && <Hr />}
+          // {recentPosts.length > 0 && <Hr />}
         </>
       )
     }
