@@ -1,4 +1,4 @@
----
+ ---
 import { getCollection } from "astro:content";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
@@ -23,11 +23,12 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 <Layout>
   <Header />
   <main id="main-content" data-layout="index">
-    <section id="hero" class="pt-8 pb-6">
-   
-<!-- Inserire qui eventuale immagine di copertina -->
-   
-  <div class="flex items-center space-x-4 my-4 sm:my-8">
+        <section id="hero" class="pt-8 pb-6">
+                      
+      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
+      
+      <div class="flex items-center space-x-4 my-4 sm:my-8">
+      
     <img
       src="/images/io.jpg"
       alt="Logo"
@@ -35,32 +36,55 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
     />
 
     <!-- Linea verticale -->
-     <div class="h-20 border-l border-gray-400"></div>
-    
-    
-    <h1 class="text-3xl font-bold sm:text-
-5xl">
-      Blog di Antonio Vigilante.
-    </h1>
- </div>
-         
-      <p class="post-excerpt">
-     Essere umano. Scrivo per non dimenticarmi.</p>
-     <p>&nbsp;</p>
-   <p><a href="rss.xml">RSS</a> | <a href="mailto:antoniovigilante@autistici.org">Email</a></p>
-          </section>
+    <div class="h-20 border-l border-gray-400"></div>
+      <p></p>
+      
+        Blog di Antonio Vigilante.
+      </h1>
+      <a
+        target="_blank"
+        href="/rss.xml"
+        class="inline-block"
+        aria-label="rss feed"
+        title="RSS Feed"
+      >
+        <IconRss
+          width={20}
+          height={20}
+          class="scale-125 stroke-accent stroke-3 rtl:-rotate-90"
+        />
+        <span class="sr-only">RSS Feed</span>
+      </a>
+
+      <p>
+       "Ricordati che non è un disonore smarrirsi nell'immensa foresta della vita." (Janusz Korczack, <em>Come amare il bambino</em>)
+      </p>
+      
+      {
+        // only display if at least one social link is enabled
+        SOCIALS.length > 0 && (
+          <div class="mt-4 flex flex-col sm:flex-row sm:items-center">
+           
+            <Socials />
+          </div>
+        )
+      }
+    </section>
+
+    <Hr />
+
     {
       featuredPosts.length > 0 && (
         <>
           <section id="featured" class="pt-12 pb-6">
-            <h2 class="text-2xl font-semibold tracking-wide">In evidenza</h2>
+            <h2 class="text-2xl font-semibold tracking-wide">In<em>evidenza</em></h2>
             <ul>
               {featuredPosts.map(data => (
                 <Card variant="h3" {...data} />
               ))}
             </ul>
           </section>
-          // {recentPosts.length > 0 && <Hr />}
+          {recentPosts.length > 0 && <Hr />}
         </>
       )
     }
@@ -68,7 +92,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
     {
       recentPosts.length > 0 && (
         <section id="recent-posts" class="pt-12 pb-6">
-          <h2 class="text-2xl font-semibold tracking-wide">Ultime cose</h2>
+          <h2 class="text-2xl font-semibold tracking-wide">Recenti</h2>
           <ul>
             {recentPosts.map(
               (data, index) =>
@@ -81,7 +105,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 
     <div class="my-8 text-center">
       <LinkButton href="/posts/">
-        Tutti gli articoli
+        All Posts
         <IconArrowRight class="inline-block rtl:-rotate-180" />
       </LinkButton>
     </div>
