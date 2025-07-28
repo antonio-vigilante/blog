@@ -1,5 +1,6 @@
 import type { Props } from "astro";
 import IconMail from "@/assets/icons/IconMail.svg";
+import IconRss from "@/assets/icons/IconRss.svg";
 import IconMastodon from "@/assets/icons/IconMastodon.svg";
 import IconGitHub from "@/assets/icons/IconGitHub.svg";
 import IconBrandX from "@/assets/icons/IconBrandX.svg";
@@ -18,6 +19,21 @@ interface Social {
 }
 
 export const SOCIALS: Social[] = [
+
+{
+    name: "RSS",
+    href: "https://antoniovigilante.pages.dev/rss.xml",
+    linkTitle: `${SITE.title} RSS`,
+    icon: IconRss,
+  },
+  
+  {
+    name: "Mastodon",
+    href: "https://poliversity.it/@antoniovigilante",
+    linkTitle: `${SITE.title} Mastodon`,
+    icon: IconMastodon,
+  },
+  
   {
     name: "GitHub",
     href: "https://github.com/antonio-vigilante",
