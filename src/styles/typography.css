@@ -3,10 +3,7 @@
 @layer base {
   .app-prose {
     @apply prose;
-    font-family: 'Segoe UI', system-ui, sans-serif;
-    font-size: 1rem;
-    line-height: 1.75;
-  }
+     }
   
 
   .app-prose blockquote p {
