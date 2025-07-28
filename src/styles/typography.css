@@ -94,12 +94,7 @@
   pre {
     @apply focus-visible:border-transparent focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-dashed;
   }
-
-  /*==== Anteprima del post in homepage ==== */
-  .post-excerpt {
-    font-family: 'Segoe UI', sans-serif;
-    line-height: 1.7;
-  }
+  
 
   /* ===== Code Blocks & Syntax Highlighting ===== */
   .astro-code {
