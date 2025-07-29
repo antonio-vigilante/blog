@@ -66,7 +66,7 @@ Se Dio è Trinità, e una Trinità queer, non sessuata, accogliente, come dobbia
 
 Come ogni persona della Trinità ama l’altra nella raffigurazione circolare e orizzontale dell’icona di Rublev, così è possibile amare in una famiglia queer. La Trinità è il prologo in cielo di una scena che dovrà svolgersi qui sulla terra. La scena dell’amore vero. Che è sempre caratterizzato dalla presenza del terzo. E qui Murgia cita Teresa Forcades:
 
-L’esperienza amorosa dell’io e del tu è diversa, non può essere condivisa. Soltanto quando amano una terza persona, l’io e il tu condividono completamente la stessa esperienza di amore e ciò reca loro la completa felicità e porta a compimento la dinamica intrinseca dell’amore.
+> L’esperienza amorosa dell’io e del tu è diversa, non può essere condivisa. Soltanto quando amano una terza persona, l’io e il tu condividono completamente la stessa esperienza di amore e ciò reca loro la completa felicità e porta a compimento la dinamica intrinseca dell’amore.
 
 A fare difficoltà, in questo testo, è quel _soltanto_. Che riduce la complessità, la ricchezza e anche l’inevitabile, dolorosa contraddittorietà dell’amore umano a un unico modello, dal presunto fondamento metafisico. **Un gesto teologico e politico che è violento, perché violente sono le conseguenze possibili sulla vita delle persone reali, cui si chiede di pensarsi avendo come modello le Persone divine.** 
 

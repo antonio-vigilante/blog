@@ -1,0 +1,21 @@
+---
+title: "La miseria affettiva e relazionale della scuola"
+author: Antonio Vigilante
+pubDatetime: 2023-11-23
+tags: 
+  - scuola
+description: "Gli studenti hanno bisogno di educazione. Hanno bisogno, cioè, di relazione. Dietro il loro malessere, dietro gli stessi comportamenti provocatori, c'è questa domanda di relazione autentica..."
+---
+
+Sono stato qualche giorno fa in una scuola media per fare orientamento. Appena entrato, gli studenti sono scattati in piedi, e sono rimasti così, rigidi come soldatini, fino a quando ho fatto cenno loro di sedersi. Accorgendomi, peraltro, di aver probabilmente violato qualche tacito protocollo: probabilmente spettava alla docente dare il permesso di sedersi.
+
+Al liceo - ma non in tutti - gli studenti non si alzano all'ingresso del docente. Quando vi arrivano, però, hanno interiorizzato dopo anni e anni di scuola una certa visione del docente: il piccolo caporale della cultura che ha il potere di farti scattare in piedi, di farti sedere, di dirti come devi stare seduto, quando puoi bere o andare in bagno, eccetera. Hanno interiorizzato una concezione onestamente militare della disciplina scolastica. E per molti questo è un bene. Per molti è esattamente questa l'educazione. Imparare quando ci si può alzare, quando si si può sedere, eccetera. Stare nelle regole. Rispettare l'autorità. Contenersi.
+
+Naturalmente non condivido questa concezione dell'educazione. Ritengo che quello dell'educazione sia esattamente il movimento contrario: espandersi, piuttosto che stare in una forma precostituita. Sono convinto che non sia possibile nessuna educazione senza una relazione umana viva, autentica e profonda. E non è evidentemente possibile nessuna relazione viva, autentica e profonda in un contesto ispirato alla disciplina militare.
+
+Per questo sono molto scettico quando, come si fa ora dopo l'ennesimo femminicidio, sento parlare di educazione affettiva o sentimentale a scuola. O meglio: dell'_ora di educazione affettiva o sentimentale_. A quanto pare non c'è problema sociale che non si possa risolvere con un'_ora_. Un'ora, evidentemente, di puro miracolo, durante la quale la scuola riesce a fare ciò che non le riesce in tutte le altre.
+
+Se la scuola fosse quello che dev'essere non vi sarebbe bisogno di alcuna educazione affettiva. Se la scuola fosse l'ambiente in cui quotidianamente gli studenti ed i docenti si confrontano su tutto, stabilendo relazioni profonde ed autentiche, non viziate dall'autorità e dal potere e libere dal controllo e dal giudizio, essa sarebbe un ambiente in cui ci si educa a relazioni umane libere dalla violenza. Non lo è. E non lo è perché ha su di sé, ancora, il peso secolare dell'autorità, della disciplina, del giudizio. Perché non è mai riuscita a risolvere la sua ambiguità di fondo: da una parte la pretesa di educare, ossia di _prendersi cura delle persone che le sono affidate_, dall'altra il suo retaggio militar-giudiziario - la prassi della selezione, del giudizio, del disciplinamento, dell'esclusione. Ed è questa ambiguità che rende la scuola un ambiente particolarmente pericoloso per la salute psichica degli studenti. Se fosse solo un ambiente in cui si disciplina e si giudica, gli studenti saprebbero come comportarsi: si alzerebbero quando occorre, come soldatini. Le regole sarebbero chiare. Ma la scuola ha anche la pretesa di educare. Il piccolo caporale della cultura indossa anche la maschera benevola del direttore di anime, o qualcosa del genere. Dietro la quale però traspare ancora il volto triste del caporale.
+
+Gli studenti hanno bisogno di educazione. Hanno bisogno, cioè, di relazione. Dietro il loro malessere, dietro gli stessi comportamenti provocatori, c'è questa domanda di relazione autentica. Chiedono di potersi confrontare con adulti significativi, che sappiano e vogliano comunicare con loro in modo autentico. Trovano, per lo più, figure lontane, seppellite dietro il ruolo, spesso incapaci di una relazione che non sia mediata dal giudizio, perfino dal voto. E non mi meraviglierei se comparisse tra gli altri il voto per l'affettività o i sentimenti. Che gli studenti impareranno a simulare, come imparano a simulare tutto il resto, in un ambiente in cui a predominare sono la falsità e l'inautenticità.
+ 
