@@ -14,4 +14,4 @@ Questa proposta, rivolta alla mia quarta del prossimo anno, prevede che all'iniz
 
 Questa è una bozza. Ogni contributo critico è ben accetto.
 
-[Scarica PDF](/src/data/PDF/Vigilante_Progettazione_condivisa.pdf)
+[Scarica PDF](/PDF/Vigilante_Progettazione_condivisa.pdf)
