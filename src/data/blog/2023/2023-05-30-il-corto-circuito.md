@@ -1,0 +1,21 @@
+---
+title: "Il corto circuito"
+author: Antonio Vigilante
+pubDatetime: 2023-05-30
+tags: 
+  - scuola
+description: "Una persona ferisce con un coltello - un'arma bianca, scrive un articolo che riprende l'italiano disarmante dei rapporti di polizia - un'altra persona. Ferite non gravi, roba da codice giallo. Una non notizia. Diventa notizia perché la persona ferita è una professoressa e l'aggressore è uno studente. E non diventa solo una notizia. Diventa una notizia in base alla quale è possibile trarre conclusioni generali sugli studenti di oggi, le loro famiglie e chissà quanto altro..."
+---
+
+
+Una persona ferisce con un coltello - un'_arma bianca_, scrive un articolo che riprende l'italiano disarmante dei rapporti di polizia - un'altra persona. Ferite non gravi, roba da codice giallo. Una non notizia. Diventa notizia perché la persona ferita è una professoressa e l'aggressore è uno studente. E non diventa solo una notizia. Diventa una notizia in base alla quale è possibile trarre conclusioni generali sugli studenti di oggi, le loro famiglie e chissà quanto altro.
+
+Il ministro si è affrettato a dire che nelle scuole serve lo psicologo. Una delle cose di cui fatico a capacitarmi è la fiducia che un Paese sfiduciato come il nostro ha ancora negli psicologi. Non ci fidiamo dei politici, non ci fidiamo dei docenti, non ci fidiamo dei preti, ma siamo assolutamente certi che persone che spesso si sono formate su concezioni non meno fantasiose di quelle che si insegnano in seminario possano risolvere tutto: sistemare la maglia strappata della nostra società, mettere a posto i cocci della nostra identità, ripescare la voglia di vivere dal baratro delle nostre quotidianità. Ed ecco dunque uno di loro - uno psicanalista!- dichiarare immancabilmente a _Repubblica_ che "Siamo al corto circuito tra una scuola sempre più fragile e una famiglia che giustifica tutto”. Nell'occhiello si può leggere il corollario di questo luminoso teorema: "L'incapacità dei nostri ragazzi di elaborare le sconfitte può sfociare nella violenza".
+
+Io insegno a più di cento ragazzi. Insegno in un Liceo delle Scienze Umane e in un Liceo Economico-Sociale. Quest'ultimo è un indirizzo di poco valore, o almeno così pare, dal momento che il governo vuole cancellarlo - senza nessun dibattito pubblico e senza ascoltare chi ci lavora - per sostituirlo con il meraviglioso Liceo del Made in Italy. Ogni giorno incontro decine di studenti con problemi personali - di salute, economici, famigliari - assolutamente spaventosi. Problemi che piegherebbero in due la maggior parte degli adulti che conosco, me compreso. Alcuni di loro sono fragili. Altri hanno una forza che suscita in me una ammirazione incondizionata. Studenti che finita la scuola si rimboccano le maniche e vanno a lavorare come camerieri fino a notte fonda. Studenti che vivono da soli perché i genitori sono altrove, e da soli si mantengono. Studenti che sostengono sulle loro spalle il peso di genitori malati, o alcolizzati, o peggio. Studenti che dai genitori sono picchiati e umiliati quotidianamente.
+
+Che non vi sia nulla di razionale nel generalizzare un caso di cronaca traendo conclusioni su _tutti_ i ragazzi di oggi lo capisce anche un bambino. Non c'è bisogno di studiare la logica. Ma a quanto pare le leggi della logica, come altri elementari principi di buon senso, si ritraggono rispettosamente quando si parla di adolescenti. Mentre diventano ferree, invece, quando si parla ad esempio di forze dell'ordine. Sulle prime pagine dei giornali c'è il caso dei poliziotti locali che hanno manganellato una donna transessuale. Una violenza assurda, documentata da un filmato, ma nessuno trarrà conclusioni sulla violenza delle forze dell'ordine, e meno che mai sulla violenza degli _adulti d'oggi_. Quando i casi di violenza di membri delle forze dell'ordine sono accertati con sentenze passate in giudicato, si parla delle _mele marce_, che purtroppo sono ovunque. Ovunque, tranne che nelle classi.
+
+"L'incapacità dei nostri ragazzi di elaborare le sconfitte", dice lo psicanalista. Aggiungerei, da docente, che le sconfitte che i _nostri ragazzi_ si trovano quotidianamente a elaborare sono per lo più quelle dei loro genitori. E che l'incapacità di altri adulti di elaborare le sconfitte sta portando il mondo intero sull'orlo di una nuova guerra mondiale.
+
+

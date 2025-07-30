@@ -4,7 +4,7 @@ author: Antonio Vigilante
 pubDatetime: 2024-02-17
 tags: 
   - Pulsatilla
-  - violenza-sessuale
+  - violenza sessuale
 description: "Da femminista - sequendo un suo femminismo - Pulsatilla ritiene che una donna non abbia il diritto che ha un uomo, di lasciarsi andare come e quando vuole, di rendersi anche vulnerabile senza che qualcuno ne approfitti. È una vittima ambulante in una società in cui è stata dichiarata una guerra contro di lei. Il lupo può star tranquillo. Avrà tutta la nostra comprensione, lo ringrazieremo perfino per aver incarnato così bene un archetipo e per aver aiutano l’ingenua bambina a diventare una donna. Magari una donna che, facendo tesoro della sua esperienza e di quella delle sue sorelle, scrive articoli simili."
 ---
 
