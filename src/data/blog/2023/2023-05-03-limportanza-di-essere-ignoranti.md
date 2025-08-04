@@ -4,7 +4,7 @@ author: Antonio Vigilante
 pubDatetime: 2023-05-03
 tags: 
   - Upanishad
-  - Scri AUrobindo
+  - Sri Aurobindo
   - note di apprendistato
 description: "L'ignoranza nera di chi non segue che la conoscenza. Vale a dire: di chi pensa che l'Uno annulli il molteplice."
 ---
