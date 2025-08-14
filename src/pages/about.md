@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "ego etc."
+title: "Ego etc."
 ---
 ![Io e Mirò a Ponte allo Spino](/images/ponte-allo-spino.jpg)
 

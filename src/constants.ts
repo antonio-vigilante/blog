@@ -20,6 +20,8 @@ interface Social {
 
 export const SOCIALS: Social[] = [
 
+  
+
 {
     name: "RSS",
     href: "https://antoniovigilante.pages.dev/rss.xml",
