@@ -2,7 +2,7 @@
 author: Antonio Vigilante
 pubDatetime: 2025-07-12
 title: La scuola e la visione aziendale della vita
-featured: true
+featured: false
 draft: false
 tags:
   - scuola
