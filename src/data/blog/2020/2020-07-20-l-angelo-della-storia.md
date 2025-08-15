@@ -40,4 +40,4 @@ Sarei insincero se dicessi di aver compreso questo passo, ma avverto il fascino 
 [^4] W. Benjamin, _Angelus Novus_, tr. it. Einaudi, Torino 1961, p. 80.
 
 
-_[Gli Stati Generali](https://www.glistatigenerali.com/scuola/177865/)_\[/read\]
+_[Gli Stati Generali](https://www.glistatigenerali.com/scuola/177865/).
