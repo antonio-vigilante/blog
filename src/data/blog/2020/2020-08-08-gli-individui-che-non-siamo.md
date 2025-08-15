@@ -1,0 +1,30 @@
+---
+title: "Gli individui che non siamo"
+author: Antonio Vigilante
+pubDatetime: 2020-08-08
+tags: 
+  - "Buddhismo"
+  - "filosofia"
+  - "Paolo Godani"
+  - "recensioni"
+description: Una lettura di "Tratti" di Paolo Godani.
+---
+
+Il re greco Menandro, che regnò nel secondo secolo a.C. su un territorio che comprendeva l’India del nord e l’attuale Pakistan, fu con ogni probabilità uno dei primi occidentali convertiti al buddhismo, grazie ai lunghi dialoghi con un saggio buddhista, Nagasena, registrati in uno dei testi più importanti del buddhismo antico, il _Milindapañha_ (Milinda è il nome greco del re). 
+
+Al re che gli chiede il suo nome, il saggio buddhista risponde di chiamarsi Nagasena, ma precisa che si tratta solo di una convenzione, “perché nessuna persona è presente qui” (_Milinda’s Questions_, Luzac & Company, London 1969, vol I, p.34). Il re resta sconcertato. Come può essere che Nagasena dica una cosa del genere? Come può essere che lì, di fronte a lui, dica di non esistere? Non è diverso lo sconcerto – lo choc culturale – di un occidentale di oggi quando si avvicina al pensiero buddhista. 
+
+Fin dalle sue radici greche, la visione del mondo occidentale è fondata su tre cose: la solidità delle cose, assicurata dall’idea di sostanza; la solidità, razionalità, comprensibilità del mondo, assicurata dall’esistenza di Dio; la solidità di noi stessi, che nemmeno la morte può intaccare: l’immortalità dell’anima. A partire dall’età moderna questi tre pilastri dell’Occidente sono stati progressivamente attaccati, fino a sgretolarsi. Il mondo ordinato, solido, strutturato gerarchicamente come un sistema di enti con al centro l’uomo (proprio nel senso di maschio) entra in crisi sotto i colpi congiunti della scienza e del libero pensiero, mentre l’ascesa della borghesia spazza via i rapporti di produzione feudali. La morte di Dio annunciata da Nietzsche è il momento più noto, ma non necessariamente il più significativo, di questa lunga decostruzione. L’eclissi di Dio è un dato sociologico: nelle società occidentali il sacro tradizionale ha ormai un ruolo marginale. Restano saldi invece nel senso comune gli altri due pilastri: la certezza della cosa e la certezza dell’io.
+
+
+Queste due certezze attacca uno dei libri più coraggiosi e interessanti prodotti dalla filosofia italiana negli ultimi anni: _Tratti. Perché gli individui non esistono_ di Paolo Godani (Ponte alle Grazie, Milano 2020; il libro è uscito prima in edizione francese con il titolo: _Traits. Une Métaphysique du singulier_). 
+
+La tesi di Godani, che ripercorre il pensiero occidentale da Aristotele ad Heidegger e Deleuze, ma rilegge anche *L’uomo senza qualità* di Musil, è quella del sottotitolo: gli individui non esistono. Non esiste tesi più irritante per il senso comune. L’individuo è ciò che ho di fronte a me, lo vedo, lo tocco, posso anche annusarlo: come dire che non esiste? E tuttavia le cose non sono così semplici. Questa realtà individuale, questa cosa o questa persona qui, è mutevole. Posso guardarla, farne esperienza, ma ogni volta sarà in modo diverso. Non ho mai una esperienza assolutamente identica di una realtà individuale. In cosa consiste allora il suo essere individuo? Dobbiamo postulare, in modo esplicito o implicito, che al di sotto di tutte le modificazioni esista qualcosa, un sostrato stabile, e che questo qualcosa sia l’individuo al di là delle sue modificazioni. 
+
+Il libro di Godani, che sto riguardando ora per scrivere questo articolo, si presenta in un certo modo, con una certa luce dovuta al fatto che mi trovo alla mia scrivania, ed alla mia sinistra ho una finestra aperta con una tenda rossa. Se ora lo portassi in un’altra stanza, il libro apparirebbe diverso, con una diversa luce. Sarebbe lo stesso libro? Sì, pensiamo: è uno stesso libro che si mostra in modo diverso. Così pensando operiamo una distinzione tra un’essenza e le sue caratteristiche contingenti. Ma questa essenza, scrive Godani, è “una X indicibile e impensabile” (p. 145). L’alternativa proposta è quella di pensare “la coappartenanza essenziale dell’essere e delle sue determinazioni” (ivi). Il libro e l’ombra che appare sulla pagina in questo preciso momento; non un libro-essenza che ha ora, qui, questo particolare aspetto. Questo vuol dire pensare la realtà come una costellazione di tratti che si compongono in un certo modo, qui ed ora, ma che sempre possono tornare a comporsi in modi diversi. 
+
+Al re Menandro-Milinda, il saggio Nagasena rispose con il noto paragone del carro. Cos’è un carro, se non un insieme di elementi che non sono carro? Tolti le aste, le ruote, il telaio eccetera, non ne resta nulla. E tuttavia nessuna di queste cose, in sé, è il carro. Lo stesso vale per noi. Come ogni cosa, non siamo che il momentaneo aggregarsi di alcune caratteristiche. Nel libro di Godani il buddhismo compare di sfuggita, attraverso Derek Parfit, uno dei pensatori che con maggior rigore hanno messo in discussione l’identità individuale; ma vi compare nel momento decisivo: quando si tratta di trarre le conclusioni. Se non siamo individui, ma costellazioni di tratti, allora la morte non è (più), come nell’esistenzialismo, il segno della nostra irripetibilità ed autenticità, ma si spezza in “una molteplicità di piccole morti ricorrenti” (p. 223). E si presenta l’idea di una liberazione dall’io che non è davvero diversa dalla via che nel buddhismo conduce al nibbana. 
+
+Il libro di Godani conferma, mi pare, che al di là dei penosi e lucrosi fraintendimenti occidentali della tradizione spirituale orientale – con la meditazione vipassana che diventa mindfulness: una pratica per il trascendimento dell’io messa al servizio della crescita personale – è possibile una convergenza tra i temi più difficili e sofferti del pensiero occidentale contemporaneo e la millenaria riflessione buddhista. Il buddhismo è fin dall’inizio lì dove l’Occidente è sospinto dalla sua vis critica: un mondo fatto di relazioni più che di sostanze, una rete di connessioni che non impiglia, ma libera.
+
+[Gli Stati Generali](https://www.glistatigenerali.com/filosofia/godani/).
