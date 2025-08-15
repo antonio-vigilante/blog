@@ -34,8 +34,8 @@ Sarei insincero se dicessi di aver compreso questo passo, ma avverto il fascino 
 
 [^1]: Bernardino da Siena, _Prediche volgari sul Campo di Siena_, a cura di Carlo Delcorno, Rusconi, Milano 1989, vol. II, pp. 1006-1007. 
 [^2]: Ivi, p. 1007. 
-[^3] D. Corsi, _Diaboliche maledette e disperate. Le donne nei processi per stregoneria (secoli XIV-XVI)_, Firenze University Press, Firenze 2013, p. 83. 
-[^4] W. Benjamin, _Angelus Novus_, tr. it. Einaudi, Torino 1961, p. 80.
+[^3]: D. Corsi, _Diaboliche maledette e disperate. Le donne nei processi per stregoneria (secoli XIV-XVI)_, Firenze University Press, Firenze 2013, p. 83. 
+[^4]: W. Benjamin, _Angelus Novus_, tr. it. Einaudi, Torino 1961, p. 80.
 
 
-_[Gli Stati Generali](https://www.glistatigenerali.com/scuola/177865/).
+[Gli Stati Generali](https://www.glistatigenerali.com/scuola/177865/).
