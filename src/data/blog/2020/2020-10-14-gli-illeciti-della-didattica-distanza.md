@@ -1,0 +1,26 @@
+---
+title: "Gli illeciti della didattica a distanza"
+author: Antonio Vigilante
+pubDatetime: 2020-10-14
+tags: 
+  - "didattica a distanza"
+  - "scuola"
+  - "pandemia"
+description: Far usare ai nostri studenti le piattaforme Google e Microsoft significa esporli a un uso dei loro dati personali che viola i loro diritti di cittadini dell’Unione Europea. E a poco vale il consenso sulla privacy richiesto alle famiglie.
+---
+
+La chiusura improvvisa lo scorso marzo ha costretto le scuole a inventarsi dal nulla o quasi la didattica a distanza; e comprensibilmente sono stati scelti, anche grazie a un discutibilissimo endorsement ministeriale, gli strumenti più familiari e in qualche modo rassicuranti: Google Classroom e Microsoft Office 365. 
+
+Si sperava che l’avvio del nuovo anno scolastico consentisse una riflessione più attenta sugli strumenti e le modalità della didattica a distanza, ma pare invece che sia cambiato poco: la maggior parte delle scuole continua ad affidarsi ai servizi Google e Microsoft. La ragione addotta è spesso che questi servizi garantiscono la privacy degli studenti. In realtà usarli non è solo inopportuno, ma costituisce attualmente, dopo la sentenza Schrems II della Corte Europea di Giustizia, un illecito proprio per ragioni di privacy. Gli Stati Uniti si riservano per legge il diritto di accedere ai dati dei cittadini di qualunque Paese, se sono gestiti da una azienda statunitense, anche se i dati risiedono fisicamente su server situati al di fuori degli Stati Uniti. In sostanza tutti i dati dei nostri studenti, come di qualsiasi altro cittadino italiano ed europeo, gestiti da Google e da Microsoft, possono essere usati liberamente da un governo esterno all’Unione Europea. È appena il caso di ricordare che Trump ha cercato di bloccare la cinese Tik Tok negli Stati Uniti per ragioni di sicurezza nazionale.
+
+La sentenza della Corte Europea di Giustizia, del 19 luglio scorso, dichiara che “le persone i cui dati personali sono trasferiti verso un Paese terzo sulla base di clausole tipo di protezione dei dati devono godere di un livello di protezione sostanzialmente equivalente a quello garantito all’interno dell’Unione da detto regolamento, letto alla luce della Carta \[la Carta dei diritti fondamentali dell’Unione Europea, NdR\]”, cosa che non avviene con aziende statunitensi come Google e Microsoft, dal momento che “le limitazioni della protezione dei dati personali che risultano dalla normativa interna degli Stati Uniti in materia di accesso e di utilizzo, da parte delle autorità statunitensi, di siffatti dati trasferiti dall’Unione verso tale Paese terzo \[…\] non sono inquadrate in modo da rispondere a requisiti sostanzialmente equivalenti a quelli richiesti, nel diritto dell’Unione, dal principio di proporzionalità, giacché i programmi di sorveglianza fondati sulla suddetta normativa non si limitano a quanto strettamente necessario” [^1]. 
+
+In sostanza, far usare ai nostri studenti le piattaforme Google e Microsoft significa esporli a un uso dei loro dati personali che viola i loro diritti di cittadini dell’Unione Europea. E a poco vale il consenso sulla privacy richiesto alle famiglie. Quali possibilità hanno? Se non dessero il consenso alla privacy, che dev’essere libero, i loro figli non potrebbero accedere alla didattica a distanza, ossia non potrebbero fruire del diritto all’istruzione. Il consenso non è dunque affatto libero. E un consenso non libero non ha alcun valore. 
+
+La gravità della situazione che si è venuta a creare può essere illustrata con un paragone. Immaginiamo che lo studente Tizio faccia per entrare a scuola ma venga fermato in portineria. Non può entrare a scuola se non ha la tessera. E non una tessera di ingresso rilasciata dalla scuola. No: occorre la tessera del negozio X, dell’ipermercato Y o dell’azienda Z. Senza avere la tessera di qualcuna di queste imprese private lo studente non può accedere alla scuola, ossia al diritto all’istruzione. È esattamente quello che accade quando si chiede allo studente, per accedere alla classe virtuale (che può anche sostituire del tutto, come sappiamo, la classe fisica), di avere un account Microsoft o Google, ossia di aziende commerciali private. 
+
+Un assurdo che sarebbe comprensibile, forse perfino accettabile, se le scuole non avessero alternative. Ma le alternative ci sono. Ci sono strumenti gratuiti, liberi, con codice aperto, validi esattamente quanto quelli delle multinazionali, e che anzi risultano anche più efficaci, perché pensati appositamente per la didattica (si pensi a Moodle, usato dalle università in tutto il mondo e snobbato dalle scuole). Servizi che bisognerebbe usare non solo per il rispetto dovuto agli studenti ed alla loro privacy, ma anche perché fare didattica a distanza, con gli strumenti tecnologici, non può non significare anche educare ad un uso consapevole ed attento della rete, dei servizi informatici e dei software.
+
+[^1]: Corte di giustizia dell’Unione europea, Comunicato stampa n.91/20, Lussemburgo, 16 luglio 2020, url: https://curia.europa.eu/jcms/upload/docs/application/pdf/2020-07/cp200091it.pdf Nell’immagine: l’Edu Day di Microsoft. Fonte: https://www.mvservice.it 
+
+[Gli Stati Generali](https://www.glistatigenerali.com/scuola/dad/).
