@@ -2,7 +2,6 @@
 title: "Senza fondo"
 author: Antonio Vigilante
 pubDatetime: 2022-12-01
-modDatetime: 2025-08-05
 tags:
   - loingpres
   - Hegel
