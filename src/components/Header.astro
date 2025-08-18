@@ -43,7 +43,8 @@ const isActive = (path: string) => {
         href="/"
         class="absolute py-1 text-xl leading-8 font-semibold whitespace-nowrap sm:static sm:my-auto sm:text-2xl sm:leading-none"
       >
-        {SITE.title}
+
+      <strong>{SITE.title}</strong>
       </a>
       <nav
         id="nav-menu"
@@ -70,17 +71,17 @@ const isActive = (path: string) => {
         >
           <li class="col-span-2">
             <a href="/posts" class:list={{ "active-nav": isActive("/posts") }}>
-              Post
+              post
             </a>
           </li>
           <li class="col-span-2">
             <a href="/tags" class:list={{ "active-nav": isActive("/tags") }}>
-              Tag
+              tag
             </a>
           </li>
           <li class="col-span-2">
             <a href="/about" class:list={{ "active-nav": isActive("/about") }}>
-              Su di me
+              ego etc.
             </a>
           </li>
           {
@@ -95,10 +96,10 @@ const isActive = (path: string) => {
                     },
                   ]}
                   ariaLabel="archives"
-                  title="Archives"
+                  title="archivi"
                 >
                   <IconArchive class="hidden sm:inline-block" />
-                  <span class="sm:sr-only">Archives</span>
+                  <span class="sm:sr-only">archivi</span>
                 </LinkButton>
               </li>
             )
@@ -110,11 +111,11 @@ const isActive = (path: string) => {
                 "focus-outline flex p-3 sm:p-1",
                 { "[&>svg]:stroke-accent": isActive("/search") },
               ]}
-              ariaLabel="search"
-              title="Search"
+              ariaLabel="cerca"
+              title="Cerca"
             >
               <IconSearch />
-              <span class="sr-only">Search</span>
+              <span class="sr-only">Cerca</span>
             </LinkButton>
           </li>
           {
