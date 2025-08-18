@@ -3,10 +3,10 @@ title: "Potere, autorità e autorialità"
 author: Antonio Vigilante
 pubDatetime: 2023-04-23
 tags: 
-  - autorità
-  - educazione
-  - Giuseppe Cognetti
-  - potere"
+  - "autorità"
+  - "educazione"
+  - "Giuseppe Cognetti"
+  - "potere"
 description: A margine di un libro di Giuseppe Cognetti.
 ---
 
