@@ -13,5 +13,5 @@ Il blog è realizzato con [Astro](https://astro.build/) (tema [Astro Paper](http
 
 Il nome viene da una poesia di Jiří Orten.
 
-Non sono consentiti i commenti. Se vuoi discutere qualcosa, scrivimi.
+Non sono consentiti i commenti. Se vuoi discutere qualcosa, scrivimi: antoniovigilante@autistici.org
 
