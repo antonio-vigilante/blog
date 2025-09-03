@@ -7,7 +7,7 @@ tags:
  - Alhambra
  - "poesia residua"
 description: >
-A Siviglia un'insegna che diceva...
+  A Siviglia un'insegna che diceva...
 ---
 
 A Siviglia un'insegna che diceva:  
