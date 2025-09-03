@@ -57,8 +57,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         )
       }
     </section>
-
-    <Hr />
+  
 
     {
       featuredPosts.length > 0 && (
@@ -79,7 +78,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
     {
       recentPosts.length > 0 && (
         <section id="recent-posts" class="pt-12 pb-6">
-          <h2 class="text-2xl font-semibold tracking-wide">ultimi post</h2>
+          <h2 class="text-2xl font-semibold tracking-wide">_ultimi post</h2>
           <ul>
             {recentPosts.map(
               (data, index) =>
