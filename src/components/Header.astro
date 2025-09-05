@@ -80,29 +80,7 @@ const isActive = (path: string, mode: "section" | "exact" = "section") => {
           </li>
           
           
-          <li class="col-span-2">
-            <a href="/posts" class:list={{ "active-nav": isActive("/posts") }}>
-              post
-            </a>
-        
-         <li class="col-span-2">
-           <a href="/tags" class:list={{ "active-nav": isActive("/tags", "exact") }}>
-             tag
-           </a>
-         </li>
           
-        <li class="col-span-2">
-           <a href="/tags/album" class:list={{ "active-nav": isActive("/tags/album", "exact") }}>
-            album
-           </a>
-        </li>
-          
-          
-          <li class="col-span-2">
-            <a href="/about" class:list={{ "active-nav": isActive("/about") }}>
-              ego etc.
-            </a>
-          </li>
           {
             SITE.showArchives && (
               <li class="col-span-2">
