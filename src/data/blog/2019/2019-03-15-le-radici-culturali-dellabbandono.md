@@ -1,0 +1,29 @@
+---
+title: "Le radici culturali dell'abbandono scolastico"
+author: Antonio Vigilante
+pubDatetime: 2019-03-15
+tags: 
+  - "scuola"
+  - "abbandono scolastico"
+  - "Umberto Galimberti"
+description: >
+  Ma la scuola ha la cultura? No. La scuola ha _una_ cultura. I programmi scolastici, o per meglio dire 
+  le programmazioni dei singoli docenti, offrono agli studenti una fetta di cultura, dalla quale 
+  restano escluse molte cose.
+---
+
+Poco dopo aver letto [l'articolo di Valerio Camporesi](https://www.communiti.it/2025/01/abbandono-scolastico/) sul difficile problema dell'abbandono scolastico mi è capitata sotto mano [una intervista al filosofo Umberto Galimberti](https://ilghignolibreria.wordpress.com/2019/03/19/i-ragazzi-vanno-sedotti-con-la-cultura-ci-vuole-una-scuola-dellobbligo-fatta-bene-fino-a-18-anni-poi-tante-letture-umberto-galimberti/) che meriterebbe di essere discussa punto per punto. Mi limiterò qui a considerare la seguente affermazione, che mi sembra un buon punto di partenza per parlare di abbandono scolastico: "Per me fino a 18 anni bisogna tenere una scuola dell’obbligo, inevitabilmente. E i ragazzi vanno in qualche modo sedotti… sedotti con la cultura. Allora vanno a scuola volentieri."  
+
+Dunque: la cultura e la seduzione. La scuola ha _la_ cultura, che per un filosofo come Galimberti è evidentemente qualcosa di straordinario, e tuttavia non basta da sola, ha bisogno di essere resa piacevole e interessante: l'esempio è quello della _Commedia_ letta da Benigni. Ma la scuola ha la cultura? No. La scuola ha _una_ cultura. I programmi scolastici, o per meglio dire le programmazioni dei singoli docenti, offrono agli studenti una fetta di cultura, dalla quale restano escluse molte cose. Restano esclusi molti aspetti della cultura occidentale che non rientrano nel canone occidentale, così come resta esclusa praticamente tutta la cultura orientale, africana, sudamericana. Ma resta esclusa, soprattutto, la cultura delle classi subalterne. La cultura scolastica rappresenta una parte significativa della cultura in cui si riconoscono le classi alte della società italiana: una cultura lodevolissima, fatta di straordinari capolavori letterari, filosofici, artistici, ma che non è la cultura, non ha, di fatto, un valore universale, non è una _casa comune_ degli italiani. Si dirà che è compito della scuola far sì che lo diventi. Può essere. Ma intanto non tutti gli studenti che entrano a scuola si ritrovano in quella dimora culturale: alcuni perché appartenenti a classi subalterne, altri perché stranieri, altri ancora per entrambe le ragioni.  
+  
+Mi pare che qui vada cercata una delle ragioni dell'abbandono scolastico. Non dico nulla di nuovo, naturalmente. Ma dopo Gramsci, don Milani, Bourdieu, occorre ancora constatare il carattere monoculturale della scuola, la sua incapacità di essere ponte tra culture, di farsi luogo di dialogo tra visioni del mondo. Senza un riconoscimento reciproco non è possibile alcun lavoro educativo e culturale. Se lo studente porta a scuola una cultura diversa da quella scolastica, e se la scuola con quella cultura non è in grado di dialogare, l'esito è solo uno: l'abbandono. Lo studente prende atto della incompatibilità dei due mondi, e sceglie quello al quale sente di appartenere: il mondo della famiglia.  
+
+C'è poi la faccenda della seduzione. La _Commedia_ è straordinaria, ma per un adolescente può essere noiosa. E allora si cerchi di renderla divertente. Ma se la _Commedia_ è straordinaria, perché risulta noiosa? Com'è che tutte queste cose eccezionali conciliano il sonno? Si dirà che è perché i ragazzi di oggi sono abituati alla iperstimolazione da videogiochi e smartphone, e faticano a restare concentrati su un testo o su un pensiero complesso. Ma quando eravamo ragazzini noi gli smartphone non esistevano, e Dante ci annoiava a morte ugualmente.  
+
+Bisogna riflettere sulla natura dell'apprendimento. Al di fuori della scuola, esso ha due caratteristiche: è naturale e sociale. La più grande impresa della vita, dal punto di vista dell'apprendimento, è la conquista del linguaggio. Che avviene senza alcun insegnamento, in modo spontaneo, ma che non è possibile senza relazioni sociali. Questo riguarda, a conti fatti, tutti i nostri apprendimenti. Impariamo quando ne abbiamo davvero bisogno - un bisogno organico - e lo facciamo in situazioni sociali. Ora, l'apprendimento scolastico non ha né la prima né la seconda caratteristica. E' un apprendimento artificiale, che si presenta in assenza di bisogno, ma che soprattutto avviene (avviene?) in assenza di una vera situazione sociale: perché una classe che ascolta un docente _non_ è una situazione sociale.  
+
+Ed è questa l'altra causa di abbandono scolastico. Una ipotesi che mi sembra meritevole di indagine è che l'abbandono scolastico sia più elevato in quei gruppi sociali nei quali non solo esiste una cultura diversa e lontana da quella scolastica, ma in cui sono più radicate forme di apprendimento sociale per bambini e adolescenti. A soffrire di più, a scuola, sono i bambini che vengono da gruppi nei quali non esiste una distinzione netta, nei compiti sociali, tra loro e gli adulti, e costantemente si chiede la loro collaborazione attiva nella vita sociale. Giunti a scuola, si trovano in un contesto in cui il _fare_ lascia il posto all'_ascoltare_, che è una competenza che manca anche agli adulti, e si pretende che i bambini esercitino per cinque ore al giorno.  
+
+Se queste ipotesi non sono infondate, per combattere l'abbandono scolastico non basta essere più seduttivi. Bisogna diventare culturalmente umili, riconoscendo che esiste vita culturale anche al di fuori del canone scolastico, e cercare una socialità vera. Che vuol dire, tanto per cominciare, mandare una buona volta in pensione i banchi e le cattedre.  
+  
+Pubblicato su _[Occhiovolante](https://www.occhiovolante.com/2019/radici-culturali-abbandono-scolastico/)_, 7 marzo 2019.
