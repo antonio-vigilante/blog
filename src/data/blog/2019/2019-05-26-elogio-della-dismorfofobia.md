@@ -5,7 +5,6 @@ pubDatetime: 2019-05-26
 tags: 
   - "dismorfofobia"
   - "Epicuro"
-  - "l-attacco"
 description: >
   La nostra civiltà si fonda sulla pretesa che le immagini, con il loro libero fluttuare, dicano la 
   realtà. Che la rispecchino fedelmente. O meglio: che siano la realtà, tout court. La mia dismorfobia 
