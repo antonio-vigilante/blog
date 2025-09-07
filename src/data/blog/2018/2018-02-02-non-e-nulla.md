@@ -5,6 +5,8 @@ pubDatetime: 2018-02-02
 tags: 
   - "loingpres"
   - "poesia residua"
+description: >
+  Versare il mio sangue è ormai lecito a tutti, senza taglione o riscatto...
 ---
 
 Versare il mio sangue è ormai lecito a tutti, senza taglione o riscatto. Nezami, _Leyla e Majnun_, Adelphi, p. 38.

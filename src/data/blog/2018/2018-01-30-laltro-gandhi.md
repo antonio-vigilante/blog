@@ -4,6 +4,10 @@ author: Antonio Vigilante
 pubDatetime: 2018-01-30
 tags: 
   - "M.K. Gandhi"
+description: >
+  Svelare le contraddizioni dell'uomo Gandhi è un gioco facile. Meno frequente è che qualcuno sveli, 
+  invece, le contraddizioni teoriche di Gandhi, i problemi aperti del suo pensiero, e magari anche le 
+  cose inaccettabili. 
 ---
 
 Il 30 gennaio del 1940 - settant'anni fa - Mohandas Karamchand Gandhi veniva ucciso dal suo ex-seguace Nathuram Godse. E' uno dei pochissimi leader politici del Novecento in grado di essere ancora oggi punto di riferimento e fonte di ispirazione per molti; una figura che incarna al tempo stesso l'uomo buono ed il rivoluzionario, l'ascesi e l'impegno, la felice contaminazione di etica e politica. Naturalmente, dietro ogni icona c'è un uomo che le assomiglia solo in parte. E svelare le contraddizioni dell'uomo Gandhi è un gioco facile: lo fa, buon ultimo, Pramod Kapoor nel suo _Gandhi. La biografia illustrata_ (Mondadori Electa). Meno frequente è che qualcuno sveli, invece, le contraddizioni teoriche di Gandhi, i problemi aperti del suo pensiero, e magari anche le cose inaccettabili. 
