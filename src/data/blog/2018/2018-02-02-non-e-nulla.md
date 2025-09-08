@@ -42,7 +42,7 @@ forse è un uomo o forse no.
 Un tempo camminavo sulle gambe  
 e tutti conoscevano il mio nome  
 ma qualcosa è successo non so dire  
-se scala inciampo trappola o via:  
+se scala inciampo trappola o sentiero:  
 ho visitato la notte e la luna  
 ho visto l'altro lato delle cose  
 la faccia tenebrosa della luce  

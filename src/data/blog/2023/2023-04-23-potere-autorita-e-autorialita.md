@@ -6,7 +6,7 @@ tags:
   - autorità
   - educazione
   - Giuseppe Cognetti
-  - potere"
+  - potere
 description: A margine di un libro di Giuseppe Cognetti.
 ---
 
