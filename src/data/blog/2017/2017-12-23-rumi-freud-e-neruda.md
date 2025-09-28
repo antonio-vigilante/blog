@@ -37,4 +37,4 @@ Quello che il medico divino fa con la schiava – quello che la pioggia fa al pr
 > تو قیاس از خویش می‌‌گیری و لیک \*\* دور دور افتاده‌‌ای بنگر تو نیک‌‌  
 > Tu giudichi in base a te stesso; ma sei ben lontano. Riflettici bene!
 
-Ci sono primavere dolorose, e ciliegi che, al momento della fioritura, sembrano feriti a morte.
+Ci sono primavere dolorose e ciliegi che, al momento della fioritura, sembrano feriti a morte.
