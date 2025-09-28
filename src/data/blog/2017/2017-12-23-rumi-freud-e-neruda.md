@@ -25,7 +25,8 @@ Le tiene il polso per una ragione: quando, nel corso del suo racconto, la ragazz
 
 Il resto del racconto ha un senso mistico ed esoterico, ma in questo poema, composto una cinquantina d’anni prima della _Divina Commedia_, troviamo l’intuizione della terapia psicoanalitica. E un verso, ancora, che alle nostre orecchie suona parecchio familiare:
 
-> شاد باش و فارغ و ایمن که من \*\* آن کنم با تو که باران با چمن‌‌  > Sta’ felice e spensierata, non temere di nulla, poiché io farò per te quello che la pioggia fa per il prato.  
+> شاد باش و فارغ و ایمن که من \*\* آن کنم با تو که باران با چمن‌‌  >  
+ Sta’ felice e spensierata, non temere di nulla, poiché io farò per te quello che la pioggia fa per il prato.  
 
 E’ il Neruda di _Juegas todos los dias_:
 
