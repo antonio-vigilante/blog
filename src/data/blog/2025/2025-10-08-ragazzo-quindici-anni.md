@@ -3,7 +3,7 @@ title: "Il ragazzo di quindici anni e l'uomo che vorrebbe lapidarlo"
 pubDatetime: 2025-10-08
 tags:
  - Italia
- - politic
+ - politica
 description: >
   Ero molto arrabbiato, da adolescente, con i politici democristiani e socialisti. Mi 
   sembravano esseri umani miserabili e pensavo che l'Italia meritasse di meglio. Davo ragione 
