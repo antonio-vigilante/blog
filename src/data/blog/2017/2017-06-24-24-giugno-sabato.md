@@ -4,7 +4,7 @@ pubDatetime: 2017-06-24
 tags: 
   - "commentarium"
   - "loingpres"
-description. >
+description: >
   Penseremmo di avere un corpo, se il nostro corpo scomparisse nel nulla per sette, otto, nove ore al giorno? Penseremmo addirittura di essere un corpo? 
 ---
 

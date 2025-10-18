@@ -7,10 +7,8 @@ tags:
   - "Testimoni di Geova"
   - "Lev Tolstoj"
 description: >
-  L'unico commento che ho letto sui social network è quello di un cattolico. "Svegliatevi", seguito da una faccina sorridente. Per il resto, silenzio. Silenzio anche da parte di chi è più sensibile ai 
-  diritti civili, di chi quotidianamente si preoccupa di gay, Rom, minoranze di ogni genere. Passa sotto silenzio, come se non ci riguardasse, la notizia che la Corte suprema russa ha messo al bando su 
-  tutto il territorio nazionale i Testimoni di Geova. Equiparati ai terroristi in quanto "estremisti", i Testimoni di Geova rischieranno il carcere da sei a dieci anni se continueranno nel loro culto, 
-  e i loro beni saranno confiscati. Come sotto il comunismo. 
+  Passa sotto silenzio, come se non ci riguardasse, la notizia che la Corte suprema russa ha messo al bando su tutto il territorio nazionale i Testimoni di Geova. Equiparati ai terroristi in quanto 
+  "estremisti", i Testimoni di Geova rischieranno il carcere da sei a dieci anni se continueranno nel loro culto, e i loro beni saranno confiscati. Come sotto il comunismo. 
 ---
 
 L'unico commento che ho letto sui social network è quello di un cattolico. "Svegliatevi", seguito da una faccina sorridente. Per il resto, silenzio. Silenzio anche da parte di chi è più sensibile ai diritti civili, di chi quotidianamente si preoccupa di gay, Rom, minoranze di ogni genere. Passa sotto silenzio, come se non ci riguardasse, la notizia che la Corte suprema russa ha messo al bando su tutto il territorio nazionale i Testimoni di Geova. **Equiparati ai terroristi in quanto "estremisti"**, i Testimoni di Geova rischieranno il carcere da sei a dieci anni se continueranno nel loro culto, e i loro beni saranno confiscati. Come sotto il comunismo.  
