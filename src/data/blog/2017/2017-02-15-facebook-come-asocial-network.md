@@ -1,0 +1,13 @@
+---
+title: "Facebook come asocial network"
+pubDatetime: 2017-02-15
+tags: 
+  - "Facebook"
+description: >
+  Ho visto che in questi ultimi giorni è diventato virale, come si dice, un mio articolo dello scorso anno sui controlli antidroga a scuola. Su una pagina Facebook ha più di novemila like. Altri siti e 
+  pagine riprendono l'articolo senza citare la fonte, tutti dicono che è stato scritto adesso, qualcuno dice che è una lettera, qualcuno dice che sono una professoressa. La7 mi invita a parlarne in una 
+  trasmissione che non conosco. Qualcuno mi copre di insulti pubblicamente, qualche altro privatamente, qualcuno mi segnala alle forze dell'ordine e all'ufficio scolastico..
+
+---
+
+Ho chiuso il mio profilo Facebook e ne ho aperto uno nuovo, con nuove regole. Troppo faticoso sarebbe stato cancellare tutte le amicizie o pseudo-amicizie. Ho preferito ripartire da zero. Il mio nuovo profilo funziona così: i post sono pubblici e chi vuole può seguire gli aggiornamenti, proprio come un blog; nessuno però può chiedermi l'amicizia. Molto mi ha fatto riflettere, tra l'altro, il comportamento socialmente miserabile di una scrittrice abbastanza nota che ha avuto con me una discussione sul mio profilo. Cosa da ordinaria amministrazione; ma ne è seguito un post sul suo, di profilo, con il quale senza nominarmi riportava le mie affermazioni distorcendole apertamente e sostanzialmente incitando i suoi lettori al linciaggio. Cosa che è puntualmente avvenuta. Io provengo da una condizione di asocialità completa; vorrei poter dire felice, ma felice non era; e tuttavia ne ero in qualche modo soddisfatto. Ma mi sono imposto di uscirne, e di spingermi anche nella sfera pubblica. Per questo ho aperto, ormai più di quindici anni fa, il mio primo blog, e per questo ho contribuito alle fortune di Zuckerberg. Ma, perdonatemi, davvero non ce la faccio. Il misto di meschinità, di piccineria, di stupidità, di violenza mimetica delle situazioni sociali, e ancor di più delle situazioni sociali virtuali, non lo reggo. Ho visto che in questi ultimi giorni è diventato virale, come si dice, un mio articolo dello scorso anno sui controlli antidroga a scuola. Su una pagina Facebook ha più di novemila like. Altri siti e pagine riprendono l'articolo senza citare la fonte, tutti dicono che è stato scritto adesso, qualcuno dice che è una lettera, qualcuno dice che sono una professoressa. La7 mi invita a parlarne in una trasmissione che non conosco. Qualcuno mi copre di insulti pubblicamente, qualche altro privatamente, qualcuno mi segnala alle forze dell'ordine e all'ufficio scolastico. Fate come vi pare. Vivete le vostre passioni, accapigliatevi, fatevi adorare dai vostri seguaci. Ma alla larga da me.
