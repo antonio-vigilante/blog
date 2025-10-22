@@ -130,7 +130,7 @@
   }
 
   .app-prose :where(strong):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
-    color: orange;
+    color: #ff6b01;
     font-weight: 600;
   }
   
@@ -139,7 +139,7 @@
   }
 
   html.dark .app-prose a,
-  html.dark .app-prose a:hover {
+  html.dark .apporange-prose a:hover {
     color: #ff6b01;
   }
 
