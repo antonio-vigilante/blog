@@ -3,7 +3,6 @@ title: "Cosa dovrebbe dire un ministro dell'istruzione (e cosa non dirà)"
 author: Antonio Vigilante
 pubDatetime: 2018-09-03
 tags: 
-  - "gli-stati-generali"
   - "scuola"
 description: >
   Mi chiedo che succederebbe se un ministro dell'Interno cominciasse il suo mandato dicendo che occorre che i poliziotti la finiscano di fare i poliziotti come hanno sempre fatto, che si diano una mossa e 
