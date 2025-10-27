@@ -17,22 +17,18 @@ L'indicatore successivo mi chiede di specificare se "Tutti gli alunni... mostran
 
 Potrei andare avanti per ogni indicatore. Una scheda che non è possibile compilare onestamente pur avendo le migliori intenzioni: e che dunque va compilata mettendo le crocette così, a caso. E l'attività di mettere crocette più o meno a caso, spiegava David Graeber, è una delle caratteristiche di quelli che chiamava, con assoluta efficacia, _bullshit jobs_: lavori stronzata. Stronzate come questa griglia sono il contributo - quotidiano, ammirevole per lo zelo e la cura - del Miur per trasformare il lavoro del docente, altamente significativo, in una stronzata.
 
-![](/images/a_1.png)
+![](/images/post/2023/a_1.png)
 
-![](/images/a_2.png)
+![](/images/post/2023/a_2.png)
 
-![](/images/a_3.png)
+![](/images/post/2023/a_3.png)
 
-![](/images/a_4.png)
+![](/images/post/2023/a_4.png)
 
-![](/images/a_5.png)
+![](/images/post/2023/a_5.png)
 
-![](/images/a_6.png)
+![](/images/post/2023/a_6.png)
 
-![](/images/a_7.png)
+![](/images/post/2023/a_7.png)
 
-![](/images/a_8.png)
 
-![](/images/a_9.png)
-
-![](/images/a_10.png)
