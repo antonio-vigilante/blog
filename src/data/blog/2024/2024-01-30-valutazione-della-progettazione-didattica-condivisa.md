@@ -17,15 +17,15 @@ Queste le risposte.
 
 ## Ti sembra che questo metodo abbia migliorato la qualità del tuo apprendimento?
 
-![](/images/01.png)
+![](/images/post/2024/01.png)
 
 ## Ti sembra che questo metodo abbia migliorato la tua autonomia nell’acquisizione delle conoscenze?
 
-![](/images/02.png)
+![](/images/post/2024/02.png)
 
 ## Ti sembra che questo metodo abbia migliorato le tue relazioni con i compagni?
 
-![](/images/03.png)
+![](/images/post/2024/03.png)
 
 ## Quali ti sembrano i punti di forza della sperimentazione?
 
@@ -93,7 +93,7 @@ non sempre le persone studiano e utilizzano i momenti di autogestione per fare a
 
 ## Ritieni opportuno continuare con questa metodologia anche nel secondo quadrimestre?
 
-![](/images/04.png)
+![](/images/post/2024/04.png)
 
 ## Modifiche suggerite
 

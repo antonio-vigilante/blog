@@ -23,11 +23,11 @@ Come funziona? L’algoritmo attinge a un ampio archivio di immagini e di stili,
 
 Per creare un’immagine occorre fornire all’IA informazioni sui contenuti dell’immagine, lo stile, il formato, le condizioni di illuminazione, i materiali, il tipo di risoluzione desiderata, e così via. Questa è all’esempio l’immagine che ho ottenuto provando a descrivere la scena finale di _Solenoide_ di Mircea Cărtărescu, dando le indicazioni di stile che mi sembravano adatte.
 
-![](/images/solenoide-xl-960x960.png)
+![](/images/post/2022/solenoide-xl-960x960.png)
 
 I risultati saranno tanto più originali quanto più dettagliata, precisa e complessa sarà la richiesta. Al contrario, indicazioni vaghe forniranno una rappresentazione dell’immaginario collettivo, o meglio della particolare visione che ne ha l’algoritmo. Se si inserisce ad esempio il testo “God” si ottiene l’immagine di un uomo anziano, ma spesso anche una croce. Queste quattro immagini, ad esempio, sono proposte dall’IA con la sola indicazione del soggetto, “God”, e dello stile, “risograph” (una particolare tecnica di stampa):
 
-![](/images/Naciketas_god_risograph_3aedf7c8-26d2-4a42-a7bf-93e8ddecee44-xl.png)
+![](/images/post/2022/Naciketas_god_risograph_3aedf7c8-26d2-4a42-a7bf-93e8ddecee44-xl.png)
 
 Si tratta di due figurazioni che riflettono l’immaginario occidentale, ebraico-cristiano, e questo costituisce un limite evidente di un software che si rivolge ad utenti non solo occidentali. Del resto, quale sarebbe l’alternativa? Le figurazioni del divino sono talmente diverse, che ci si troverebbe nella semplice impossibilità di rispondere a una simile richiesta. La scelta è stata quella, oggettivamente etnocentrica, di lasciare una immagine ebraico-cristiana per “God”, consentendo poi di creare immagini di altre divinità inserendo i loro nomi. Per rispetto verso i musulmani, la parola “Allah” è invece vietata.
 

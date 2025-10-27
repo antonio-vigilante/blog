@@ -4,11 +4,11 @@ author: Antonio Vigilante
 pubDatetime: 2025-03-26
 tags: 
   - album
-  - note di apprendistato
+  - commentarium
 description: "Siamo stati domenica con Ermes all'acquario di Livorno. Non ero mai stato in un acquario: mi ha sempre trattenuto il disgusto per quella vita così contenuta, così _al servizio del nostro sguardo_. Ma è prevalsa la tentazione di mostrare a nostro figlio forme di vita che ha incontrato solo nei libri cartonati per la prima infanzia..."
 ---
 
-![](/images/meduse.jpg)
+![](/images/album/2025/meduse.jpg)
 
 Siamo stati domenica con Ermes all'acquario di Livorno. Non ero mai stato in un acquario: mi ha sempre trattenuto il disgusto per quella vita così contenuta, così _al servizio del nostro sguardo_. Ma è prevalsa la tentazione di mostrare a nostro figlio forme di vita che ha incontrato solo nei libri cartonati per la prima infanzia.
 
