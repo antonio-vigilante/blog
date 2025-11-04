@@ -31,6 +31,6 @@ Ogni studentessa presente in quell’aula magna ha celebrato la Giornata della M
 Nell’aula magna del “Piccolomini” Raffaele Ascheri ha ricevuto dagli studenti una lezione su cosa sono civiltà e rispetto. E su cos’è la scuola, quella vera. Avrebbe potuto farne un uso migliore.
 
  
-[^1]: R. Ascheri, Con i ragazzi idee diverse però confronto pacato, “La Nazione-Siena”, 1 novembre 2025. ↩
+[^1]: R. Ascheri, *Con i ragazzi idee diverse però confronto pacato*, “La Nazione-Siena”, 1 novembre 2025. ↩
 
 *Gli Stati Generali*, 3 novembre 2025.
