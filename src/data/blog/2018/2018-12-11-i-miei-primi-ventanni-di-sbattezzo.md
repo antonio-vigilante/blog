@@ -25,4 +25,4 @@ Questo, dunque, il breve carteggio, che si conclude l'ultimo giorno dell'anno co
   
 ![](/images/post/2018/sbattezzo-3.jpg) 
 
-![](/images/post/2018/sbattezzo-3.jpg) 
+![](/images/post/2018/sbattezzo-4.jpg) 
