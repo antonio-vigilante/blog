@@ -5,13 +5,13 @@ tags:
  - "Raffaele Ascheri"
  - "scuola"
 description: >
-  Sul suo blog *Eretico di Siena* Raffaele Ascheri ha replicato al mio articolo a proposito dell'occupazione del "Piccolomini". Tre quarti di quello che scrive sono un 
+  Sul suo blog Raffaele Ascheri ha replicato al mio articolo a proposito dell'occupazione del "Piccolomini". Tre quarti di quello che scrive sono un 
   tentativo di mettermi in ridicolo. Piuttosto goffo, a dire il vero: dopo avermi etichettato come "un mix di Gandhi e Platone" - ho scritto due libri di critica di Gandhi e 
   detesto Platone - accusa me di etichettare lui perché non so che, bontà sua, è "decisamente critico verso il Governo Netanyahu". E non manca di fare ironia sul mio cognome: 
   una cosa di cui credevo - speravo - di essermi liberato con la fine della scuola elementare.
 ---
 
-Sul suo blog *Eretico di Siena* Raffaele Ascheri [ha replicato](http://www.ereticodisiena.it/2025/11/08/lettera-agli-okkupanti-ed-ai-vigilanti-e-mamdani/) al mio articolo a proposito dell'occupazione del "Piccolomini". Tre quarti di quello che scrive sono un tentativo di mettermi in ridicolo. Piuttosto goffo, a dire il vero: dopo avermi etichettato come "un mix di Gandhi e Platone" - ho scritto due libri di critica di Gandhi e detesto Platone - accusa me di etichettare lui perché non so che, bontà sua, è "decisamente critico verso il Governo Netanyahu". E non manca di fare ironia sul mio cognome: una cosa di cui credevo - speravo - di essermi liberato con la fine della scuola elementare.
+Sul suo blog Raffaele Ascheri [ha replicato](http://www.ereticodisiena.it/2025/11/08/lettera-agli-okkupanti-ed-ai-vigilanti-e-mamdani/) al mio articolo a proposito dell'occupazione del "Piccolomini". Tre quarti di quello che scrive sono un tentativo di mettermi in ridicolo. Piuttosto goffo, a dire il vero: dopo avermi etichettato come "un mix di Gandhi e Platone" - ho scritto due libri di critica di Gandhi e detesto Platone - accusa me di etichettare lui perché non so che, bontà sua, è "decisamente critico verso il Governo Netanyahu". E non manca di fare ironia sul mio cognome: una cosa di cui credevo - speravo - di essermi liberato con la fine della scuola elementare.
 
 Non lo seguirò, naturalmente, su questo campo: abbiamo tutti modi migliori di impiegare il nostro tempo.
 
