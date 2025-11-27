@@ -29,6 +29,9 @@ const {
 
 const socialImageURL = new URL(ogImage, Astro.url);
 
+// rileva se è XML
+const isXML = Astro.url.pathname.endsWith(".xml");
+
 const structuredData = {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
@@ -49,7 +52,7 @@ const structuredData = {
 <!doctype html>
 <html
   dir={SITE.dir}
-  lang=`${SITE.lang ?? "it"}`
+  lang={`${SITE.lang ?? "it"}`}
   class={`${scrollSmooth && "scroll-smooth"}`}
 >
   <head>
@@ -58,27 +61,22 @@ const structuredData = {
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="canonical" href={canonicalURL} />
     <meta name="generator" content={Astro.generator} />
-        <link rel="sitemap" href="/sitemap-index.xml" />
-  
-      <link
-    href="https://fonts.googleapis.com/css2?family=GFS+Didot&display=swap"
-    rel="stylesheet"  />
 
+    <link
+      href="https://fonts.googleapis.com/css2?family=GFS+Didot&display=swap"
+      rel="stylesheet"
+    />
 
-    <!-- General Meta Tags -->
     <title>{title}</title>
     <meta name="title" content={title} />
     <meta name="description" content={description} />
     <meta name="author" content={author} />
-    <link rel="sitemap" href="/sitemap-index.xml" />
 
-    <!-- Open Graph / Facebook -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:image" content={socialImageURL} />
 
-    <!-- Article Published/Modified time -->
     {
       pubDatetime && (
         <meta
@@ -96,22 +94,18 @@ const structuredData = {
       )
     }
 
-    <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content={canonicalURL} />
     <meta property="twitter:title" content={title} />
     <meta property="twitter:description" content={description} />
     <meta property="twitter:image" content={socialImageURL} />
 
-    <!-- Google JSON-LD Structured data -->
     <script
       type="application/ld+json"
       is:inline
       set:html={JSON.stringify(structuredData)}
     />
 
-    <!-- Enable RSS feed auto-discovery  -->
-    <!-- https://docs.astro.build/en/recipes/rss/#enabling-rss-feed-auto-discovery -->
     <link
       rel="alternate"
       type="application/rss+xml"
@@ -121,11 +115,15 @@ const structuredData = {
 
     <meta name="theme-color" content="" />
 
- 
-    <ClientRouter />
-
-    <script is:inline src="/toggle-theme.js"></script>
+    <!-- BLOCCO GLI SCRIPT QUANDO È XML -->
+    {!isXML && (
+      <>
+        <ClientRouter />
+        <script is:inline src="/toggle-theme.js"></script>
+      </>
+    )}
   </head>
+
   <body>
     <slot />
   </body>
