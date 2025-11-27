@@ -6,9 +6,10 @@ tags:
   - "Islam"
   - "satira"
 description: >
-  Lo Spirito Santo, il Figlio ed il Padre presi in una relazione non proprio spirituale. E' una delle vignette di _Charlie Hebdo_ che hanno preso a circolare dopo il massacro di ieri. Suscitando sconcerto 
-  in non pochi cattolici che fino a poco prima erano pronti a dire "Je suis Charlie Hebdo", e che si sono ritrovati invece a reclamare la censura e ad affermare i limiti della libertà d'espressione. 
-  Perché sì, la satira è importante, e rivendichiamo tutti il libero pensiero come conquista dell'Occidente, ma il Figlio che prende lo Spirito Santo nel didietro...
+  Lo Spirito Santo, il Figlio ed il Padre presi in una relazione non proprio spirituale. E' una delle vignette di _Charlie Hebdo_ che hanno preso a circolare dopo il massacro 
+  di ieri. Suscitando sconcerto in non pochi cattolici che fino a poco prima erano pronti a dire "Je suis Charlie Hebdo", e che si sono ritrovati invece a reclamare la 
+  censura e ad affermare i limiti della libertà d'espressione.Perché sì, la satira è importante, e rivendichiamo tutti il libero pensiero come conquista dell'Occidente, ma il 
+  Figlio che prende lo Spirito Santo nel didietro...
 ---
 
 Lo Spirito Santo, il Figlio ed il Padre [presi in una relazione non proprio spirituale](http://imworld.aufeminin.com/story/20130224/charlie-hebdo-une-14309_w1000.jpg). E' una delle vignette di _Charlie Hebdo_ che hanno preso a circolare dopo il [massacro di ieri](http://www.repubblica.it/esteri/2015/01/07/news/francia_colpi_sparati_a_charlie_hebd_parigi_feriti-104447972/). Suscitando sconcerto in non pochi cattolici che fino a poco prima erano pronti a dire "Je suis Charlie Hebdo", e che si sono ritrovati invece a reclamare la censura e ad affermare i limiti della libertà d'espressione. Perché sì, la satira è importante, e rivendichiamo tutti il libero pensiero come conquista dell'Occidente, ma il Figlio che prende lo Spirito Santo nel didietro...

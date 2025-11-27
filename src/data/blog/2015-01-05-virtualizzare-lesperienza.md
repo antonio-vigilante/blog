@@ -4,9 +4,8 @@ pubDatetime: 2015-01-05
 tags: 
   - "fotografia"
 description: >
-  L'occhio cattura la scena e la manda alla propria memoria personale. L'occhio della fotocamera del cellulare cattura la scena e la manda a Facebook: ossia alla nostra nuova memoria collettiva. Si 
-  verificano così due cose. La prima è che la nostra esperienza viene virtualizzata. Una volta c'era l'esperienza di piazza del Campo, oggi c'è l'{esperienza di piazza del Campo}. La seconda è che questa 
-  esperienza virtualizzata è immediatamente una esperienza sociale.
+  L'occhio cattura la scena e la manda alla propria memoria personale. L'occhio della fotocamera del cellulare cattura la scena e la manda a Facebook: ossia alla nostra nuova 
+  memoria collettiva. Si verificano così due cose. La prima è che la nostra esperienza viene virtualizzata. La seconda è che questa esperienza virtualizzata è immediatamente una esperienza sociale.
 ---
 
 In [un post di qualche mese fa](http://robertocotroneo.me/2014/10/10/fotografia/), Roberto Cotroneo denunciava il crollo della qualità fotografica dovuto all'uso delle fotocamere dei cellulari, sia per i limiti intrinseci dello strumento, sia per il ricorso massiccio alle modifiche a posteriori, che per lo più producono foto pacchiane. Il post ha suscitato, com'era prevedibile, un mare di polemiche e di obiezioni, sintetizzabili in uno dei primi commenti: "La 'bella foto' è nella sensibilità di chi scatta". Cosa incontestabile. Si possono fare belle, bellissime foto con una fotocamera giocattolo, come la Lomo, o con la fotocamera di un iPhone. Il problema però è proprio "la sensibilità di chi scatta".
