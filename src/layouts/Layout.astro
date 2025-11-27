@@ -1,6 +1,5 @@
 ---
 import { ClientRouter } from "astro:transitions";
-import { PUBLIC_GOOGLE_SITE_VERIFICATION } from "astro:env/client";
 import { SITE } from "@/config";
 import "@/styles/global.css";
 
@@ -50,7 +49,7 @@ const structuredData = {
 <!doctype html>
 <html
   dir={SITE.dir}
-  lang=`${SITE.lang ?? "en"}`
+  lang=`${SITE.lang ?? "it"}`
   class={`${scrollSmooth && "scroll-smooth"}`}
 >
   <head>
@@ -59,8 +58,7 @@ const structuredData = {
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="canonical" href={canonicalURL} />
     <meta name="generator" content={Astro.generator} />
-    <meta name="google-site-verification" content="8hxcmglUYk8jS99akW5sLKzYBkBZSwpOsoj9EIXy2-A" />
-    <link rel="sitemap" href="/sitemap-index.xml" />
+        <link rel="sitemap" href="/sitemap-index.xml" />
   
       <link
     href="https://fonts.googleapis.com/css2?family=GFS+Didot&display=swap"
@@ -123,18 +121,7 @@ const structuredData = {
 
     <meta name="theme-color" content="" />
 
-    {
-      // If PUBLIC_GOOGLE_SITE_VERIFICATION is set in the environment variable,
-      // include google-site-verification tag in the heading
-      // Learn more: https://support.google.com/webmasters/answer/9008080#meta_tag_verification&zippy=%2Chtml-tag
-      PUBLIC_GOOGLE_SITE_VERIFICATION && (
-        <meta
-          name="google-site-verification"
-          content={PUBLIC_GOOGLE_SITE_VERIFICATION}
-        />
-      )
-    }
-
+ 
     <ClientRouter />
 
     <script is:inline src="/toggle-theme.js"></script>
