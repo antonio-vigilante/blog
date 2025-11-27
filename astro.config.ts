@@ -13,12 +13,17 @@ import { transformerFileName } from "./src/utils/transformers/fileName";
 
 export default defineConfig({
   site: "https://antoniovigilante.pages.dev", // niente slash finale
-  integrations: [
-    sitemap({
-      filter: (page) => !page.endsWith("/archives"), // tieni pure la tua logica, qui è un esempio
-      entryLimit: 45000,
-    }),
-  ],
+  
+// ...
+integrations: [
+  sitemap({
+    // filter: (page) => !page.endsWith("/archives"), // <--- SOLO questa riga è commentata
+    entryLimit: 45000,
+  }),
+],
+// ...
+  
+
   markdown: {
     remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
     shikiConfig: {
