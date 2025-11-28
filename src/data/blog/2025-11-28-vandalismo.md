@@ -6,7 +6,7 @@ tags:
  - vandalismo
  - adolescenti
 description: >
-  Parliamo di vandalismo dei pre-adolescenti, nel primo vocale - il parente povero del podcast - di 
+  Parlo di vandalismo dei pre-adolescenti, nel primo vocale - il parente povero del podcast - di 
   "odnikud".
 ---
 
