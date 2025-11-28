@@ -15,5 +15,8 @@ In questo primo vocale si parla di vandalismo dei pre-adolescenti. Buon ascolto.
 
 
 <audio controls>
-  <source src="audio/2025-11-28-vandalismo.mp3">Il tuo browser non supporta l'elemento audio.
+  <source src="/audio/2025-11-28-vandalismo.mp3" type="audio/mpeg">
+  Il tuo browser non supporta l'elemento audio.
 </audio>
+
+[Scarica](https://antoniovigilante.pages.dev/audio/2025-11-28-vandalismo.mp3)
