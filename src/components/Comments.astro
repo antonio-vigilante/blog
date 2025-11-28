@@ -1,0 +1,20 @@
+---
+const pageUrl = Astro.url.href;
+---
+
+<div class="comments mt-12">
+  <button id="load-comments" class="px-4 py-2 rounded bg-gray-200 hover:bg-gray-300 dark:bg-gray-700 dark:hover:bg-gray-600">
+    Mostra i commenti
+  </button>
+  <div id="jamcomments" class="mt-6"></div>
+</div>
+
+<script>
+  document.getElementById("load-comments").addEventListener("click", () => {
+    const s = document.createElement("script");
+    s.src = "https://jamcomments.com/embed.js";
+    s.setAttribute("data-repo", "USERNAME/REPO");   // <-- cambia questo
+    s.setAttribute("data-url", "{{pageUrl}}");
+    document.body.appendChild(s);
+  });
+</script>
