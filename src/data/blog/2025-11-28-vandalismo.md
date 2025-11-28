@@ -13,6 +13,7 @@ description: >
 Con questo post cominciano i vocali di *odnikud*, ossia la versione povera dei podcast; meno molesti, si spera, dei vocali su WhatsApp.
 In questo primo vocale si parla di vandalismo dei pre-adolescenti. Buon ascolto.
 
-<audio controls src="/audio/2025-11-28-vandalismo.mp3"></audio>
 
-
+<audio controls>
+  <source src="audio/2025-11-28-vandalismo.mp3">Il tuo browser non supporta l'elemento audio.
+</audio>
