@@ -69,6 +69,12 @@ html[data-theme="dark"] {
   scroll-margin-block: 1rem;
 }
 
+/* Colora i link nella homepage come nei post */
+.home-text a {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+
 
 
 

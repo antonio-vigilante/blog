@@ -75,11 +75,15 @@ const isActive = (path: string, mode: "section" | "exact" = "section") => {
         
         <li class="col-span-2">
             <a href="/info" class:list={{ "active-nav": isActive("/info") }}>
-              (i)
+              info
             </a>
           </li>
           
-          
+        <li class="col-span-2">
+           <a href="/tags" class:list={{ "active-nav": isActive("/tags") }}>
+             tags
+            </a>
+          </li>
           
           {
             SITE.showArchives && (

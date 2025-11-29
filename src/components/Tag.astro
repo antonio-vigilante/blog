@@ -10,6 +10,7 @@ export interface Props {
 const { tag, tagName, size = "sm" } = Astro.props;
 ---
 
+
 <li
   class:list={[
     "group inline-block group-hover:cursor-pointer",
@@ -34,3 +35,4 @@ const { tag, tagName, size = "sm" } = Astro.props;
     &nbsp;<span>{tagName}</span>
   </a>
 </li>
+ 
