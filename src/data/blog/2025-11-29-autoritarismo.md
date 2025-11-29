@@ -1,7 +1,7 @@
 ---
 title: "Il neo-autoritarismo pedagogico, ieri e oggi"
 author: "Antonio Vigilante"
-pubDatetime: 2028-11-29
+pubDatetime: 2025-11-29
 tags: 
 - pedagogia
 - scuola
