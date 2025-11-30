@@ -13,16 +13,16 @@ import {
 
 import { transformerFileName } from "./src/utils/transformers/fileName";
 
+import mdx from "@astrojs/mdx";
+
 export default defineConfig({
   site: "https://antoniovigilante.pages.dev",
 
   // ⭐ Unico blocco corretto
-  integrations: [
-    sitemap({
-      entryLimit: 45000,
-      // filter: (page) => !page.endsWith("/archives"), // opzionale
-    }),
-  ],
+  integrations: [sitemap({
+    entryLimit: 45000,
+    // filter: (page) => !page.endsWith("/archives"), // opzionale
+  }), mdx()],
 
   markdown: {
     remarkPlugins: [
@@ -56,4 +56,3 @@ export default defineConfig({
     preserveScriptOrder: true,
   },
 });
-

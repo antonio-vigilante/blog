@@ -1,98 +1,95 @@
 ---
-const { src, title = "" } = Astro.props;
+const { src } = Astro.props;
 ---
 
-<div class="audio-card">
-  {title && <div class="audio-title">{title}</div>}
-
-  <div class="audio-controls">
-    <button class="play-btn" id="playBtn">
-      ▶
-    </button>
-
-    <input
-      type="range"
-      id="seek"
-      value="0"
-      min="0"
-      max="100"
-      step="0.1"
-    />
-
-    <span id="time" class="time">0:00</span>
+<div class="audio-player">
+  <div class="audio-wave" id="wave" aria-hidden="true">
+    <span></span><span></span><span></span><span></span><span></span>
   </div>
 
-  <audio id="audio" preload="metadata">
+  <audio id="player" controls preload="metadata">
     <source src={src} type="audio/mpeg" />
+    Il tuo browser non supporta l’audio HTML.
   </audio>
 </div>
 
-<style>
-  .audio-card {
-    border: 1px solid var(--gray-400);
-    padding: 1rem;
-    border-radius: 12px;
-    margin: 1.2rem 0;
-    background: var(--gray-50);
-  }
-
-  .audio-title {
-    margin-bottom: 0.5rem;
-    font-weight: 600;
-    font-size: 1rem;
-  }
-
-  .audio-controls {
-    display: flex;
-    align-items: center;
-    gap: 0.8rem;
-  }
-
-  .play-btn {
-    width: 40px;
-    height: 40px;
-    font-size: 1.2rem;
-    border-radius: 50%;
-    border: none;
-    cursor: pointer;
-    background: var(--gray-200);
-  }
-
-  #seek {
-    flex: 1;
-  }
-
-  .time {
-    font-size: 0.85rem;
-    min-width: 40px;
-    text-align: right;
-  }
-</style>
-
 <script>
-  const audio = document.getElementById("audio");
-  const playBtn = document.getElementById("playBtn");
-  const seek = document.getElementById("seek");
-  const time = document.getElementById("time");
+  // Attiviamo l'onda solo quando l’audio parte
+  const audio = document.getElementById("player");
+  const bars = document.querySelectorAll("#wave span");
 
-  playBtn.addEventListener("click", () => {
-    if (audio.paused) {
-      audio.play();
-      playBtn.textContent = "⏸";
-    } else {
-      audio.pause();
-      playBtn.textContent = "▶";
+  let ctx, analyser, source;
+
+  audio.addEventListener("play", async () => {
+    if (!ctx) {
+      ctx = new AudioContext();
+      analyser = ctx.createAnalyser();
+      analyser.fftSize = 32;
+
+      source = ctx.createMediaElementSource(audio);
+      source.connect(analyser);
+      analyser.connect(ctx.destination);
     }
+
+    await ctx.resume();
+    animate();
   });
 
-  audio.addEventListener("timeupdate", () => {
-    seek.value = (audio.currentTime / audio.duration) * 100;
-    const mins = Math.floor(audio.currentTime / 60);
-    const secs = Math.floor(audio.currentTime % 60).toString().padStart(2, "0");
-    time.textContent = `${mins}:${secs}`;
-  });
+  function animate() {
+    if (audio.paused || audio.ended) return;
 
-  seek.addEventListener("input", () => {
-    audio.currentTime = (seek.value * audio.duration) / 100;
-  });
+    const data = new Uint8Array(analyser.frequencyBinCount);
+    analyser.getByteFrequencyData(data);
+
+    bars.forEach((bar, i) => {
+      const value = data[i] / 255;
+      const h = 8 + value * 28;
+      bar.style.height = `${h}px`;
+      bar.style.opacity = 0.3 + value * 0.7;
+    });
+
+    requestAnimationFrame(animate);
+  }
 </script>
+
+<style>
+.audio-player {
+  width: 100%;
+  margin: 1.5rem 0;
+  padding: 1.3rem 1rem;
+  border-radius: 1rem;
+  background: var(--color-surface-2, #f5f5f5);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Onda sonora sopra il player */
+.audio-wave {
+  position: absolute;
+  top: 0.6rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 4px;
+  pointer-events: none;
+}
+
+.audio-wave span {
+  width: 4px;
+  height: 12px;
+  background: var(--color-text, #333);
+  border-radius: 4px;
+  opacity: 0.4;
+  transition: height 0.08s linear, opacity 0.1s linear;
+}
+
+/* Fascia del player più larga e più aderente */
+.audio-player audio {
+  width: 100%;
+  height: 48px;             /* più alto */
+  border-radius: 0.7rem;     /* più morbido */
+  margin-top: 1.4rem;        /* spazio per l'onda */
+  background: #222;          /* fascia scura */
+}
+</style>
