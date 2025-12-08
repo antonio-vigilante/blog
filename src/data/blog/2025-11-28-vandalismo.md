@@ -9,16 +9,13 @@ description: >
   Parlo di vandalismo dei pre-adolescenti, nel primo vocale - il parente povero del podcast - di 
   "odnikud".
 ---
-import AudioPlayer from "@/components/AudioPlayer.astro"
-
 Con questo post cominciano i vocali di *odnikud*, ossia la versione povera dei podcast; meno molesti, si spera, dei vocali su WhatsApp.
 In questo primo vocale si parla di vandalismo dei pre-adolescenti. Buon ascolto.
 
 
-<AudioPlayer 
-  src="/audio/2025-11-28-vandalismo.mp3"
-  title="Intervento su vandalismo"
-/>
+<audio controls> 
+  <source src="/audio/2025-11-28-vandalismo.mp3" type="audio/mpeg">
+</audio>
 
 
 [Scarica](https://antoniovigilante.pages.dev/audio/2025-11-28-vandalismo.mp3)
