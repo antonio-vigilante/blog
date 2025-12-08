@@ -14,5 +14,5 @@ Il nome viene da una poesia di Jiří Orten.
 
 Non sono consentiti i commenti. Se vuoi discutere qualcosa, scrivimi: antoniovigilante@autistici.org
 
-<a href="/posts">Tutti i post</a></br> | <a href="/tags">Tutti i tag</a></br> | <a href="/tags/album">Album</a></br>
+<a href="/posts">Tutti i post</a> | <a href="/tags/album">Album</a></br>
 
