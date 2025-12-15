@@ -1,13 +1,15 @@
 ---
-title:"Il cavallo di troia dell'antisemitismo"
+title: "Il cavallo di Troia dell'antisemitismo"
 pubDatetime: 2025-12-15
+author: "Antonio Vigilante"
 tags:
- - Israele
- - antisemitismo
+  - Israele
+  - antisemitismo
 description: >
-    Le proposte di legge sulla lotta all'antisemitismo sono un pretesto per far passare misure liberticide. E forzano le stesse posizioni 
-    dell'International Holocaust Remembrance Alliance, che contengono più di qualche affermazione imbarazzante per la destra al governo.
+  Le proposte di legge sulla lotta all'antisemitismo sono un pretesto per far passare misure liberticide. E forzano le stesse posizioni 
+  dell'International Holocaust Remembrance Alliance, che contengono più di qualche affermazione imbarazzante per la destra al governo.
 ---
+
 
 Sono stati presentati in Parlamento diversi progetti di legge per il contrasto all'antisemitismo centrati sulla ricezione della **definizione di antisemitismo formulata nel 2016 dall'IHRA, l'International Holocaust Remembrance Alliance**; progetti di legge che vengono da quasi tutto lo schieramento politico: dalla Lega (DDL 1004, presentato dai senatori Romeo, Pirovano e Bergesio), da Italia Viva (DDL n. 1575 presentato da Ivan Scalfarotto), da Forza Italia (DDL n. 1627, presentato da Maurizio Gasparri) e dal PD (DDL 1722 presentato da Graziano Delrio). 
 
