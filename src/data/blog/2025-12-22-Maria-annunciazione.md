@@ -4,6 +4,8 @@ author: Antonio Vigilante"
 pubDatetime: 2025-12-22
 tags:
  - Madonna
+ - Chiesa
+ - Annunciazione
 description: > 
   Fanno discutere le parole del nunzio apostolico Giuseppe Laterza, pronunciate durante 
   un'omelia nella cattedrale di Conversano. La Chiesa vuole persone obbedienti e sottomesse. 
