@@ -1,6 +1,6 @@
 ---
 title: "Il consenso di Maria"
-author: Antonio Vigilante"
+author: Antonio Vigilante
 pubDatetime: 2025-12-22
 tags:
  - Madonna
@@ -35,7 +35,7 @@ Il Vangelo che narra con una certa ampiezza la scena è quello di Luca. L'angelo
 
 E Maria risponde: "Eccomi, sono la serva del Signore, avvenga di me quello che hai detto" (Luca, 1, 38)
 
-La Maria obbediente, e perciò libera. Che ha fornito il suo consenso, per dirla con le parole di oggi. Ma c'è qualcosa che non torna. L'angelo ha anticipato a Maria il futuro del figlio, ed è in base a questa anticipazione che la donna ha dato il suo consenso. Ma quello che l'angelo le ha detto corrisponde ben poco alla vita effettiva di Gesù. In termini simbolici, si può dire che Gesù è re e regna in eterno. Di fatto, è stato perseguitato ed è morto su una croce. Per ottenere un consenso realmente libero, l'angelo avrebbe dovuto dire *questo* a Maria, che nulla poteva sapere del futuro reale del figlio. Con le sue parole ambigue, prospettando una grandezza tutta terrena, **l'ha semplicemente ingannata**. (E a margine: l'angelo non dice affatto che partorità il Figlio di Dio, ma che *sarà chiamato* Figlio dell'Antissimo: καὶ υἱὸς ὑψίστου κληθήσεται).
+La Maria obbediente, e perciò libera. Che ha fornito il suo consenso, per dirla con le parole di oggi. Ma c'è qualcosa che non torna. L'angelo ha anticipato a Maria il futuro del figlio, ed è in base a questa anticipazione che la donna ha dato il suo consenso. Ma quello che l'angelo le ha detto corrisponde ben poco alla vita effettiva di Gesù. In termini simbolici, si può dire che Gesù è re e regna in eterno. Di fatto, è stato perseguitato ed è morto su una croce. Per ottenere un consenso realmente libero, l'angelo avrebbe dovuto dire *questo* a Maria, che nulla poteva sapere del futuro reale del figlio. Con le sue parole ambigue, prospettando una grandezza tutta terrena, **l'ha semplicemente ingannata**. (E a margine: l'angelo non dice affatto che partorità il Figlio di Dio, ma che *sarà chiamato* Figlio dell'Altissimo: καὶ υἱὸς ὑψίστου κληθήσεται).
 
 L'altro evangelista che parla della nascita miracolosa di Gesù è Matteo. E la sua versione esclude qualsiasi consenso. L'angelo non annuncia niente a Maria; semplicemente lo Spirito Santo la mette incinta:
 
