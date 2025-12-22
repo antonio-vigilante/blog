@@ -37,7 +37,7 @@ E Maria risponde: "Eccomi, sono la serva del Signore, avvenga di me quello che h
 
 La Maria obbediente, e perciò libera. Che ha fornito il suo consenso, per dirla con le parole di oggi. Ma c'è qualcosa che non torna. L'angelo ha anticipato a Maria il futuro del figlio, ed è in base a questa anticipazione che la donna ha dato il suo consenso. Ma quello che l'angelo le ha detto corrisponde ben poco alla vita effettiva di Gesù. In termini simbolici, si può dire che Gesù è re e regna in eterno. Di fatto, è stato perseguitato ed è morto su una croce. Per ottenere un consenso realmente libero, l'angelo avrebbe dovuto dire *questo* a Maria, che nulla poteva sapere del futuro reale del figlio. Con le sue parole ambigue, prospettando una grandezza tutta terrena, **l'ha semplicemente ingannata**. (E a margine: l'angelo non dice affatto che partorità il Figlio di Dio, ma che *sarà chiamato* Figlio dell'Antissimo: καὶ υἱὸς ὑψίστου κληθήσεται).
 
-L'altro evangelista che parla della nascita miracolosa di Gesù è Matteo. Ma la sua versione di Matteo esclude qualsiasi consenso. L'angelo non annuncia niente a Maria; semplicemente lo Spirito Santo la mette incinta:
+L'altro evangelista che parla della nascita miracolosa di Gesù è Matteo. E la sua versione esclude qualsiasi consenso. L'angelo non annuncia niente a Maria; semplicemente lo Spirito Santo la mette incinta:
 
 > Ecco come è nato Gesù Cristo. Maria, sua madre, era fidanzata con Giuseppe; essi non vivevano ancora assieme, ma lo Spirito Santo agì in Maria ed **ella si trovò incinta**. (Matteo, 1. 18;  Τοῦ δὲ Ἰησοῦ Χριστοῦ ἡ γένεσις οὕτως ἦν. μνηστευθείσης τῆς μητρὸς αὐτοῦ Μαρίας τῷ Ἰωσήφ, πρὶν ἢ συνελθεῖν αὐτοὺς εὑρέθη ἐν γαστρὶ ἔχουσα ἐκ πνεύματος ἁγίου.)
 
