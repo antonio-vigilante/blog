@@ -1,24 +1,318 @@
 ---
-import { getCollection } from "astro:content";
-import Main from "@/layouts/Main.astro";
-import Layout from "@/layouts/Layout.astro";
-import Tag from "@/components/Tag.astro";
-import Header from "@/components/Header.astro";
-import Footer from "@/components/Footer.astro";
-import getUniqueTags from "@/utils/getUniqueTags";
-import { SITE } from "@/config";
+// src/pages/tags/index.astro
+import Layout from '../../layouts/AboutLayout.astro';
 
-const posts = await getCollection("blog");
+// Recupera tutti i post da src/data/blog
+const allPostFiles = import.meta.glob('../../data/blog/**/*.{md,mdx}', { eager: true });
+const allPosts = Object.values(allPostFiles).map((file: any) => {
+  const frontmatter = file.frontmatter;
+  // Estrae il nome del file dal percorso (senza estensione)
+  const filePath = file.file || '';
+  const fileName = filePath.split('/').pop()?.replace(/\.(md|mdx)$/, '') || '';
+  
+  return {
+    data: frontmatter,
+    slug: fileName
+  };
+});
 
-let tags = getUniqueTags(posts);
+// Crea una mappa di tag con i relativi post
+const tagMap = new Map();
+
+allPosts.forEach(post => {
+  const tags = post.data.tags || [];
+  tags.forEach(tag => {
+    if (!tagMap.has(tag)) {
+      tagMap.set(tag, []);
+    }
+    tagMap.get(tag).push({
+      title: post.data.title,
+      slug: post.slug,
+      date: post.data.date
+    });
+  });
+});
+
+// Ordina i tag alfabeticamente
+const sortedTags = Array.from(tagMap.entries())
+  .sort((a, b) => a[0].localeCompare(b[0], 'it'));
+
+// Raggruppa i tag per lettera iniziale
+const tagsByLetter = new Map();
+sortedTags.forEach(([tag, posts]) => {
+  const firstLetter = tag[0].toUpperCase();
+  if (!tagsByLetter.has(firstLetter)) {
+    tagsByLetter.set(firstLetter, []);
+  }
+  tagsByLetter.get(firstLetter).push([tag, posts]);
+});
 ---
 
-<Layout title={`Tag | ${SITE.title}`}>
-  <Header />
-  <Main pageTitle="Tag" pageDesc="Tutti i tag.">
-    <ul class="grid grid-cols-2 sm:grid-cols-3 gap-2 mt-6">
-      {tags.map(({ tag, tagName }) => <Tag {tag} {tagName} size="lg" />)}
-    </ul>
-  </Main>
-  <Footer />
+<Layout frontmatter={{ title: "Indice analitico", description: "Esplora tutti gli argomenti trattati nel blog organizzati alfabeticamente" }}>
+  <main class="tag-index">
+    <header class="index-header">
+      <p class="subtitle">
+        Esplora {sortedTags.length} argomenti trattati in {allPosts.length} articoli
+      </p>
+      
+      <!-- Navigazione alfabetica -->
+      <nav class="alphabet-nav">
+        {Array.from(tagsByLetter.keys()).map(letter => (
+          <a href={`#letter-${letter}`} class="letter-link">{letter}</a>
+        ))}
+      </nav>
+    </header>
+
+    <div class="index-content">
+      {Array.from(tagsByLetter.entries()).map(([letter, tags]) => (
+        <section class="letter-section" id={`letter-${letter}`}>
+          <h2 class="letter-heading">{letter}</h2>
+          
+          <div class="tags-list">
+            {tags.map(([tag, posts]) => (
+              <article class="tag-entry">
+                <div class="tag-header">
+                  <h3 class="tag-name">{tag}</h3>
+                  <span class="post-count">{posts.length}</span>
+                </div>
+                
+                <ul class="post-references">
+                  {posts
+                    .sort((a, b) => new Date(b.date) - new Date(a.date))
+                    .slice(0, 5)
+                    .map(post => (
+                      <li>
+                        <a href={`/posts/${post.slug}`} class="post-link">
+                          {post.title}
+                        </a>
+                      </li>
+                    ))}
+                  {posts.length > 5 && (
+                    <li class="more-posts">
+                      <a href={`/tags/${tag}`}>
+                        + altri {posts.length - 5} articoli
+                      </a>
+                    </li>
+                  )}
+                </ul>
+              </article>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+
+    <!-- Torna su -->
+    <a href="#top" class="back-to-top">↑ Torna su</a>
+  </main>
 </Layout>
+
+<style>
+  .tag-index {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.4;
+  }
+
+  .index-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #333;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    letter-spacing: 0.02em;
+    color: #222;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .subtitle {
+    color: #666;
+    margin-bottom: 2rem;
+  }
+
+  /* Navigazione alfabetica */
+  .alphabet-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+  }
+
+  .letter-link {
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    line-height: 2rem;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #555;
+    font-weight: 500;
+    transition: all 0.2s;
+  }
+
+  .letter-link:hover {
+    background: #333;
+    color: white;
+    border-color: #333;
+  }
+
+  /* Sezioni per lettera */
+  .letter-section {
+    margin-bottom: 0.5rem;
+  }
+
+  .letter-heading {
+    font-size: 3rem;
+    color: #999;
+    margin-bottom: 1rem;
+    font-weight: 300;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid #e0e0e0;
+  }
+
+  .tags-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  /* Singola voce tag */
+  .tag-entry {
+    padding-left: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .tag-entry:last-child {
+    margin-bottom: 0;
+  }
+
+  .tag-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .tag-name {
+    font-size: 1.25rem;
+    font-weight: 600;
+    font-style: normal !important;
+    margin: 0;
+    color: #333;
+  }
+
+  .post-count {
+    background: #f0f0f0;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.875rem;
+    color: #666;
+    font-weight: 500;
+  }
+
+  /* Lista articoli */
+  .post-references {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: #555;
+    line-height: 1.5;
+  }
+
+  .post-references li {
+    position: relative;
+    padding-left: 1rem;
+  }
+
+  .post-references li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: #999;
+  }
+
+  .post-link {
+    color: #555;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .post-link:hover {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  .more-posts {
+    font-style: italic;
+    color: #888;
+  }
+
+  .more-posts a {
+    color: #888;
+    text-decoration: none;
+  }
+
+  .more-posts a:hover {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  /* Torna su */
+  .back-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    background: #333;
+    color: white;
+    padding: 0.75rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 0.875rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    transition: background 0.2s;
+  }
+
+  .back-to-top:hover {
+    background: #000;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 2rem;
+    }
+
+    .letter-heading {
+      font-size: 2rem;
+    }
+
+    .tag-entry {
+      padding-left: 1rem;
+    }
+
+    .alphabet-nav {
+      gap: 0.25rem;
+    }
+
+    .letter-link {
+      width: 1.75rem;
+      height: 1.75rem;
+      line-height: 1.75rem;
+      font-size: 0.875rem;
+    }
+
+    .back-to-top {
+      bottom: 1rem;
+      right: 1rem;
+    }
+  }
+</style>
