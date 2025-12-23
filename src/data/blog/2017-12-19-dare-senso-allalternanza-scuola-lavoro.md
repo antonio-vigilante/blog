@@ -3,7 +3,7 @@ title: "Dare senso all'Alternanza Scuola-Lavoro"
 author: Antonio Vigilante
 pubDatetime: 2017-12-19
 tags: 
-  - "Alternanza Scuola-Lavoro"
+  - "alternanza scuola-lavoro"
   - "scuola"
   - "Service Learning"
 description: >
