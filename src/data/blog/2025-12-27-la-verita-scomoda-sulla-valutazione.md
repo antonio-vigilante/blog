@@ -26,7 +26,7 @@ Ho sottoposto a diverse IA un passo della traduzione del *De Rerum Natura* di Mi
 >*Problemi significativi*:  
 >Omissioni: Alcuni passaggi latini non trovano corrispondenza precisa nella traduzione italiana, con perdita di sfumature argomentative.  
 >*Imprecisioni concettuali*:  
->"inflammasset equus nocturno Graiugenarum" (il cavallo di legno dei Greci) diventa genericamente >"l'incendio di Troia", perdendo il riferimento specifico al cavallo di Troia  
+>"inflammasset equus nocturno Graiugenarum" (il cavallo di legno dei Greci) diventa genericamente "l'incendio di Troia", perdendo il riferimento specifico al cavallo di Troia  
 >La resa di concetti atomistici chiave a volte manca di precisione terminologica  
 >*Sintassi forzata*: In diversi punti la traduzione segue troppo rigidamente la costruzione latina, risultando poco naturale in italiano (es. lunghi periodi ipotetici che in italiano suonano pesanti).  
 >*Lessico*: Alcune scelte lessicali sono discutibili o antiquate anche per una traduzione letteraria.  
