@@ -67,4 +67,4 @@ Il paradosso:
 Cosa ne penso? Che ancora una volta le IA sono uno specchio della nostra umanità e ci aiutano a comprendere meglio noi stessi. Anche come docenti.
 
 
-[^1]: H. Piéron, *Examens et docimologie, Presses Universitaires de France*, Paris 1963; cfr C. Corsini, *La valutazione che educa. Liberare insegnamento e apprendimento dalla tirannia del voto*, FrancoAngeli, Milano 2023, p. 38.
+[^1]: H. Piéron, *Examens et docimologie*, Presses Universitaires de France, Paris 1963; cfr C. Corsini, *La valutazione che educa. Liberare insegnamento e apprendimento dalla tirannia del voto*, FrancoAngeli, Milano 2023, p. 38.
