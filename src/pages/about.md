@@ -8,7 +8,7 @@ Sono nato a Foggia, città nella quale per diversi decenni ho espiato non so ben
 
 Ho un dottorato in Dinamiche formative e educazione alla politica; ho studiato anche relazioni gruppali, bioetica e philosophy for children/philosophy for community: e molta filosofia. Sono stato direttore scientifico di "Educazione Democratica"; sono attualmente direttore responsabile di "Educazione Aperta" e direttore scientifico della collana "Ianus. Educazione e trasformazione sociale" della casa editrice Ledizioni di Milano.
 
-Mi sono occupato di filosofia della nonviolenza; negli ultimi tempi mi occupo soprattutto di pedagogia scolastica e filosofia interculturale. Nel 2014 ho conseguito l’abilitazione all’insegnamento universitario della Filosofia Morale.
+Mi sono occupato di filosofia della nonviolenza; negli ultimi tempi mi occupo soprattutto di pedagogia scolastica e filosofia interculturale. Nel 2014 ho conseguito l’abilitazione all’insegnamento universitario della Filosofia Morale. Oltre che su "Educazione Aperta", scrivo su ["Gli Stati Generali"](https://www.glistatigenerali.com/author/naciketas/), ["MicroMega"](https://www.micromega.net/author/antonio-vigilante), ["La ricerca"](https://laricerca.loescher.it/autori/vigilante/) e ["Gli Asini"](https://gliasinirivista.org/autore/antonio-vigilante/).
 
 Il mio ultimo libro è *La stanza di fronte. Tre saggi di filosofia interculturale* (Ledizioni, 2024). [Qui](/libri/) tutti i miei libri.
 
