@@ -4,14 +4,10 @@ author: Antonio Vigilante
 pubDatetime: 2012-12-14
 tags: 
   - Benedetto XVI
-  - Cattolicesimo
+  - cattolicesimo
   - Chiesa
-description: |
-  Nel Messaggio di Benedetto XVI per la Giornata Mondiale della Pace si legge: 
-  "Oltre a svariate forme di terrorismo e di criminalità internazionale, sono pericolosi per la pace quei fondamentalismi e quei fanatismi che stravolgono la vera natura della religione, chiamata a favorire la comunione e la riconciliazione tra gli uomini."  
-  Difficile dargli torto: fondamentalismo e fanatismo sono nemici della pace. Il problema è che il fondamentalismo ed il fanatismo sono sempre quelli degli altri. Più avanti, nel discorso, c'è il seguente passo...
----
-
+description: >
+  Nel Messaggio di Benedetto XVI per la Giornata Mondiale della Pace si legge: "Oltre a svariate forme di terrorismo e di criminalità internazionale, sono pericolosi per la pace quei fondamentalismi e quei fanatismi che stravolgono la vera natura della religione, chiamata a favorire la comunione e la riconciliazione tra gli uomini."  Difficile dargli torto: fondamentalismo e fanatismo sono nemici della pace. Il problema è che il fondamentalismo ed il fanatismo sono sempre quelli degli altri. Più avanti, nel discorso, c'è il seguente passo...
 ---
 
 Nel [Messaggio di Benedetto XVI per la Giornata Mondiale della Pace](http://www.vatican.va/holy_father/benedict_xvi/messages/peace/documents/hf_ben-xvi_mes_20121208_xlvi-world-day-peace_it.html) si legge:  
