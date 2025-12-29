@@ -1,5 +1,5 @@
 ---
-title: "La dstra e il genocidio palestinese"
+title: "La destra e il genocidio palestinese"
 author: Antonio Vigilante
 pubDatetime: 2025-12-29
 tags:
