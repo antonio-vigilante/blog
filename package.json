@@ -16,6 +16,7 @@
     "@astrojs/mdx": "^4.3.12",
     "@astrojs/rss": "^4.0.12",
     "@astrojs/sitemap": "^3.6.0",
+    "@fontsource/inter": "^5.2.8",
     "@resvg/resvg-js": "^2.6.2",
     "@tailwindcss/vite": "^4.1.11",
     "dayjs": "^1.11.13",
