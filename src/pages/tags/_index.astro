@@ -48,7 +48,7 @@ sortedTags.forEach(([tag, posts]) => {
 });
 ---
 
-<Layout frontmatter={{ title: "Indice Analitico", description: "Esplora tutti gli argomenti trattati nel blog organizzati alfabeticamente" }}>
+<Layout frontmatter={{ title: "Indice analitico", description: "Esplora tutti gli argomenti trattati nel blog organizzati alfabeticamente" }}>
   <main class="tag-index">
     <header class="index-header">
       <p class="subtitle">
@@ -314,84 +314,5 @@ sortedTags.forEach(([tag, posts]) => {
       bottom: 1rem;
       right: 1rem;
     }
-  }
-
-  /* Dark mode */
-  :global(html[data-theme="dark"]) .tag-index {
-    color: #e0e0e0;
-  }
-
-  :global(html[data-theme="dark"]) .index-header {
-    border-bottom-color: #666;
-  }
-
-  :global(html[data-theme="dark"]) h1 {
-    color: #e0e0e0;
-  }
-
-  :global(html[data-theme="dark"]) .subtitle {
-    color: #aaa;
-  }
-
-  :global(html[data-theme="dark"]) .letter-link {
-    border-color: #555;
-    color: #aaa;
-    background: transparent;
-  }
-
-  :global(html[data-theme="dark"]) .letter-link:hover {
-    background: #ddd;
-    color: #222;
-    border-color: #ddd;
-  }
-
-  :global(html[data-theme="dark"]) .letter-heading {
-    color: #666;
-    border-bottom-color: #444;
-  }
-
-  :global(html[data-theme="dark"]) .tag-name {
-    color: #e0e0e0;
-  }
-
-  :global(html[data-theme="dark"]) .post-count {
-    background: #333;
-    color: #aaa;
-  }
-
-  :global(html[data-theme="dark"]) .post-references {
-    color: #aaa;
-  }
-
-  :global(html[data-theme="dark"]) .post-references li::before {
-    color: #666;
-  }
-
-  :global(html[data-theme="dark"]) .post-link {
-    color: #bbb;
-  }
-
-  :global(html[data-theme="dark"]) .post-link:hover {
-    color: #fff;
-  }
-
-  :global(html[data-theme="dark"]) .more-posts {
-    color: #888;
-  }
-
-  :global(html[data-theme="dark"]) .more-posts a {
-    color: #888;
-  }
-
-  :global(html[data-theme="dark"]) .more-posts a:hover {
-    color: #ddd;
-  }
-
-  :global(html[data-theme="dark"]) .back-to-top {
-    background: #444;
-  }
-
-  :global(html[data-theme="dark"]) .back-to-top:hover {
-    background: #666;
   }
 </style>
