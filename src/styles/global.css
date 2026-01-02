@@ -1,11 +1,11 @@
 @import "tailwindcss";
 @import "./typography.css";
 
-@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+@custom-variant light (&:where([data-theme=dark], [data-theme=dark] *));
 
 :root,
 html[data-theme="light"] {
-  --background: #F5F5F0;
+  --background: #ffffff;
   --foreground: #282728;
   --accent: #006cac;
   --muted: #e6e6e6;
