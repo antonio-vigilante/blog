@@ -10,7 +10,7 @@ Ho un dottorato in Dinamiche formative e educazione alla politica; ho studiato a
 
 Mi sono occupato di filosofia della nonviolenza; negli ultimi tempi mi occupo soprattutto di pedagogia scolastica e filosofia interculturale. Nel 2014 ho conseguito [l’abilitazione all’insegnamento universitario della Filosofia morale](/posts/2014-03-01-abilitazione). Oltre che su "Educazione Aperta", scrivo su ["Gli Stati Generali"](https://www.glistatigenerali.com/author/naciketas/), ["MicroMega"](https://www.micromega.net/author/antonio-vigilante), ["La ricerca"](https://laricerca.loescher.it/autori/vigilante/) e ["Gli Asini"](https://gliasinirivista.org/autore/antonio-vigilante/).
 
-Il mio ultimo libro è *La stanza di fronte. Tre saggi di filosofia interculturale* (Ledizioni, 2024). [Qui](/libri/) tutti i miei libri.
+Il mio ultimo libro è *Senza cattedra. La scuola possibile* (Loescher, 2026). [Qui](/libri/) tutti i miei libri.
 
 Sono vegetariano fin dall’adolescenza. Ritengo che ogni essere vivente – compresi insetti e piante – abbia un diritto alla vita che può essere negato dall’essere umano soltanto per la sopravvivenza, e solo se non esistono alternative.
 
