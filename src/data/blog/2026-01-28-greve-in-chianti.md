@@ -3,7 +3,7 @@ title: "Senza cattedra a Greve in Chianti"
 author: Antonio Vigilante
 pubDatetime: 2026-01-28
 tags:
- - incontri
+  - incontri
 description: >
    A Greve in Chianti per discutere della scuola possibile, nell'ambito 
    di "Semi educativi".
