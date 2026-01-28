@@ -5,6 +5,8 @@ title: "I miei libri"
 
 ## Saggi
 
+*Senza cattedra. La scuola possibile*, Loscher, Torino 2026.
+
 *La stanza di fronte. Tre saggi di filosofia interculturale*, Ledizioni, Milano 2024
 
 *Dio è falso. Una breve introduzione all’ateismo*, endehors, 2022
