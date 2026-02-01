@@ -122,11 +122,11 @@ Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* inse
 
 [^2]: L. Boltanski, L. Thévenot, *De la justification. Les économies de la grandeur*, Gallimard, Paris 2022 (prima edizione 1991), p. 254.
 
-[^3]: *Indicazioni Nazionali per il curricolo Scuola dell’infanzia e Scuole del Primo ciclo di istruzione", url: https://www.mim.gov.it/documents/20182/0/Indicazioni+Nazionali.pdf/1fb1a29e-67dd-59a0-6c58-f1ad455c526a?version=1.1&t=1765308210564, p. 8.
+[^3]: *Indicazioni Nazionali per il curricolo Scuola dell’infanzia e Scuole del Primo ciclo di istruzione*, url: https://www.mim.gov.it/documents/20182/0/Indicazioni+Nazionali.pdf/1fb1a29e-67dd-59a0-6c58-f1ad455c526a?version=1.1&t=1765308210564, p. 8.
 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjA4NzcxNSwxNjU0NTcyODc5LC0xNj
-czNTk1NzQ0XX0=
+eyJoaXN0b3J5IjpbMTk0NzA1NDkwMywxNjIyMDg3NzE1LDE2NT
+Q1NzI4NzksLTE2NzM1OTU3NDRdfQ==
 -->
