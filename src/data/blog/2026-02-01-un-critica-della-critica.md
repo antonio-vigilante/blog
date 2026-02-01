@@ -4,9 +4,9 @@ title: "Una critica della critica della scuola neoliberale"
 author: Antonio Vigilante
 pubDatetime: 2026-02-01
 tags:
- - scuola
- - recensioni
- - Mimmo Cangiano
+  - scuola
+  - recensioni
+  - Mimmo Cangiano
 description: >
    "Contro la scuola neoliberale. Tecniche di resistenza per docenti" (a cura di Mimmo Cangiano, nottetempo, Roma 2026) è un 
    libro che non dice nulla di nuovo,  ma tira le fila di un discorso sulla scuola che merita attenzione portandolo in piena luce, e
@@ -127,5 +127,5 @@ Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* inse
 [^bolt]: L. Boltanski, L. Thévenot, *De la justification. Les économies de la grandeur*, Gallimard, Paris 2022 (prima edizione 1991), p. 254.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk4MDYwMDRdfQ==
+eyJoaXN0b3J5IjpbLTE2NzM1OTU3NDRdfQ==
 -->
