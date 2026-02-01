@@ -13,10 +13,10 @@ Venerdì 30 gennaio parlerò di *La scuola possibile* alla Biblioteca comunale d
 
 L'appuntamento è alle 17.00. Per partecipare è bene prenotarsi mandando una mail a semieducativi@gmail.com
 
-[PDF](/PDF/2026-01-30-pres.pdf)
+[PDF](/PDF/2026-01-30-presgreve-30012026.pdf)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTMwMjc4NTQsLTE3MDcwNzYwMCw0MD
-k0ODcyMF19
+eyJoaXN0b3J5IjpbMTI5NDgyNjY0OCwtMTE5MzAyNzg1NCwtMT
+cwNzA3NjAwLDQwOTQ4NzIwXX0=
 -->
