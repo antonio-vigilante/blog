@@ -95,11 +95,11 @@ Quando Marco Maurizi, attaccando, esattamente con lo stesso tono di Galli della 
 
 Nelle Indicazioni Nazionali:
 
-> Grazie al lungo allenamento all’autogoverno garantito negli anni di frequenza scolastica, e in virtù delle "regole" (regole di comportamento, ma anche regole tratte dai contenuti e dai metodi delle stesse discipline, come, p.e., le regole di grammatica o le regole dei giochi in palestra), l’allievo interiorizza il senso del limite e un’etica del rispetto verso il prossimo, gli anziani, i più deboli, che ha nella solidarietà e nella fraternità due luminosi fari di orientamento.[^in] 
+> Grazie al lungo allenamento all’autogoverno garantito negli anni di frequenza scolastica, e in virtù delle "regole" (regole di comportamento, ma anche regole tratte dai contenuti e dai metodi delle stesse discipline, come, p.e., le regole di grammatica o le regole dei giochi in palestra), l’allievo interiorizza il senso del limite e un’etica del rispetto verso il prossimo, gli anziani, i più deboli, che ha nella solidarietà e nella fraternità due luminosi fari di orientamento.[^3] 
 
 Grazie all'autodisciplinamento imposto dalla disciplina - abbiamo visto che dovremo evitare ogni approccio creativo e laboratoriale, perché è neoliberismo - avremo un soggetto libero. Non è poco. Ma che rapporto avrà questo soggetto con il capitalismo? 
 
-Qualche pagina prima del passo citato di Maurizi, Daniele Lo Vetere scrive che la "razionalità neoliberale" ha mandato in soffitta il "dispositivo industriale di efficienza" del fordismo. E in cosa consisteva? "Ciò che tale dispositivo apprezzava nei soggetti - scrive - erano attitudini e capacità come l'autodisciplinamento, la metodicità, il rinvio superegotivo della soddisfazione dei bisogni al futuro" (p. 20). 
+Qualche pagina prima del passo citato di Maurizi, Daniele Lo Vetere scrive che la "razionalità neoliberale" ha mandato in soffitta **il "dispositivo industriale di efficienza" del fordismo**. E in cosa consisteva? "Ciò che tale dispositivo apprezzava nei soggetti - scrive - erano attitudini e capacità come l'autodisciplinamento, la metodicità, il rinvio superegotivo della soddisfazione dei bisogni al futuro" (p. 20). 
 
 Un momento. Diamo per buona questa analisi; qualcosa comunque non torna. Perché se la disciplina porta all'autodisciplinamento, e l'autodisciplinamento è un aspetto centrale del *dispositivo industriale di efficienza*, allora qui si tratta non di combattere il capitalismo in sé, ma di fare una sorta di *downgrade*, di passaggio a una versione precedente del capitalismo: poiché il capitalismo neoliberista (ma oggi bisognerebbe parlare di *capitalismo mafioso*) non ci piace, facciamo in modo di tornare all'efficienza capitalistica, all'autodisciplinamento della cara vecchia società industriale, alla serietà del lavoratore che rimanda la soddisfazione del piacere, come vuole quel *mondo adulto* che piace tanto a Biesta. 
 
@@ -113,18 +113,19 @@ Ho detto che questo libro è, che piaccia o meno agli autori, un prodotto che st
 
 È esattamente quello che accade. Si produce una *scuola di carta*, parallela alla scuola reale; e la scuola reale resta la stessa. Così, ad esempio, con le *competenze*. Se si chiede di certificarle, si certificano: basta riempire delle carte. E fare la didattica di sempre. Certo, resterà in alcuni un sottile disagio. Ed ecco l'utilità di questo libro. Che viene a dirci che si tratta di una *resistenza passiva* all'assalto neoliberista alla scuola; che fare quello che si è sempre fatto non è pigrizia, ma coraggio. 
 
-Considereremo, con Marco Maurizi, "una barzelletta" (p. 38) l'idea che i docenti debbano essere formati, e saremo incoraggiati a dire invece che abbiamo "alunni sempre meno scolarizzati" (p. 67), come si esprime ancora Maurizi. Chiedere ai docenti almeno un momento di riflessione sui termini e le espressioni che usano quando parlano di studenti e magari proprio sulla continuità e contiguità tra certo gergo scolastico e certo gergo aziendale vuol dire insultarli. Così Maurizi: "i continui insulti che la sinistra ultrapedagogica rivolge ai docenti recalcitranti al suo gergo e alle sue ricette" (p. 44). 
+Considereremo, con Marco Maurizi, **"una barzelletta" (p. 38) l'idea che i docenti debbano essere formati**, e saremo incoraggiati a dire invece che abbiamo "alunni sempre meno scolarizzati" (p. 67), come si esprime ancora Maurizi. Chiedere ai docenti almeno un momento di riflessione sui termini e le espressioni che usano quando parlano di studenti e magari proprio sulla continuità e contiguità tra certo gergo scolastico e certo gergo aziendale vuol dire insultarli. Così Maurizi: "i continui insulti che la sinistra ultrapedagogica rivolge ai docenti recalcitranti al suo gergo e alle sue ricette" (p. 44). 
 
 Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* insegnanti - che la loro inerzia è in realtà rivoluzionaria: sono rimasti gli unici custodi della trasmissione del sapere in un mondo assediato dal male. Il neoliberismo è ormai degenerato in un capitalismo gangsteristico e mai come ora la democrazia è un pericolo. Che fare in un contesto così difficile, così tragicamente mutato? La lezione, dicono. Sipario.
 
 
 [^1]: A. Vigilante, *I mondi al centro dell'educazione*, "Gli Asini", 28 Marzo 2024, url: https://gliasinirivista.org/i-mondi-al-centro-delleducazione. Sul tema torno in *Senza cattedra. La scuola possibile*, Loescher, Torino 2026, pp. 147 segg. Il libro di Biesta discusso è *Il mondo al centro dell'educazione. Una visione per il presente*, tab, Roma 2023.
+[^3]: L. Boltanski, L. Thévenot, *De la justification. Les économies de la grandeur*, Gallimard, Paris 2022 (prima edizione 1991), p. 254.
 
-[^in]: *Indicazioni Nazionali per il curricolo Scuola dell’infanzia e Scuole del Primo ciclo di istruzione", url: https://www.mim.gov.it/documents/20182/0/Indicazioni+Nazionali.pdf/1fb1a29e-67dd-59a0-6c58-f1ad455c526a?version=1.1&t=1765308210564, p. 8.
+[^3]: *Indicazioni Nazionali per il curricolo Scuola dell’infanzia e Scuole del Primo ciclo di istruzione", url: https://www.mim.gov.it/documents/20182/0/Indicazioni+Nazionali.pdf/1fb1a29e-67dd-59a0-6c58-f1ad455c526a?version=1.1&t=1765308210564, p. 8.
 
-[^bolt]: L. Boltanski, L. Thévenot, *De la justification. Les économies de la grandeur*, Gallimard, Paris 2022 (prima edizione 1991), p. 254.
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE3OTI4NTMsMTY1NDU3Mjg3OSwtMT
-Y3MzU5NTc0NF19
+eyJoaXN0b3J5IjpbLTg5ODMyMzU2MSwxNjU0NTcyODc5LC0xNj
+czNTk1NzQ0XX0=
 -->
