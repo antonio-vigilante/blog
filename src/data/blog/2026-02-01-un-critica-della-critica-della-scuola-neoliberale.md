@@ -77,7 +77,7 @@ E' interessante considerare i riferimenti culturali degli autori di questi saggi
 
 A Biesta si appella Contu alla ricerca di una *terza via* che nasca dal basso, dall'esperienza dell'aula. E che consiste nel ribadire la centralità del docente nella sua relazione con lo studente, perché è lui, il docente, a salvarlo dalla deriva del *piacere* e del *desiderio* neoliberista e a guidarlo verso la libertà dell'esistenza "in un mondo adulto" (p. 146). Come ho argomentato altrove[^1], in questo discorso di Biesta a non convincere non è solo la riduzione del piacere/desiderio al neoliberismo, ma anche la riduzione della complessità della realtà sociale, culturale, economica a *un solo mondo adulto*. 
 
-**Esistono molti mondi adulti.** Boltanski e Thévenot ne hanno descritti sei, ciascuno retto da proprie grammatiche della giustificazione e criteri di valore: il mondo dell'ispirazione, in cui a contare sono la creatività, la spontaneità, l'originalità; quello domestico, in cui conta la tradizione e la propria collocazione in un contesto gerarchico; quello dell'opinione, in cui conta il riconoscimento da parte di un pubblico; quello civico, in cui conta la disponibilità di mettersi al servizio di valori trascendenti la nostra persona; quello mercantile, in cui si muovono individui che cercano di realizzare i propri desideri in competizione tra loro; e infine il mondo industriale, che non ha a che fare solo con l'impresa, ma con qualsiasi situazione organizzativa in cui vengano in primo piano l'*efficacia*, la *performance*, la *produttività*. In quest'ultimo mondo si è riconosciuti grandi nella misura in cui sono efficienti, mentre si è piccoli se si è improduttivi.[^bolt]
+**Esistono molti mondi adulti.** Boltanski e Thévenot ne hanno descritti sei, ciascuno retto da proprie grammatiche della giustificazione e criteri di valore: il mondo dell'ispirazione, in cui a contare sono la creatività, la spontaneità, l'originalità; quello domestico, in cui conta la tradizione e la propria collocazione in un contesto gerarchico; quello dell'opinione, in cui conta il riconoscimento da parte di un pubblico; quello civico, in cui conta la disponibilità di mettersi al servizio di valori trascendenti la nostra persona; quello mercantile, in cui si muovono individui che cercano di realizzare i propri desideri in competizione tra loro; e infine il mondo industriale, che non ha a che fare solo con l'impresa, ma con qualsiasi situazione organizzativa in cui vengano in primo piano l'*efficacia*, la *performance*, la *produttività*. In quest'ultimo mondo si è riconosciuti grandi nella misura in cui sono efficienti, mentre si è piccoli se si è improduttivi.[^2]
 
 Per gli autori di questo libro il problema è che la scuola si è avvicinata troppo a mondi come quello mercantile e industriale. Dal punto di vista della pedagogia critica, la scuola è *da sempre* parte di quei mondi. La scuola è un contesto organizzativo in cui, per dirla con i termini di Boltanski e Tévenot, lo studente è grande (una grandezza sancita dal voto) nella misura in cui è efficiente e  produttivo; nella misura in cui *lavora*. 
 
@@ -119,13 +119,14 @@ Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* inse
 
 
 [^1]: A. Vigilante, *I mondi al centro dell'educazione*, "Gli Asini", 28 Marzo 2024, url: https://gliasinirivista.org/i-mondi-al-centro-delleducazione. Sul tema torno in *Senza cattedra. La scuola possibile*, Loescher, Torino 2026, pp. 147 segg. Il libro di Biesta discusso è *Il mondo al centro dell'educazione. Una visione per il presente*, tab, Roma 2023.
-[^3]: L. Boltanski, L. Thévenot, *De la justification. Les économies de la grandeur*, Gallimard, Paris 2022 (prima edizione 1991), p. 254.
+
+[^2]: L. Boltanski, L. Thévenot, *De la justification. Les économies de la grandeur*, Gallimard, Paris 2022 (prima edizione 1991), p. 254.
 
 [^3]: *Indicazioni Nazionali per il curricolo Scuola dell’infanzia e Scuole del Primo ciclo di istruzione", url: https://www.mim.gov.it/documents/20182/0/Indicazioni+Nazionali.pdf/1fb1a29e-67dd-59a0-6c58-f1ad455c526a?version=1.1&t=1765308210564, p. 8.
 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODMyMzU2MSwxNjU0NTcyODc5LC0xNj
+eyJoaXN0b3J5IjpbMTYyMjA4NzcxNSwxNjU0NTcyODc5LC0xNj
 czNTk1NzQ0XX0=
 -->
