@@ -41,7 +41,7 @@ Al neoliberismo sono riconducibili, e dunque vanno rigettate, tutte le innovazio
 
 ## Universi sterminati
 
-È chiaro che tutto è riconducibile in questo modo al neoliberismo e non c'è nulla che si salvi. O meglio: **si salva solo la lezione frontale**. Dopo aver usato il tritacarne verso ogni pratica didattica più o meno innovativa, senza alcun distinguo e senza anche, va detto, alcun rispetto verso chi sperimenta spesso a proprio rischio, gli autori chiedono il massimo rispetto per la lezione. Ci si guardi bene, avverte Alberto Contu, dal ridurne la complessità ricorrendo allo stereotipo dell'insegnante "occhialuto, paffuto e arcigno" che impone per ore il suo sermone. Tutt'altro: la lezione frontale 
+È chiaro che tutto è riconducibile in questo modo al neoliberismo e non c'è nulla che si salvi. O meglio: **si salva solo la lezione frontale**. Dopo aver usato il tritacarne verso ogni pratica didattica più o meno innovativa, senza alcun distinguo e senza anche, va detto, alcun rispetto verso chi sperimenta spesso a proprio rischio, gli autori chiedono il massimo rispetto per la lezione. Ci si guardi bene, avverte Roberto Contu, dal ridurne la complessità ricorrendo allo stereotipo dell'insegnante "occhialuto, paffuto e arcigno" che impone per ore il suo sermone. Tutt'altro: la lezione frontale 
 
 > è quell'universo sterminato di interazioni, movimenti, aggiustamenti impercettibili della relazione e di cura del rapporto didattico che passa attraverso il corpo, i tempi, gli spazi, la parola, l'inconscio, la presenza, il vuoto che si riempie tra il banco e la cattedra... (p. 142)
 
@@ -126,7 +126,7 @@ Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* inse
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU5NDg0MzMsLTQxMjMzNDc1MSwxOT
-Q3MDU0OTAzLDE2MjIwODc3MTUsMTY1NDU3Mjg3OSwtMTY3MzU5
-NTc0NF19
+eyJoaXN0b3J5IjpbLTEzNDA5OTkzOTUsLTExMjU5NDg0MzMsLT
+QxMjMzNDc1MSwxOTQ3MDU0OTAzLDE2MjIwODc3MTUsMTY1NDU3
+Mjg3OSwtMTY3MzU5NTc0NF19
 -->
