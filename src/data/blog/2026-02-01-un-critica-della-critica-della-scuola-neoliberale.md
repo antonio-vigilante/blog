@@ -21,7 +21,7 @@ I lettori che, fidandosi del sottotitolo, vi cercheranno *tecniche di resistenza
 
 ## Nella cornice
 
-Partiamo da quello che c'è *nella* cornice. Difficile non essere almeno in parte d'accordo con l'analisi critica dei percorsi universitari di abilitazione dei docenti fatta da Attilio Scuderi, che si sofferma in particolare sul *vulnus* dei costi, che di fatto negano ai più poveri l'accesso alla professione di insegnante, e sulla presenza ingombrante delle Università telematiche; ed è difficile non condividere quello che scrive Emanuela Bandini sul modo in cui sono stati usati i fondi del PNRR. C'è anche più di qualche punto condivisibile nell'intervento conclusivo di Alberto Contu, che si interroga su un *discorso pubblico* sulla scuola nel quale la voce dei docenti si fa sentire poco; e tra i pregi di questo libro c'è proprio il fatto che gli autori sono in gran parte docenti della scuola pubblica.
+Partiamo da quello che c'è *nella* cornice. Difficile non essere almeno in parte d'accordo con l'analisi critica dei percorsi universitari di abilitazione dei docenti fatta da Attilio Scuderi, che si sofferma in particolare sul *vulnus* dei costi, che di fatto negano ai più poveri l'accesso alla professione di insegnante, e sulla presenza ingombrante delle Università telematiche; ed è difficile non condividere quello che scrive Emanuela Bandini sul modo in cui sono stati usati i fondi del PNRR. C'è anche più di qualche punto condivisibile nell'intervento conclusivo di Roberto Contu, che si interroga su un *discorso pubblico* sulla scuola nel quale la voce dei docenti si fa sentire poco; e tra i pregi di questo libro c'è proprio il fatto che gli autori sono in gran parte docenti della scuola pubblica.
 
 Soprende un po', invece, che manchi nel libro **una critica della deriva degli organi collegiali**. Li evoca Contu, per il quale "l'insegnamento è un lavoro collettivo" e la scuola è "uno dei pochi consorzi rimasti all'interno del quale la collegialità è costitutiva, al netto dei progressivi tentativi di smantellare tale identità" (p. 147). E cita, a supporto di questa considerazione, le prese di posizione di alcuni collegi dei docenti su questioni come il PNRR o la figura del tutor. Si potrebbero aggiungere anche le denunce del genocidio a Gaza, ma restano esempi di quello che *può* e *deve* essere un collegio dei docenti - non, purtroppo, di quello che è. 
 
@@ -115,7 +115,7 @@ Ho detto che questo libro è, che piaccia o meno agli autori, un prodotto che st
 
 Considereremo, con Marco Maurizi, **"una barzelletta" (p. 38) l'idea che i docenti debbano essere formati**, e saremo incoraggiati a dire invece che abbiamo "alunni sempre meno scolarizzati" (p. 67), come si esprime ancora Maurizi. Chiedere ai docenti almeno un momento di riflessione sui termini e le espressioni che usano quando parlano di studenti e magari proprio sulla continuità e contiguità tra certo gergo scolastico e certo gergo aziendale vuol dire insultarli. Così Maurizi: "i continui insulti che la sinistra ultrapedagogica rivolge ai docenti recalcitranti al suo gergo e alle sue ricette" (p. 44). 
 
-Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* insegnanti - che la loro inerzia è in realtà rivoluzionaria: sono rimasti gli unici custodi della trasmissione del sapere in un mondo assediato dal male. Il neoliberismo è ormai degenerato in un capitalismo gangsteristico e mai come ora la democrazia è un pericolo. Che fare in un contesto così difficile, così tragicamente mutato? La lezione, dicono. Sipario.
+Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* insegnanti - che la loro inerzia è in realtà rivoluzionaria: sono rimasti gli unici custodi della trasmissione del sapere in un mondo assediato dal male. Il sistema globale è ormai collassato in un capitalismo gangsteristico e anche in Europa la democrazia non è più scontata. Che fare in un contesto così difficile, così tragicamente mutato? La lezione, dicono. Sipario.
 
 
 [^1]: A. Vigilante, *I mondi al centro dell'educazione*, "Gli Asini", 28 Marzo 2024, url: https://gliasinirivista.org/i-mondi-al-centro-delleducazione. Sul tema torno in *Senza cattedra. La scuola possibile*, Loescher, Torino 2026, pp. 147 segg. Il libro di Biesta discusso è *Il mondo al centro dell'educazione. Una visione per il presente*, tab, Roma 2023.
@@ -127,6 +127,6 @@ Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* inse
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzA1NDkwMywxNjIyMDg3NzE1LDE2NT
-Q1NzI4NzksLTE2NzM1OTU3NDRdfQ==
+eyJoaXN0b3J5IjpbLTEzOTQ4NDQ3NzEsMTk0NzA1NDkwMywxNj
+IyMDg3NzE1LDE2NTQ1NzI4NzksLTE2NzM1OTU3NDRdfQ==
 -->
