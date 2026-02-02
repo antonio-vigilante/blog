@@ -12,7 +12,7 @@ export const SITE = {
   showArchives: true,
   showBackButton: false, // show back button in post detail
   editPost: {
-    enabled: true,
+    enabled: false,
     text: "Modifica",
     url: "https://github.com/antonio-vigilante/blog/edit/main/",
   },

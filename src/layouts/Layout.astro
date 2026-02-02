@@ -80,6 +80,7 @@ const isXML = Astro.url.pathname.endsWith(".xml");
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalURL} />
+    <meta property="og:type" content="article" /> 
     <meta property="og:image" content={socialImageURL} />
 
     <!-- Article Published/Modified time -->
@@ -125,6 +126,7 @@ const isXML = Astro.url.pathname.endsWith(".xml");
 
   <body>
     <slot />
+
   </body>
 </html>
 
