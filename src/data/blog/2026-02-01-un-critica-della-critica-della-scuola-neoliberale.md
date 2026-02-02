@@ -115,7 +115,7 @@ Ho detto che questo libro è, che piaccia o meno agli autori, un prodotto che st
 
 Considereremo, con Marco Maurizi, **"una barzelletta" (p. 38) l'idea che i docenti debbano essere formati**, e saremo incoraggiati a dire invece che abbiamo "alunni sempre meno scolarizzati" (p. 67), come si esprime ancora Maurizi. Chiedere ai docenti almeno un momento di riflessione sui termini e le espressioni che usano quando parlano di studenti e magari proprio sulla continuità e contiguità tra certo gergo scolastico e certo gergo aziendale vuol dire insultarli. Così Maurizi: "i continui insulti che la sinistra ultrapedagogica rivolge ai docenti recalcitranti al suo gergo e alle sue ricette" (p. 44). 
 
-Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* insegnanti - che la loro inerzia è in realtà rivoluzionaria: sono rimasti gli unici custodi della trasmissione del sapere in un mondo assediato dal male. Il sistema globale è ormai collassato in un capitalismo gangsteristico e anche in Europa la democrazia non è più scontata. Che fare in un contesto così difficile, così tragicamente mutato? La lezione, dicono. Sipario.
+Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* insegnanti - che la loro inerzia è in realtà rivoluzionaria: sono rimasti gli unici custodi della trasmissione del sapere in un mondo assediato dal male. Il sistema globale è ormai collassato in un capitalismo gangsteristico e anche in Europa la democrazia non è più scontata. Che fare in un contesto così difficile, così tragicamente mutato? La lezione frontale, dicono. Sipario.
 
 [^1]: A. Vigilante, *I mondi al centro dell'educazione*, "Gli Asini", 28 Marzo 2024, url: https://gliasinirivista.org/i-mondi-al-centro-delleducazione. Sul tema torno in *Senza cattedra. La scuola possibile*, Loescher, Torino 2026, pp. 147 segg. Il libro di Biesta discusso è *Il mondo al centro dell'educazione. Una visione per il presente*, tab, Roma 2023.
 
@@ -126,7 +126,8 @@ Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* inse
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDUxNjQyNywtMTM0MDk5OTM5NSwtMT
-EyNTk0ODQzMywtNDEyMzM0NzUxLDE5NDcwNTQ5MDMsMTYyMjA4
-NzcxNSwxNjU0NTcyODc5LC0xNjczNTk1NzQ0XX0=
+eyJoaXN0b3J5IjpbLTIwMzE1OTA2OTYsMTYyNDUxNjQyNywtMT
+M0MDk5OTM5NSwtMTEyNTk0ODQzMywtNDEyMzM0NzUxLDE5NDcw
+NTQ5MDMsMTYyMjA4NzcxNSwxNjU0NTcyODc5LC0xNjczNTk1Nz
+Q0XX0=
 -->
