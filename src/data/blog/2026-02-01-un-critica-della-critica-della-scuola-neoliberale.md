@@ -14,7 +14,7 @@ description: >
    nulla di tutto questo. C'è invece la denuncia delle diverse derive - "neoliberali", appunto - della scuola degli ultimi anni, 
    all'interno di una cornice che è più consolatoria che realmente critica.
 ---
-PDF
+PDF: https://zenodo.org/records/18455395
 
 *Contro la scuola neoliberale. Tecniche di resistenza per docenti* (a cura di Mimmo Cangiano, nottetempo, Roma 2026) è un libro che non dice nulla di nuovo,  ma tira le fila di un discorso sulla scuola che merita attenzione portandolo in piena luce, e per questo è utile. 
 
@@ -127,9 +127,9 @@ Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* inse
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTg5NzA5NywtODQ4MTQ5Njc5LDIxMT
-U5OTQ2MDEsLTIwMzE1OTA2OTYsMTYyNDUxNjQyNywtMTM0MDk5
-OTM5NSwtMTEyNTk0ODQzMywtNDEyMzM0NzUxLDE5NDcwNTQ5MD
-MsMTYyMjA4NzcxNSwxNjU0NTcyODc5LC0xNjczNTk1NzQ0XX0=
-
+eyJoaXN0b3J5IjpbLTg2ODkzMDMxNSwxNDExODk3MDk3LC04ND
+gxNDk2NzksMjExNTk5NDYwMSwtMjAzMTU5MDY5NiwxNjI0NTE2
+NDI3LC0xMzQwOTk5Mzk1LC0xMTI1OTQ4NDMzLC00MTIzMzQ3NT
+EsMTk0NzA1NDkwMywxNjIyMDg3NzE1LDE2NTQ1NzI4NzksLTE2
+NzM1OTU3NDRdfQ==
 -->
