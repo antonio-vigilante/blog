@@ -8,7 +8,7 @@ tags:
   - recensioni
   - Mimmo Cangiano
 description: >
-   "Contro la scuola neoliberale. Tecniche di resistenza per docenti" (a cura di Mimmo Cangiano, nottetempo, Roma 2026) è un 
+   "Contro la scuola neoliberale. Tecniche di resistenza per docenti" (a cura di Mimmo Cangiano, nottetempo, Milano 2026) è un 
    libro che non dice nulla di nuovo,  ma tira le fila di un discorso sulla scuola che merita attenzione portandolo in piena luce, e
    per questo è utile.  I lettori che, fidandosi del sottotitolo, vi cercheranno "tecniche di resistenza" resteranno delusi: non c'è 
    nulla di tutto questo. C'è invece la denuncia delle diverse derive - "neoliberali", appunto - della scuola degli ultimi anni, 
@@ -126,9 +126,9 @@ Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* inse
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODE0OTY3OSwtODY4OTMwMzE1LDE0MT
-E4OTcwOTcsLTg0ODE0OTY3OSwyMTE1OTk0NjAxLC0yMDMxNTkw
-Njk2LDE2MjQ1MTY0MjcsLTEzNDA5OTkzOTUsLTExMjU5NDg0Mz
-MsLTQxMjMzNDc1MSwxOTQ3MDU0OTAzLDE2MjIwODc3MTUsMTY1
-NDU3Mjg3OSwtMTY3MzU5NTc0NF19
+eyJoaXN0b3J5IjpbMTM3NDUzMjMzNiwtODQ4MTQ5Njc5LC04Nj
+g5MzAzMTUsMTQxMTg5NzA5NywtODQ4MTQ5Njc5LDIxMTU5OTQ2
+MDEsLTIwMzE1OTA2OTYsMTYyNDUxNjQyNywtMTM0MDk5OTM5NS
+wtMTEyNTk0ODQzMywtNDEyMzM0NzUxLDE5NDcwNTQ5MDMsMTYy
+MjA4NzcxNSwxNjU0NTcyODc5LC0xNjczNTk1NzQ0XX0=
 -->
