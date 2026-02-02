@@ -85,7 +85,7 @@ Gran cosa sarebbe se la scuola riuscisse a spostarsi, anche dal punto di vista o
 
 ## Uscire a destra
 
-Come si colloca politicamente il discorso di questo libro? L'aborrita *ultrapedagogia* democratica e deweyana è di sinistra ("gli ultrapedagogisti di sinistra", scrive Maurizi, p. 44), ma evidentemente non abbastanza; una sinistra che cede, inconsapevolmente, al neoliberismo. Gli autori chiamati a raccolta da Cangiano saranno dunque a sinistra  di questa sinistra, rappresentanti di una sinistra pura, senza compromessi. **Quel tipo di sinistra che denuncia il genocidio a Gaza ma che è in difficoltà, ahimè, con l'Ucraina.** Per Roberto Contu l'Europa "non può più qualificarsi come il soggetto politico nato su un'ipotesi di pace costruita sulle macerie della Seconda Guerra Mondiale", e ciò a causa dei "balletti di morte intorno all'Ucraina" e al conseguente riarmo (p. 135). Non è la Russia putiniana che si squalifica, invadendo l'Ucraina; è l'Europa che si squalifica difendendo un Paese invaso. 
+Come si colloca politicamente il discorso di questo libro? L'aborrita *ultrapedagogia* democratica e deweyana è di sinistra ("gli ultrapedagogisti di sinistra", scrive Maurizi, p. 44), ma evidentemente non abbastanza; una sinistra che cede, inconsapevolmente, al neoliberismo. Gli autori chiamati a raccolta da Cangiano saranno dunque a sinistra  di questa sinistra, rappresentanti di una sinistra pura, senza compromessi. **Quel tipo di sinistra che denuncia il genocidio a Gaza ma che è in difficoltà, ahimè, con l'Ucraina.** Per Emanuele Zinato l'Europa "non può più qualificarsi come il soggetto politico nato su un'ipotesi di pace costruita sulle macerie della Seconda Guerra Mondiale", e ciò a causa dei "balletti di morte intorno all'Ucraina" e al conseguente riarmo (p. 135). Non è la Russia putiniana che si squalifica, invadendo l'Ucraina; è l'Europa che si squalifica difendendo un Paese invaso. 
 
 Come spesso succede, spostandosi a sinistra un passo dopo l'altro si finisce per sbucare a destra. Succede politicamente e succede pedagogicamente. Si potrebbero inserire in questa raccolta alcune pagine di un libro come *L’aula vuota. Come l’Italia ha distrutto la sua scuola* di **Ernesto Galli della Loggia** (Marsilio, 2019) senza notare alcuna stonatura: anche lì l'antipedagogia, la denuncia della svendita della scuola al mercato, lo spauracchio delle competenze e la difesa dell'impianto tradizionale della scuola. E Galli della Loggia, come è noto, dopo aver fatto pace con la pedagogia è diventato il principale ispiratore di quell'operazione pedagogicamente e ideologicamente disastrosa che sono le nuove Indicazioni Nazionali per la scuola dell’infanzia e del primo ciclo. 
 
@@ -126,8 +126,8 @@ Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* inse
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE1OTA2OTYsMTYyNDUxNjQyNywtMT
-M0MDk5OTM5NSwtMTEyNTk0ODQzMywtNDEyMzM0NzUxLDE5NDcw
-NTQ5MDMsMTYyMjA4NzcxNSwxNjU0NTcyODc5LC0xNjczNTk1Nz
-Q0XX0=
+eyJoaXN0b3J5IjpbMjExNTk5NDYwMSwtMjAzMTU5MDY5NiwxNj
+I0NTE2NDI3LC0xMzQwOTk5Mzk1LC0xMTI1OTQ4NDMzLC00MTIz
+MzQ3NTEsMTk0NzA1NDkwMywxNjIyMDg3NzE1LDE2NTQ1NzI4Nz
+ksLTE2NzM1OTU3NDRdfQ==
 -->
