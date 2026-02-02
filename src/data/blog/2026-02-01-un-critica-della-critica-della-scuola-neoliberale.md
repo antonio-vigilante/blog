@@ -23,7 +23,7 @@ I lettori che, fidandosi del sottotitolo, vi cercheranno *tecniche di resistenza
 
 Partiamo da quello che c'è *nella* cornice. Difficile non essere almeno in parte d'accordo con l'analisi critica dei percorsi universitari di abilitazione dei docenti fatta da Attilio Scuderi, che si sofferma in particolare sul *vulnus* dei costi, che di fatto negano ai più poveri l'accesso alla professione di insegnante, e sulla presenza ingombrante delle Università telematiche; ed è difficile non condividere quello che scrive Emanuela Bandini sul modo in cui sono stati usati i fondi del PNRR. C'è anche più di qualche punto condivisibile nell'intervento conclusivo di Roberto Contu, che si interroga su un *discorso pubblico* sulla scuola nel quale la voce dei docenti si fa sentire poco; e tra i pregi di questo libro c'è proprio il fatto che gli autori sono in gran parte docenti della scuola pubblica.
 
-Soprende un po', invece, che manchi nel libro **una critica della deriva degli organi collegiali**. Li evoca Contu, per il quale "l'insegnamento è un lavoro collettivo" e la scuola è "uno dei pochi consorzi rimasti all'interno del quale la collegialità è costitutiva, al netto dei progressivi tentativi di smantellare tale identità" (p. 147). E cita, a supporto di questa considerazione, le prese di posizione di alcuni collegi dei docenti su questioni come il PNRR o la figura del tutor. Si potrebbero aggiungere anche le denunce del genocidio a Gaza, ma restano esempi di quello che *può* e *deve* essere un collegio dei docenti - non, purtroppo, di quello che è. 
+Sorprende un po', invece, che manchi nel libro **una critica della deriva degli organi collegiali**. Li evoca Contu, per il quale "l'insegnamento è un lavoro collettivo" e la scuola è "uno dei pochi consorzi rimasti all'interno del quale la collegialità è costitutiva, al netto dei progressivi tentativi di smantellare tale identità" (p. 147). E cita, a supporto di questa considerazione, le prese di posizione di alcuni collegi dei docenti su questioni come il PNRR o la figura del tutor. Si potrebbero aggiungere anche le denunce del genocidio a Gaza, ma restano esempi di quello che *può* e *deve* essere un collegio dei docenti - non, purtroppo, di quello che è. 
 
 Da luogo di riflessione democratica sulle scelte educative e didattiche della scuola, **il collegio si è progressivamente degradato** a organismo di semplice ratifica di decisioni burocratiche, e chiunque insegni ha l'esperienza di lunghi pomeriggi passati ad ascoltare liste di cose da approvare, senza la luce d'una riflessione, di un confronto o anche di una polemica che abbia realmente a che fare con il lavoro che si fa in classe. Né si può dire, restando intellettualmente onesti, che il lavoro all'interno del consiglio di classe nella scuola secondaria sia effettivamente *collettivo*. Si prendono collettivamente alcune decisioni, ma **il lavoro culturale e didattico resta individuale** e la progettazione interdisciplinare, che dovrebbe essere la norma, è un'eccezione legata alla buona volontà di alcuni. 
 
@@ -126,8 +126,8 @@ Queste sono dunque le virtù del prodotto. Dire agli insegnanti - a *certi* inse
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTk5NDYwMSwtMjAzMTU5MDY5NiwxNj
-I0NTE2NDI3LC0xMzQwOTk5Mzk1LC0xMTI1OTQ4NDMzLC00MTIz
-MzQ3NTEsMTk0NzA1NDkwMywxNjIyMDg3NzE1LDE2NTQ1NzI4Nz
-ksLTE2NzM1OTU3NDRdfQ==
+eyJoaXN0b3J5IjpbLTg0ODE0OTY3OSwyMTE1OTk0NjAxLC0yMD
+MxNTkwNjk2LDE2MjQ1MTY0MjcsLTEzNDA5OTkzOTUsLTExMjU5
+NDg0MzMsLTQxMjMzNDc1MSwxOTQ3MDU0OTAzLDE2MjIwODc3MT
+UsMTY1NDU3Mjg3OSwtMTY3MzU5NTc0NF19
 -->
