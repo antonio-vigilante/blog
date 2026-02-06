@@ -1,33 +1,37 @@
 @import "tailwindcss";
 @import "./typography.css";
 @custom-variant light (&:where([data-theme=dark], [data-theme=dark] *));
-
 :root,
 html[data-theme="light"] {
   --background: #ffffff;
-  --foreground: #282728;
-  --accent: #006cac;
-  --muted: #e6e6e6;
-  --border: #ece9e9;
+  --foreground: 
+#282728;
+  --accent: 
+#006cac;
+  --muted: 
+#e6e6e6;
+  --border: 
+#ece9e9;
 }
-
 html[data-theme="dark"] {
-  --background: #212737;
-  --foreground: #eaedf3;
-  --accent: #ff6b01;
-  --muted: #343f60;
-  --border: #ab4b08;
+  --background: 
+#212737;
+  --foreground: 
+#eaedf3;
+  --accent: 
+#ff6b01;
+  --muted: 
+#343f60;
+  --border: 
+#ab4b08;
 }
-
 @theme inline {
-  --font-mono: ui-monospace, "Cascadia Code", "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-accent: var(--accent);
   --color-muted: var(--muted);
   --color-border: var(--border);
 }
-
 @layer base {
   * {
     @apply border-border outline-accent/75;
@@ -37,10 +41,8 @@ html[data-theme="dark"] {
   html {
     @apply overflow-y-scroll scroll-smooth;
   }
-  body {
+body {
     @apply flex min-h-svh flex-col bg-background font-mono text-foreground selection:bg-accent/75 selection:text-background;
-    font-size: 18px;
-    line-height: 1.7;
   }
   a,
   button {
@@ -55,21 +57,18 @@ html[data-theme="dark"] {
     @apply mx-auto max-w-app px-4;
   }
 }
-
 @utility max-w-app {
   @apply max-w-3xl;
 }
-
 .active-nav {
   @apply underline decoration-wavy decoration-2 underline-offset-4;
 }
-
-/* Source: https://piccalil.li/blog/a-more-modern-css-reset/ */
+/* Source: 
+https://piccalil.li/blog/a-more-modern-css-reset/ */
 /* Anything that has been anchored to should have extra scroll margin */
 :target {
   scroll-margin-block: 1rem;
 }
-
 /* Colora i link nella homepage come nei post */
 .home-text a {
   color: var(--color-accent);

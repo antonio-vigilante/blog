@@ -1,22 +1,17 @@
 @plugin '@tailwindcss/typography';
 
 @layer base {
-  /* Impostazioni globali per migliorare il rendering dei font su Windows */
-  html {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-rendering: optimizeLegibility;
-  }
-
   .app-prose {
-    @apply prose;
-  }
+  @apply prose;
+  font-size: 18px;
+  line-height: 1.7;
+}
 
   .app-prose blockquote p {
     @apply not-italic;
   }
 
-  .app-prose blockquote p::before,
+.app-prose blockquote p::before,
   .app-prose blockquote p::after {
     content: none;
   }
@@ -32,6 +27,7 @@
   .app-prose h3 {
     @apply italic;
   }
+
 
   p,
   strong,
@@ -76,10 +72,7 @@
     @apply py-1.5;
   }
 
-  /* Modifica qui: Font inline migliorato */
   code {
-    font-family: "Cascadia Code", "JetBrains Mono", ui-monospace, SFMono-Regular, Consolas, monospace;
-    letter-spacing: 0.02em;
     @apply rounded bg-muted/75 p-1 break-words text-foreground before:content-none after:content-none;
   }
 
@@ -103,11 +96,9 @@
     @apply focus-visible:border-transparent focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-dashed;
   }
   
+
   /* ===== Code Blocks & Syntax Highlighting ===== */
-  /* Modifica qui: Aggiunto font-family e line-height per i blocchi grandi */
   .astro-code {
-    font-family: "Cascadia Code", "JetBrains Mono", ui-monospace, SFMono-Regular, Consolas, monospace;
-    line-height: 1.6;
     @apply flex border bg-[--shiki-light-bg] text-[--shiki-light] outline-border [&_span]:text-[--shiki-light];
   }
 
@@ -132,7 +123,8 @@
   }
 }
 
-/* === Sezione Custom Personalizzata === */
+/* === AGGIUNGI QUESTO FUORI === */
+
 @layer base {
   .app-prose a {
     color: #ff6b01;
@@ -148,7 +140,7 @@
   }
 
   html.dark .app-prose a,
-  html.dark .app-prose a:hover {
+  html.dark .apporange-prose a:hover {
     color: #ff6b01;
   }
 
@@ -157,3 +149,4 @@
     --tw-prose-bold: #ffffff;
   }
 }
+
