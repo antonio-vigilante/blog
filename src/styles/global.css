@@ -20,7 +20,7 @@ html[data-theme="dark"] {
 }
 
 @theme inline {
-  --font-mono: ui-monospace, Menlo, Consolas, monospace;
+  --font-app: var(--font-google-sans-code);
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-accent: var(--accent);

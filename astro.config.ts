@@ -1,5 +1,5 @@
 // astro.config.ts
-import { defineConfig } from "astro/config";
+import { defineConfig, envField, fontProviders } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
 import remarkToc from "remark-toc";
@@ -52,7 +52,26 @@ export default defineConfig({
     layout: "constrained",
   },
 
+  env: {
+    schema: {
+      PUBLIC_GOOGLE_SITE_VERIFICATION: envField.string({
+        access: "public",
+        context: "client",
+        optional: true,
+      }),
+    },
+  },
   experimental: {
     preserveScriptOrder: true,
+    fonts: [
+      {
+        name: "Google Sans Code",
+        cssVariable: "--font-google-sans-code",
+        provider: fontProviders.google(),
+        fallbacks: ["monospace"],
+        weights: [300, 400, 500, 600, 700],
+        styles: ["normal", "italic"],
+      },
+    ],
   },
 });
