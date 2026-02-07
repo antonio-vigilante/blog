@@ -16,8 +16,7 @@ import { transformerFileName } from "./src/utils/transformers/fileName";
 import mdx from "@astrojs/mdx";
 
 export default defineConfig({
-  site: "https://antoniovigilante.pages.dev",
-
+  site: "https://www.odnikud.it"
   // ⭐ Unico blocco corretto
   integrations: [sitemap({
     entryLimit: 45000,
