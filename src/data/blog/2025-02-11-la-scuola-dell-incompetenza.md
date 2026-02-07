@@ -29,10 +29,10 @@ Ritenere, come fa Perla, che si possano migliorare le _competenze_ linguistiche 
 
 [^1]: Si veda la sintesi all’url: [https://www.censis.it/rapporto-annuale/sindrome-italiana](https://www.censis.it/rapporto-annuale/sindrome-italiana)
 [^2]: G. De Rita, _Una disperata confusione: la scuola italiana al 2021_, disponibile all’url: [https://www.censis.it/formazione/una-disperata-confusione-la-scuola-italiana-al-2021](https://www.censis.it/formazione/una-disperata-confusione-la-scuola-italiana-al-2021) 
-[^3]: Eurostat, _Tertiary educational attainment, age group 25-64 by sex and NUTS 2 region_, 12.12.2024, url: [https://doi.org/10.2908/TGS00109](https://doi.org/10.2908/TGS00109)[↩︎](https://www.educazioneaperta.it/la-scuola-dellincompetenza.html#fnref3)
-[^4]: L. Perla, _Grammmatica e latino per contrastare l’analfabetismo di ritorno_, in "La Gazzetta del Mezzogiorno", 30 dicembre 2024.[↩︎](https://www.educazioneaperta.it/la-scuola-dellincompetenza.html#fnref4)
+[^3]: Eurostat, _Tertiary educational attainment, age group 25-64 by sex and NUTS 2 region_, 12.12.2024, url: [https://doi.org/10.2908/TGS00109](https://doi.org/10.2908/TGS00109)
+[^4]: L. Perla, _Grammmatica e latino per contrastare l’analfabetismo di ritorno_, in "La Gazzetta del Mezzogiorno", 30 dicembre 2024.
 
 ["Educazione Aperta"](https://www.educazioneaperta.it/la-scuola-dellincompetenza.html), 10 febbraio 2025.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk0MjY1NDBdfQ==
+eyJoaXN0b3J5IjpbLTkzMjgxMTEzNV19
 -->
