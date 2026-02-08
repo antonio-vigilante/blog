@@ -2,7 +2,6 @@
 title: "Senza cattedra"
 author: Antonio Vigilante
 pubDatetime: 2026-01-28
-featured: true
 tags:
  - libri
  - scuola
