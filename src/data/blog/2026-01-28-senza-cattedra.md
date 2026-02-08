@@ -7,11 +7,7 @@ tags:
  - libri
  - scuola
 description: >
-  E' uscito il mio ultimo libro: "Senza cattedra. La scuola possibile" (Loescher). Un       E' un libro in cui provho cominciato a
- pensare una via per restituire la scuola - per fare in modo che     sia un lual tempo del ritorno a scuola dopo la Didattica a distanza. Mi era chiaro che quella sospensione, così 
- difficile per tutti, andava messa a frutto per ripensare, finalmente, una istituzione che ha bisogno in cui si praticano l'incontro con l'altro e l'intelligenza delle cose. di un   
- cambiamento radicale. Sono arrivati, invece, i fondi del PNRR: molti nuovi strumenti costosi e fragili che 
- invecchieranno rapidamente, in qualche caso senza essere mai stati usati. E tutto resterà come prima.
+È uscito "Senza cattedra. La scuola oossibilr". Un libro in cui provo a pensare una via per restituire la scuola - per fare in modo che sia un luogo in cui si praticano l'incontro con l'altro e l'intelligenza delle cose.
 ---
 
 ![](/images/post/2026/senzacattedra.jpeg)
