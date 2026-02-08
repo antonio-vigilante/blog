@@ -7,12 +7,12 @@ tags:
  - scuola
 description: >
    E' uscito "Senza cattedra. La
-   scuola  possibile". Un libro in cui
-   provo a  pensare una via per
-   restituire la scuola - per fare in
-   modo che sia un luogo in cui si
-   praticano l'incontro con l'altro
-   e l'intelligenza delle cose.
+   scuola  possibile" (Loescher). Un
+   libro in cui provo a  pensare una
+   via per restituire la scuola - per
+   fare in modo che sia un luogo in
+   cui si praticano l'incontro con
+   l'altro e l'intelligenza delle cose.
 ---
 
 ![](/images/post/2026/senzacattedra.jpeg)
