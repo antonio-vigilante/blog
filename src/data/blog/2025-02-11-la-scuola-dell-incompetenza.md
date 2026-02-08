@@ -25,7 +25,6 @@ C’è un altro spauracchio ben collaudato del discorso di destra – ma in ques
 
 Ritenere, come fa Perla, che si possano migliorare le _competenze_ linguistiche degli italiani facendo più grammatica – come se davvero se ne facesse poca, peraltro – è un po’ come, di fronte a un ipotetico dato preoccupante sul numero di incidenti automobilistici, raccomandare alle scuole guida di far fare uno studio più attento dei manuali, mentre evidentemente occorrerebbe _più pratica_. Che è esattamente ciò di cui ha bisogno la scuola italiana: più pratica, principalmente della lingua. E perché sia una lingua viva, occorre che sia una pratica colloquiale, uno scambio di parole (parole che portano il segno dei diversi contesti sociali e culturali, ognuna con il suo colore e il suo odore) in un contesto di confronto aperto. È quello che dolorosamente manca alla scuola italiana: ed è una delle ragioni per le quali è ancora urgente leggere e praticare le _Dieci tesi per l’educazione linguistica democratica_.
 
-## Note
 
 [^1]: Si veda la sintesi all’url: [https://www.censis.it/rapporto-annuale/sindrome-italiana](https://www.censis.it/rapporto-annuale/sindrome-italiana)
 [^2]: G. De Rita, _Una disperata confusione: la scuola italiana al 2021_, disponibile all’url: [https://www.censis.it/formazione/una-disperata-confusione-la-scuola-italiana-al-2021](https://www.censis.it/formazione/una-disperata-confusione-la-scuola-italiana-al-2021) 
