@@ -2,6 +2,7 @@
 title: "L'angelo non necessario. Il fascismo di Putin"
 author: Antonio Vigilante
 pubDatetime: 2022-03-16
+featured: true
 tags: 
   - Alexandr Dugin
   - fascismo
@@ -9,7 +10,11 @@ tags:
   - Vladimir Putin
   - Kirill I
   - Lev Tolstoj
-description: Su Alexandr Dugin. E il patriarca Kirill.
+description: > 
+  Se alla sua destra ha l'ineffabile patriarca Kirill, con il suo deposito di cari      vecchi valori cristiano-ortodossi, alla sinistra Putin ha Alexandr Dugin. Già fondatore,
+  con Ėduard Limonov, del nazionalboscevismo, è ora per molti senz'altro l'ideologo di
+  Putin. Definizione forse eccessiva; certo è che Putin trae molta ispirazione, diciamo
+  così, da quello che scrive.
 ---
 
 ### Tolstoj

@@ -6,7 +6,7 @@ tags:
  - Sergio Mattarella
  - Democrazia Cristiana
 description: >
-  Il discorso di fine allo del Presidente Mattarella.
+  Il discorso di fine anno del Presidente Mattarella.
 ---
 
 Non mi aspetto molto dai discorsi di fine anno del presidente della Repubblica; è quel genere di testo che si potrebbe far generare a un'intelligenza artificiale senza dover cambiare nemmeno una virgola. Retorica allo stato puro.
