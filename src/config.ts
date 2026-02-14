@@ -6,11 +6,11 @@ export const SITE = {
   title: "odnikud",
   ogImage: "og-image.png",
   lightAndDarkMode: true,
-  postPerIndex: 15,
-  postPerPage:15,
+  postPerIndex: 5,
+  postPerPage:5,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
-  showBackButton: false, // show back button in post detail
+  showBackButton: true, // show back button in post detail
   editPost: {
     enabled: false,
     text: "Modifica",

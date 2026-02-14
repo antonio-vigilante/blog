@@ -6,13 +6,7 @@ tags:
  - Sergio Mattarella
  - Democrazia Cristiana
 description: >
-  Non mi aspetto molto dai discorsi di   fine anno del presidente della         Repubblica; è quel genere di testo
-  che si potrebbe far generare a   
-  un'intelligenza artificiale senza
-  dover cambiare nemmeno una virgola.    Retorica allo stato puro. Il 
-  discorso pronunciato ieri l'altro da 
-  Sergio Mattarella merita però due 
-  parole.
+  Il discorso di fine allo del Presidente Mattarella.
 ---
 
 Non mi aspetto molto dai discorsi di fine anno del presidente della Repubblica; è quel genere di testo che si potrebbe far generare a un'intelligenza artificiale senza dover cambiare nemmeno una virgola. Retorica allo stato puro.

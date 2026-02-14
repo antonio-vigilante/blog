@@ -6,16 +6,8 @@ tags:
  - Giuseppe Valditara
  - laicità
 description: >
-  In un Paese laico nessuno, assumendo un incarico politico, dovrebbe giurare su un testo 
-  religioso. Se invece lo si fa, per tradizione, non si può impedire che ognuno giuri sul     
-  proprio testo sacro: i cristiani sulla Bibbia, nella traduzione che preferiscono, i musulmani 
-  sul Corano, i pastafariani sul "Vangelo del Prodigioso Spaghetto Volante". Per cui c'è davvero
-  poco da dire sul giuramento sul Corano di Zohran Mamdani, il nuovo sindaco di New York, tanto 
-  più che la Costituzione degli Stati Uniti afferma che "nessuna prova di fede religiosa sarà mai 
-  richiesta come requisito per qualsiasi ufficio o incarico pubblico alle dipendenze degli Stati 
-  Uniti". Non così per il ministro Valditara, che pur essendo un giurista sembra ignorare la 
-  Costituzione degli Stati Uniti e si scandalizza del fatto che il gesto di Mamdani non 
-  scandalizzi nessuno.
+  Il nuovo sindaco di New York, Zohran Mamdani, giura sul Corano. E il ministro Valditara 
+  ci resta male.
 ---
 
 In un Paese laico nessuno, assumendo un incarico politico, dovrebbe giurare su un testo religioso. Se invece lo si fa, per tradizione, non si può impedire che ognuno giuri sul *proprio* testo sacro: i cristiani sulla Bibbia, nella traduzione che preferiscono, i musulmani sul Corano, i pastafariani sul *Vangelo del Prodigioso Spaghetto Volante*. Per cui c'è davvero poco da dire sul giuramento sul Corano di Zohran Mamdani, il nuovo sindaco di New York, tanto più che la Costituzione degli Stati Uniti afferma che "nessuna prova di fede religiosa sarà mai richiesta come requisito per qualsiasi ufficio o incarico pubblico alle dipendenze degli Stati Uniti" (*no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States*)[^1].
