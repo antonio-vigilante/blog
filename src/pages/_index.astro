@@ -12,7 +12,6 @@ import IconRss from "@/assets/icons/IconRss.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
 import { SOCIALS } from "@/constants";
-import MastodonFeed from "../components/MastodonFeed.astro";
 
 const posts = await getCollection("blog");
 
@@ -100,10 +99,6 @@ Mi sono occupato a lungo di nonviolenza, scrivendo libri su Aldo Capitini, Gandh
         Tutti i post <IconArrowRight class="inline-block rtl:-rotate-180" />
       </LinkButton>
     </div>
-
-<MastodonFeed />
-
-
   </main>
   <Footer />
 </Layout>
