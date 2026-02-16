@@ -62,6 +62,19 @@ Mi sono occupato a lungo di nonviolenza, scrivendo libri su Aldo Capitini, Gandh
       }
     </section>
   
+{
+      recentPosts.length > 0 && (
+        <section id="recent-posts" class="pt-12 pb-6">
+          <h2 class="text-2xl font-semibold tracking-wide">Ultimi post</h2>
+          <ul>
+            {recentPosts.map(
+              (data, index) =>
+                index < SITE.postPerIndex && <Card variant="h3" {...data} />
+            )}
+          </ul>
+        </section>
+      )
+    }
 
     {
       featuredPosts.length > 0 && (
@@ -79,19 +92,7 @@ Mi sono occupato a lungo di nonviolenza, scrivendo libri su Aldo Capitini, Gandh
       )
     }
 
-    {
-      recentPosts.length > 0 && (
-        <section id="recent-posts" class="pt-12 pb-6">
-          <h2 class="text-2xl font-semibold tracking-wide">Ultimi post</h2>
-          <ul>
-            {recentPosts.map(
-              (data, index) =>
-                index < SITE.postPerIndex && <Card variant="h3" {...data} />
-            )}
-          </ul>
-        </section>
-      )
-    }
+    
 
     <div class="my-8 text-center">
       <LinkButton href="/posts/">
