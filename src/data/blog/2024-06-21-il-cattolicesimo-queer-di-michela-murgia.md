@@ -14,7 +14,7 @@ description: >
   amore, e dunque come bisogna amare.
 ---
 
-Femminista e cattolica, Michela Murgia ha cercato di rovesciare il patriarcato attraverso una reinterpretazione radicale del dogma centrale del cristianesimo: la Trinità. Non “due uomini e un uccello”, come nella tradizione occidentale, ma tre figure asessuate, in una posizione aperta, orizzontale, non gerarchica, come nell’icona di Andrej Rublev. Il cui significato profondo è che l’amore autentico è quello che include il terzo. Una reinterpretazione nella quale tuttavia permane la tendenza cattolica, e violenta, di dire cos’è il vero amore, e dunque <em>come bisogna amare.
+Femminista e cattolica, Michela Murgia ha cercato di rovesciare il patriarcato attraverso una reinterpretazione radicale del dogma centrale del cristianesimo: la Trinità. Non “due uomini e un uccello”, come nella tradizione occidentale, ma tre figure asessuate, in una posizione aperta, orizzontale, non gerarchica, come nell’icona di Andrej Rublev. Il cui significato profondo è che l’amore autentico è quello che include il terzo. Una reinterpretazione nella quale tuttavia permane la tendenza cattolica, e violenta, di dire cos’è il vero amore, e dunque *come bisogna amare*.
 
 ### Una diversa interpretazione
 

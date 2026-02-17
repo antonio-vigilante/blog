@@ -3,8 +3,12 @@
 // Componente per mostrare gli ultimi post da Mastodon
 const instance = "poliversity.it";
 const username = "antoniovigilante";
-const limit = 7; // Numero di post da mostrare
+const limit = 8; // Numero di post da mostrare
 ---
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet" />
 
 <section class="mastodon-feed">
   <h2 class="text-2xl font-semibold tracking-wide">Da Mastodon</h2>
@@ -30,14 +34,21 @@ const limit = 7; // Numero di post da mostrare
 <style>
   .mastodon-feed {
     margin-bottom: 4rem;
+    font-family: 'Roboto', sans-serif;
   }
 
   .posts-container {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
     margin-bottom: 2rem;
     margin-top: 1rem;
+  }
+
+  @media (max-width: 640px) {
+    .posts-container {
+      grid-template-columns: 1fr;
+    }
   }
 
   .loading {
@@ -56,22 +67,25 @@ const limit = 7; // Numero di post da mostrare
   }
 
   .mastodon-post {
-    padding: 1rem;
+    padding: 0;
     background: #f5f5f5;
     border-radius: 0.5rem;
-    transition: transform 0.2s, background 0.2s;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: flex;
+    flex-direction: column;
   }
 
   .mastodon-post:hover {
-    transform: translateX(4px);
-    background: #eeeeee;
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
   }
 
   .post-header {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    margin-bottom: 0.5rem;
+    padding: 0.75rem 1rem 0.5rem;
   }
 
   .post-meta {
@@ -97,24 +111,29 @@ const limit = 7; // Numero di post da mostrare
   }
 
   .post-content {
-    margin-bottom: 0.75rem;
+    padding: 0 1rem 0.75rem;
     line-height: 1.75;
     color: var(--color-text-base, #1f2937);
+    flex: 1;
   }
 
   .post-media {
-    margin: 1rem 0;
-    display: grid;
-    gap: 0.5rem;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    margin: 0;
+    width: 100%;
+    order: -1; /* immagine in cima alla card */
   }
 
   .post-image {
     width: 100%;
-    height: auto;
-    border-radius: 0.5rem;
+    height: 220px;
     object-fit: cover;
-    max-height: 400px;
+    display: block;
+    border-radius: 0;
+    transition: transform 0.3s;
+  }
+
+  .post-image:hover {
+    transform: scale(1.03);
   }
 
   .post-content :global(p) {
@@ -187,14 +206,21 @@ const limit = 7; // Numero di post da mostrare
     .mastodon-post {
       background: #1a1a1a;
     }
-
-    .mastodon-post:hover {
-      background: #222222;
-    }
-
     .error {
       background: #7f1d1d;
       color: #fca5a5;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .posts-container {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .posts-container {
+      grid-template-columns: 1fr;
     }
   }
 </style>
@@ -204,121 +230,119 @@ const limit = 7; // Numero di post da mostrare
     const container = document.getElementById('mastodon-posts');
     
     try {
-      // Prima otteniamo l'ID dell'account
-      const accountResponse = await fetch(
-        `https://${instance}/api/v1/accounts/lookup?acct=${username}`
-      );
+      const isPixelfed = instance.includes('pixelfed');
       
-      if (!accountResponse.ok) {
-        throw new Error('Account non trovato');
+      let author, posts;
+
+      if (isPixelfed) {
+        const res = await fetch('/api/pixelfed');
+        if (!res.ok) throw new Error('Errore nel caricamento');
+        const data = await res.json();
+        if (data.error) throw new Error(data.error);
+        author = data.author;
+        posts = data.posts;
+      } else {
+        // Mastodon: chiamata diretta
+        const accountRes = await fetch(
+          `https://${instance}/api/v1/accounts/lookup?acct=${username}`
+        );
+        if (!accountRes.ok) throw new Error('Account non trovato');
+        const account = await accountRes.json();
+        author = account.display_name || account.username;
+
+        const postsRes = await fetch(
+          `https://${instance}/api/v1/accounts/${account.id}/statuses?limit=${limit}&exclude_replies=true&exclude_reblogs=true`
+        );
+        if (!postsRes.ok) throw new Error('Impossibile caricare i post');
+        const rawPosts = await postsRes.json();
+
+        // Normalizza formato Mastodon → formato comune
+        posts = rawPosts.map((p) => ({
+          id: p.id,
+          url: p.url,
+          published: p.created_at,
+          content: (() => {
+            const tmp = document.createElement('div');
+            tmp.innerHTML = p.content;
+            return (tmp.textContent || tmp.innerText || '').replace(/\s+/g, ' ').trim();
+          })(),
+          images: (p.media_attachments || [])
+            .filter((m) => m.type === 'image')
+            .map((m) => m.url),
+        }));
       }
-      
-      const account = await accountResponse.json();
-      
-      // Poi recuperiamo i post dell'account
-      const postsResponse = await fetch(
-        `https://${instance}/api/v1/accounts/${account.id}/statuses?limit=${limit}&exclude_replies=true&exclude_reblogs=true`
-      );
-      
-      if (!postsResponse.ok) {
-        throw new Error('Impossibile caricare i post');
-      }
-      
-      const posts = await postsResponse.json();
-      
-      if (posts.length === 0) {
+
+      if (!posts || posts.length === 0) {
         container.innerHTML = '<div class="error">Nessun post disponibile</div>';
         return;
       }
-      
-      // Creiamo un elemento per ogni post
+
       container.innerHTML = '';
-      
-      posts.forEach(post => {
-        const date = new Date(post.created_at);
-        const formattedDate = date.toLocaleDateString('it-IT', {
-          day: 'numeric',
-          month: 'short',
-          year: 'numeric'
-        });
-        
-        // Crea l'articolo
+
+      posts.forEach((post) => {
         const article = document.createElement('article');
         article.className = 'mastodon-post';
-        
-        // Header con meta (senza avatar)
+
+        // Header con nome e data
         const header = document.createElement('div');
         header.className = 'post-header';
-        
         const meta = document.createElement('div');
         meta.className = 'post-meta';
-        
+
         const authorLink = document.createElement('a');
         authorLink.href = post.url;
         authorLink.target = '_blank';
         authorLink.rel = 'noopener noreferrer';
         authorLink.className = 'post-author';
-        authorLink.textContent = account.display_name;
-        
+        authorLink.textContent = author;
+
+        const date = new Date(post.published);
         const dateSpan = document.createElement('span');
         dateSpan.className = 'post-date';
-        dateSpan.textContent = '· ' + formattedDate;
-        
+        dateSpan.textContent = '· ' + date.toLocaleDateString('it-IT', {
+          day: 'numeric', month: 'short', year: 'numeric'
+        });
+
         meta.appendChild(authorLink);
         meta.appendChild(dateSpan);
-        
         header.appendChild(meta);
-        
-        // Contenuto del post
+
+        // Testo del post (troncato se troppo lungo)
+        const MAX_CHARS = 1000;
         const content = document.createElement('div');
         content.className = 'post-content';
-        content.innerHTML = post.content;
-        
-        // Immagini/media allegati
+        const temp = document.createElement('textarea');
+        temp.innerHTML = post.content;
+        const fullText = temp.value;
+        content.textContent = fullText.length > MAX_CHARS
+          ? fullText.slice(0, MAX_CHARS).trimEnd() + ' [...]'
+          : fullText;
+
+        // Immagine (se presente)
         let mediaContainer = null;
-        if (post.media_attachments && post.media_attachments.length > 0) {
+        if (post.images && post.images.length > 0) {
           mediaContainer = document.createElement('div');
           mediaContainer.className = 'post-media';
-          
-          post.media_attachments.forEach(media => {
-            if (media.type === 'image') {
-              const img = document.createElement('img');
-              img.src = media.url;
-              img.alt = media.description || 'Immagine del post';
-              img.className = 'post-image';
-              img.loading = 'lazy';
-              mediaContainer.appendChild(img);
-            }
-          });
+          const img = document.createElement('img');
+          img.src = post.images[0];
+          img.alt = post.content || 'Immagine del post';
+          img.className = 'post-image';
+          img.loading = 'lazy';
+          mediaContainer.appendChild(img);
         }
-        
-        // Statistiche
-        const stats = document.createElement('div');
-        stats.className = 'post-stats';
-        stats.innerHTML = `
-          <span class="stat">💬 ${post.replies_count}</span>
-          <span class="stat">🔄 ${post.reblogs_count}</span>
-          <span class="stat">⭐ ${post.favourites_count}</span>
-        `;
-        
-        // Assembla tutto
+
         article.appendChild(header);
+        if (mediaContainer) article.appendChild(mediaContainer);
         article.appendChild(content);
-        if (mediaContainer && mediaContainer.children.length > 0) {
-          article.appendChild(mediaContainer);
-        }
-        article.appendChild(stats);
-        
         container.appendChild(article);
       });
-      
+
     } catch (error) {
-      console.error('Errore nel caricamento dei post Mastodon:', error);
-      container.innerHTML = '<div class="error">Errore nel caricamento dei post. Riprova più tardi.</div>';
+      console.error('Errore:', error);
+      container.innerHTML = `<div class="error">${error.message || 'Errore nel caricamento dei post.'}</div>`;
     }
   }
-  
-  // Carica i post quando il DOM è pronto
+
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', loadMastodonPosts);
   } else {
