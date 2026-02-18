@@ -1,8 +1,8 @@
 ---
 // MastodonFeed.astro
 // Componente per mostrare gli ultimi post da Mastodon
-const instance = "mastodon.social";
-const username = "odnikud";
+const instance = "poliversity.it";
+const username = "naciketas";
 const limit = 8; // Numero di post da mostrare
 ---
 
@@ -136,26 +136,6 @@ const limit = 8; // Numero di post da mostrare
     transform: scale(1.03);
   }
 
-  .card-info {
-    padding: 0.5rem 1rem 0.25rem;
-    font-size: 0.8rem;
-    color: var(--color-text-muted, #6b7280);
-    border-top: 1px solid rgba(0, 0, 0, 0.06);
-  }
-
-  .card-title {
-    font-weight: 600;
-    color: var(--color-text-base, #1f2937);
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    margin-bottom: 0.1rem;
-  }
-
-  .card-provider {
-    font-size: 0.75rem;
-  }
-
   .post-content :global(p) {
     margin: 0.5em 0;
   }
@@ -230,9 +210,6 @@ const limit = 8; // Numero di post da mostrare
       background: #7f1d1d;
       color: #fca5a5;
     }
-    .card-info {
-      border-top-color: rgba(255, 255, 255, 0.06);
-    }
   }
 
   @media (max-width: 768px) {
@@ -292,7 +269,6 @@ const limit = 8; // Numero di post da mostrare
           images: (p.media_attachments || [])
             .filter((m) => m.type === 'image')
             .map((m) => m.url),
-          card: p.card || null,
         }));
       }
 
@@ -342,44 +318,17 @@ const limit = 8; // Numero di post da mostrare
           ? fullText.slice(0, MAX_CHARS).trimEnd() + ' [...]'
           : fullText;
 
-        // Immagine: prima cerca tra gli allegati, poi nella card (anteprima link)
+        // Immagine (se presente)
         let mediaContainer = null;
-        const hasAttachedImage = post.images && post.images.length > 0;
-        const hasCardImage = post.card && post.card.image;
-        const imageUrl = hasAttachedImage ? post.images[0] : (hasCardImage ? post.card.image : null);
-
-        if (imageUrl) {
+        if (post.images && post.images.length > 0) {
           mediaContainer = document.createElement('div');
           mediaContainer.className = 'post-media';
-
           const img = document.createElement('img');
-          img.src = imageUrl;
-          img.alt = (post.card && post.card.title) || post.content || 'Immagine del post';
+          img.src = post.images[0];
+          img.alt = post.content || 'Immagine del post';
           img.className = 'post-image';
           img.loading = 'lazy';
           mediaContainer.appendChild(img);
-
-          // Se l'immagine viene dalla card, mostra titolo e provider come didascalia
-          if (!hasAttachedImage && post.card) {
-            const cardInfo = document.createElement('div');
-            cardInfo.className = 'card-info';
-
-            if (post.card.title) {
-              const cardTitle = document.createElement('div');
-              cardTitle.className = 'card-title';
-              cardTitle.textContent = post.card.title;
-              cardInfo.appendChild(cardTitle);
-            }
-
-            if (post.card.provider_name) {
-              const cardProvider = document.createElement('div');
-              cardProvider.className = 'card-provider';
-              cardProvider.textContent = post.card.provider_name;
-              cardInfo.appendChild(cardProvider);
-            }
-
-            mediaContainer.appendChild(cardInfo);
-          }
         }
 
         article.appendChild(header);
