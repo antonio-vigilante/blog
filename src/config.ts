@@ -5,7 +5,7 @@ export const SITE = {
   desc: "Blog di Antonio Vigilante.",
   title: "odnikud",
   ogImage: "og-image.png",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerIndex: 5,
   postPerPage:5,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
