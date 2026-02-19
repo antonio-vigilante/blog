@@ -4,6 +4,7 @@ pubDatetime: 2026-02-19
 tags:
  - alberi
  - valori
+draft: true
 description: >
   C'è un vero accanimento contro i pini marittimi, tale da far pensare a una sorta di 
   razzismo botanico. In generale, sembra che non si sia in grado di apprezzare il valore
