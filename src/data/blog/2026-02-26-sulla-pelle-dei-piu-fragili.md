@@ -1,0 +1,42 @@
+---
+title: Sulla pelle dei più fragili
+author: Antonio Vigilante
+pubDatetime: 2026-02-26
+tags:
+ - scuola
+ - educazione affettiva
+ - educazione sessuale
+description: >
+  Negare l’educazione sessuo-affettiva in nome del “primato educativo della famiglia” rende tutti più soli. E a pagarne le conseguenze 
+  sono le stesse famiglie.
+---
+
+
+
+Un Comune, quello di Potenza, presenta un progetto per portare l’educazione sessuo-affettiva nelle scuole. [Un consigliere comunale di Fratelli d’Italia insorge.](https://www.sassilive.it/cronaca/politica/antonio-vigilante-consigliere-comunale-di-potenza-leducazione-dei-bambini-e-degli-adolescenti-non-si-tocca/) È ordinaria amministrazione. Ma la vicenda in questo caso in qualche modo mi chiama in causa: perché quel consigliere comunale si chiama Antonio Vigilante. E, poiché mi dispiace che posizioni simili siano associate al mio nome, proverò a dire la mia.
+
+L’argomento principale del mio omonimo è quello ricorrente nella destra di governo: il primato educativo della famiglia. “Il punto – scrive – è pretendere trasparenza totale e rispetto del primato educativo dei genitori”. Analizziamo questo primato spostandoci per un attimo in un altro ambito delicato: quello della religione.
+
+Io sono ateo. Mio figlio al momento non ha ricevuto alcun insegnamento religioso; lo abbiamo informato che esistono diverse religioni e che alcuni credono in Dio e altri no, ma non ci ha fatto troppo caso, come è normale in un bimbo di quattro anni. Alla scuola dell’infanzia non si avvale dell’insegnamento della religione. Per due ragioni: è un insegnamento a carattere confessionale, e ovviamente non essendo cattolici non ci interessa; e non mi pare che risponda ad alcuna domanda o esigenza reale di un bambino di quattro anni.
+
+Quando crescerà, continuerà a non avvalersi dell’insegnamento della religione cattolica, a meno che non chieda lui di frequentare l’ora di religione. Ma che fare se, come è probabile, dovesse trovarsi un crocifisso appeso alla parete della sua aula? È chiaro che una tale presenza viola il principio del primato educativo dei genitori. Perché un crocifisso alle pareti dice che noi italiani siamo cattolici, e che dunque chi non è cattolico è un po’ meno italiano – un po’ meno cittadino – degli altri. Questo messaggio entrerebbe in aperto contrasto con ciò che noi intendiamo insegnare a nostro figlio, ossia il valore della laicità, del pluralismo e del rispetto della differenza. Che si fa? Bisogna togliere il crocifisso? Naturalmente: ma è una conclusione – logica ed etica – che alle persone di destra pare un affronto alla nostra identità.
+
+Dunque il primato educativo delle famiglie è valido solo quando si tratta di famiglie cattoliche, la cui educazione va nella direzione dei valori della destra. Il presupposto di discorsi più o meno indignati come quello del mio omonimo è duplice: da un lato appunto questa visione positiva, ma selettiva, della famiglia (e, sostenendoci magari sulle calunnie e gli insulti del Catechismo della Chiesa cattolica, diremo che le altre famiglie – quelle ad esempio con i genitori conviventi – non sono vere famiglie, anzi costituiscono “un’offesa alla dignità del matrimonio” e “distruggono l’idea stessa di famiglia”: così il Catechismo, par. 2390); dall’altro una visione negativa dei docenti, che si manifesta anche nell’uso dei termini: “La scuola – scrive ancora Vigilante – deve formare, non plasmare”. È un verbo, *plasmare*, che le persone di destra usano spesso, quando parlano di docenti. La famiglia educa, la scuola plasma.
+
+Non ha molto senso, è chiaro, parlare di primato della famiglia o della scuola, come se si trattasse di stabilire chi per primo ha diritto di piantare il proprio vessillo su una vetta contesa. L’unico primato che è da riconoscere, quello che dovrebbe guidare qualsiasi discorso educativo, è quello della persona che sta crescendo. Facciamo costantemente l’errore, quando parliamo di educazione e di scuola, di partire da noi, dai nostri valori, della società che vorremmo, dalla religione in cui crediamo. E siamo convinti di avere il diritto di dirigere i nuovi attivati verso la direzione che a noi sembra giusta. La domanda che dovremmo farci è, invece, un’altra. Non come vorremmo che diventasse questo nostro figlio o questa nostra studentessa, ma di cosa hanno bisogno, e non in astratto, ma qui era ora. Basta osservare e ascoltare – non servono competenze specialistiche – per accorgersi che i bisogni reali di bambini e adolescenti spesso non coincidono con ciò che adulti, famiglie e istituzioni sono pronti a offrire.
+
+
+
+Siamo convinti che gli adolescenti abbiano bisogno di conoscere Platone e Dante, le derivate e Napoleone. Oggi forse non ne sono consapevoli, ma sicuramente ne avranno bisogno in futuro. Può essere. Ma ci sono altre cose di cui bambini e adolescenti hanno bisogno *adesso*. Hanno bisogno di conoscere sé stessi, prima di conoscere Platone. Tra la fine della scuola media e l’inizio delle superiori ragazzi e ragazze cominciano a esplorare il mondo dei sentimenti e quello del sesso. Sono realtà nuove, che esplodono letteralmente. E che li espongono a vere e proprie tempeste emotive. Come gestire un litigio? Come superare le difficoltà di comunicazione in una coppia? Come far capire al fidanzato che cos’è il rispetto in un rapporto sessuale? Ed è anche il tempo delle domande sulla propria identità sessuale. E delle paure. “Professore, forse sono gay. Che faccio?”
+
+Nei casi migliori questo processo è accompagnato dai genitori. Molti hanno la sensibilità necessaria per ascoltare senza giudicare, rispettando i tempi, lasciando ai figli e alle figlie la libertà di esplorare la propria identità. Altri non ci provano nemmeno. Ogni docente ha l’esperienza di famiglie disfunzionali, che praticano sui figli e le figlie forme più o meno gravi di violenza, fino all’occhio nero, che senza troppa convinzione la studentessa cerca di attribuire a una caduta accidentale. E poi ci sono le mamme e i padri – più mamme che padri – che amano i figli e le figlie, ma che non riescono proprio ad accompagnarli in questa fase delicata. Hanno scoperto che la figlia ha fatto sesso con una ragazza e ciò le ha sconvolte. La figlia no, non è lesbica, meno che mai bisessuale; non può essere così. Sono le cattive amicizie. O è il *gender*, questo fantasma che s’aggira per le scuole. E passi un’ora a parlarci e cogli più di ogni altra cosa la loro solitudine. E, parallelamente, conosci la solitudine, la tristezza, il dolore della figlia, che si trova ad affrontare una cosa grande senza nessuno che l’accompagni. Sentendosi sbagliata, ingrata, colpevole.
+
+Come docente sei qui. Cerchi di accompagnare entrambi, la madre e la figlia, sapendo che è un processo delicato, che richiede tempo e pazienza. E poi, ecco, arriva il politico. Che in quanto tale possiede competenze in ogni campo: giuridico, economico, religioso, ambientale. E pedagogico. E ti dice che no, come docente non devi fare questo lavoro. Non è competenza tua. Concentrati su Platone o sulle derivate. Lascia che queste faccende se le sbrighino le famiglie.
+
+Possiamo vietare ai docenti di trattare qualsiasi argomento legato all’affettività e alla sessualità. O meglio: vieteremo di veicolare qualsiasi visione della sessualità che non piaccia alle persone di destra. Vieteremo perfino Platone – il *Simposio* è già vietato nelle scuole del Texas – e con lui un bel po’ di altri autori e autrici. La cancel culture della destra. Cosa sarà cambiato? Le ragazze e i ragazzi continueranno a esplorare la loro affettività e la loro sessualità. Quelli che avranno avuto la fortuna di avere genitori in grado di accompagnarli, cresceranno bene. Gli altri soffriranno molto. I dati dicono che il suicidio è in crescita presso gli adolescenti e i giovani, e in particolare presso ragazzi e ragazze queer. Ma a soffrire saranno gli stessi genitori, lasciati soli, senza alcuna possibilità di confronto e di ascolto, strumentalizzati da una politica che combatte guerre identitarie sulla pelle delle persone più fragili.
+
+ 
+
+Foto di [Yingjie Wang](https://unsplash.com/it/@maicjie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) su [Unsplash](https://unsplash.com/it/foto/persona-che-guarda-fuori-da-una-finestra-di-un-edificio-moderno-PgUJro8L-WA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+[Gli Stati Generali](https://www.glistatigenerali.com/societa/scuola/sulla-pelle-dei-piu-fragili/), 26 febbraio 2026.
