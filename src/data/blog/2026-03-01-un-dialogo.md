@@ -1,3 +1,4 @@
+---
 title: "Un dialogo"
 author: Antonio Vigilante
 pubDatetime: 2026-03-01
