@@ -4,7 +4,7 @@ pubDatetime: 2026-03.01
 tags:
  - scuola
  - Ivana Margarese
-decsciption: >
+description: >
   Su "Dialoghi Mediterranei" dialogo con Ivana Margarese sui temi di "Senza 
   cattedra. La scuola possibile".
 ---
