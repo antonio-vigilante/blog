@@ -1,14 +1,14 @@
 ---
 title: "Trump e le Sette Montagne"
 author: Antonio Vigilante
-pubDatetime: 2026-02-06
+pubDatetime: 2026-03-06
 tags:
- - "Donald Trump"
- - "Uganda"
- - "Stati Uniti"
- - "omofobia"
- - "Scott Lively"
- - "Rousas John Rushdoony"
+ - Donald Trump
+ - Uganda
+ - Stati Uniti
+ - omofobia
+ - Scott Lively
+ - Rousas John Rushdoony
 description: >
   Come il fondamentalismo evangelico americano ha esportato in Uganda la sua visione omofoba. E come sta cercando di fare lo stesso negli Stati Uniti di Trump.
 ---
