@@ -1,10 +1,10 @@
 ---
-title: "Scuola e Hustle culture"
+title: "Scuola e hustle culture"
 author: Antonio Vigilante
 pubDatetime: 2026-03-13
 tags:
-  - scuola
- - neoliberismo
+   - scuola
+   - neoliberismo
 description: >
    C'è qualcosa che sfugge nel dibattito sulla scuola - che a tratti assume i toni di una rissa tra maschi alfa -  quando si accusa di neoliberismo qualunque didattica innovativa. Il neoliberismo ha un tratto caratteristico abbastanza preciso: chiede di dare il massimo anche in assenza di una motivazione intrinseca, solo per ottenere successo. È la logica dell'hustle, del performare indipendentemente dal senso di ciò che si fa. Ed è una logica che appartiene pienamente alla scuola tradizionale.
 ---
