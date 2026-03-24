@@ -1,5 +1,5 @@
 ---
-title: "Il comunismo della porta accanto (e il nostro)
+title: "Il comunismo della porta accanto (e il nostro)"
 author: "Antonio Vigilante"
 pubDatetime: 2026-03-22
 tags:
@@ -8,7 +8,15 @@ tags:
  - Enver Hoxha
  - Margo Rejmer
 description: >
-  Esiste ormai una letteratura piuttosto ampia sui crimini compiuti dal comunismo in Albania. Tra gli altri, meritano di essere letti senz'altro "Libera" di Lea Ypi (Feltrinelli) e "Le favole del comunismo" di Anita Likmeta (Marsilio). Ma ora abbiamo anche l'edizione italiana di "Fango più dolce del miele" di Margo Rejmer (Keller). L'autrice, polacca, non è una storica, ma una reporter, e lo si avverte: il libro è asciutto, essenziale e potente come un reportage da un Paese in guerra. Rejmer convoca dei testimoni, ma scegliendoli tra coloro che più hanno sofferto la violenza del regime. Non necessariamente i dissidenti e gli anticomunisti.
+  Esiste ormai una letteratura piuttosto ampia sui crimini compiuti dal 
+  comunismo in Albania. Tra gli altri, meritano di essere letti senz'altro 
+  "Libera" di Lea Ypi (Feltrinelli) e "Le favole del comunismo" di Anita Likmeta 
+  (Marsilio). Ma ora abbiamo anche l'edizione italiana di "Fango più dolce del 
+  miele" di Margo Rejmer (Keller). L'autrice, polacca, non è una storica, ma una 
+  reporter, e lo si avverte: il libro è asciutto, essenziale e potente come un 
+  reportage da un Paese in guerra. Rejmer convoca dei testimoni, ma scegliendoli 
+  tra coloro che più hanno sofferto la violenza del regime. Non necessariamente 
+  i dissidenti e gli anticomunisti.
 ---
 
 Esiste ormai una letteratura piuttosto ampia sui crimini compiuti dal comunismo in Albania. Tra gli altri, meritano di essere letti senz'altro *Libera* di Lea Ypi (Feltrinelli) e *Le favole del comunismo* di Anita Likmeta (Marsilio). Ma ora abbiamo anche l'edizione italiana di *Fango più dolce del miele* di Margo Rejmer (Keller). L'autrice, polacca, non è una storica, ma una reporter, e lo si avverte: il libro è asciutto, essenziale e potente come un reportage da un Paese in guerra. Rejmer convoca dei testimoni, ma scegliendoli tra coloro che più hanno sofferto la violenza del regime. Non necessariamente i dissidenti e gli anticomunisti. Nell'Albania di Hoxha bastava poco per finire il galera per anni: anche solo lamentarsi al mercato della qualità dei pomodori. Dopo averla isolata progressivamente dal mondo intero, rompendo i legami prima con la Russia e poi con la Cina, alla ricerca di una fedeltà assoluta al marxismo-leninismo, Hoxha aveva fatto dell'Albania una enorme prigione, in cui nessuno poteva mai sentirsi davvero al sicuro, compresi gli stessi membri della classe politica, che da un momento all'altro potevano cadere in disgrazia, vittime della paranoia del dittatore. Una società nella quale chiunque, compresi i propri parenti più cari, poteva essere una spia. E non sempre per scelta. Poteva succedere, come documentato da Rejmer, che un uomo accettasse di diventare una spia per impedire che gli uomini del Partito violentassero sua figlia davanti ai suoi occhi. E dunque non c'era situazione sociale che fosse serena e libera dalla paura. Bastava qualsiasi frase che potesse essere interpretata come una critica anche solo velata al Partito per avere la vita distrutta, così come bastava avere delle scarpe un po' più vistose per attirare le attenzioni su di sé, in un contesto in cui la migliore strategia per sopravvivere era uniformarsi, essere grigi e invisibili.
