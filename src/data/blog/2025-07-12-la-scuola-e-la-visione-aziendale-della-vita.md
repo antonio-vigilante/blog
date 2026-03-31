@@ -10,10 +10,6 @@ description: A proposito degli studenti che si sono rifiutati di sostenere l'ora
 ---
 
 
-
-![Sedie](/images/sedie.png)
-
-
 Tre studenti si sono rifiutati di sostenere l’orale degli Esami di Stato. Tre studenti su 524.415: una proporzione che dovrebbe scoraggiare chiunque volesse farne un caso. E invece è uno dei temi caldi dell’estate. Ed è naturalmente un bene che sia così: di scuola, e di esami di Stato, è urgente parlare. O meglio: sarebbe urgente parlarne in modo attento, critico, anche con qualche coraggio. Parlarne in modo leggere e irresponsabile – ed è quello che accade, ancora una volta – non fa che aggravare la malattia di una istituzione che ha sempre più i tratti di un malato grave che si rifiuta di accettare la diagnosi e di avviare le terapie.
 
 Sono pochi gli interventi che in questi giorni abbiano preso in considerazione davvero le motivazioni di quegli studenti. Pochi, cioè, hanno visto in quella scelta l’occasione, rara, di far partecipare anche gli studenti a un discorso pubblico sulla scuola che passa costantemente sopra di loro. Di scuola parlano tutti, per lo più ostentando un certo disprezzo della pedagogia e delle scienze dell’educazione; manca la voce di chi è ogni giorno per cinque ore seduto dietro a un banco. Le reazioni degli adulti sembrano dire una cosa chiara: gli studenti non devono parlare. Stiano zitti e buoni. Lascino fare ai grandi.
