@@ -10,7 +10,7 @@ Dal 2025 questo blog fa sua, invece, la prospettiva dell’IndieWeb: ridare cent
 
 Il blog è realizzato con [Astro](https://astro.build/) (tema [Astro Paper](https://astro.build/themes/details/astropaper/)), ospitato su GitHub e diffuso via Cloudflare. Non raccoglie alcun dato degli utenti.
 
-Non sono consentiti i commenti. Se vuoi discutere qualcosa, scrivimi: antoniovigilante@autistici.org
+Non sono consentiti i commenti. Se vuoi discutere qualcosa, scrivimi: [antoniovigilante@autistici.org](antoniovigilante@autistici.org).
 
  
 
