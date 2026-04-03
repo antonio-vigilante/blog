@@ -49,12 +49,11 @@ title: "I miei libri"
 
 ## Contributi in volumi collettivi
 
-Lo Yoga di Capitini. Nonviolenza e tecnologia del sé, in *Aldo Capitini compresente: ripartendo dai suoi temi*. Atti del Convegno nazionale di studio di Perugia (11-12 ottobre 2019), a cura di Giuseppe Moscati, Ledizioni, Milano 2023
-
+*Lo Yoga di Capitini. Nonviolenza e tecnologia del sé*, in *Aldo Capitini compresente: ripartendo dai suoi temi*. Atti del Convegno nazionale di studio di Perugia (11-12 ottobre 2019), a cura di Giuseppe Moscati, Ledizioni, Milano 2023
 
 *La maieutica reciproca per una scuola conviviale*, in *Dialogo, luogo dell’utopia. Saggi, proposte, divergente nella pedagogia critica*, a cura di Paolo Vittoria, Quintadicopertina, Genova 2016
 
-*Muoversi insieme*, in M. Parodi, Gli adulti sono bambini andati a male, Sonda, Roma 2012
+*Muoversi insieme*, in M. Parodi, *Gli adulti sono bambini andati a male*, Sonda, Roma 2012
 
 *Germi di non violenza in acque agitate*, Ediesse, Roma 2012
 
@@ -65,6 +64,8 @@ Lo Yoga di Capitini. Nonviolenza e tecnologia del sé, in *Aldo Capitini compres
 *Brigantaggio e rivolta sociale nel circondario di Bovino*, in Aa. Vv., *Il brigantaggio dal 1799 al 1865*, Procaccini, Napoli 2000
 
 ## Libri curati
+
+*Danilo Dolci. Maieutica e sviluppo democratico*, Ledizioni, Milano 2026. Curato con Daniel Buraschi e Vincenzo Schirripa.
 
 L. Tolstoj, *Il Regno di Dio è in voi*, endehors, 2023
 
