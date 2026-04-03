@@ -16,6 +16,6 @@ Sono vegetariano fin dall’adolescenza. Ritengo che ogni essere vivente – com
 
 Sono ateo. E lo sarei anche se fossi credente.
 
-Vivo con Xhokonda, nostro figlio Ermes e il cane Mirò Chomsky (con me nella foto alla pieve di Ponte allo Spino).
+Vivo con Xhokonda, nostro figlio Ermes e Mirò (con me nella foto alla pieve di Ponte allo Spino).
 
  
