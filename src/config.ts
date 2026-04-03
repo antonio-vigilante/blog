@@ -3,7 +3,7 @@ export const SITE = {
   author: "Antonio Vigilante",
   profile: "https://www.odnikud.it",
   desc: "Blog di Antonio Vigilante.",
-  title: "odnikud",
+  title: "Odnikud",
   ogImage: "og-image.png",
   lightAndDarkMode: true,
   postPerIndex: 10,
