@@ -14,7 +14,7 @@ description: >
 
 Leggo le prime reazioni a *Senza cattedra*. Molti like, molti cuoricini: e molte reazioni sdegnate - qualcuna anche offensiva. Che non sorprende: ho messo nel conto la *shitstorm*, perché so bene come funziona il discorso pubblico sulla scuola in Italia.
 
-Ne scriverò con calma. Intanto un appunto su una cosa non secondaria. Le persone più scandalizzate, fin dal titolo, sono quelle che ritengono che la scuola *seria* sia centrata inevitabilmente  sulla lezione, sulla cattedra e il resto del pacchetto istituzionale-tradizionale che io metto in discussione. Sono le stesse persone che spesso si scandalizzano anche le la presunta continuità e contiguità tra la scuola e il mondo del lavoro, e che si sono opposte all'alternanza scuola-lavoro, questo affronto alla purezza degli studi.
+Ne scriverò con calma. Intanto un appunto su una cosa non secondaria. Le persone più scandalizzate, fin dal titolo, sono quelle che ritengono che la scuola *seria* sia centrata inevitabilmente  sulla lezione, sulla cattedra e il resto del pacchetto istituzionale-tradizionale che io metto in discussione. Sono le stesse persone che spesso si scandalizzano anche per la presunta continuità e contiguità tra la scuola e il mondo del lavoro, e che si sono opposte all'alternanza scuola-lavoro, questo affronto alla purezza degli studi.
 
 Quando però io sostengo che non c'è nessuna ragione intrinseca, ossia pedagogica e didattica, che giustifichi la configurazione attuale dell'aula, la disposizione in essa dei corpi e le richieste comportamentali conseguenti, mi inbatto in una obiezione come questa (cito da un commento da una discussione sulla pagina Facebook de "La ricerca"):
 
