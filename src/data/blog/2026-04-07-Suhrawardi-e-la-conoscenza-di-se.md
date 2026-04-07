@@ -32,4 +32,4 @@ Per Suhrawardi questo problema non si pone nella conoscenza dell'oggetto esterno
 
 [^1]: Suhravardi, *L'angelo purpureo*, Luni, Milano-Trento 2000, p. 22.
 
-[^2]:[M.A. Razavi, *Suhrawardi and the School of Illumination*, Curzon Press, Richmond 1997, pp. 103-104.]
+[^2]:M.A. Razavi, *Suhrawardi and the School of Illumination*, Curzon Press, Richmond 1997, pp. 103-104.
