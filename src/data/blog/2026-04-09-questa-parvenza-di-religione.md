@@ -10,7 +10,7 @@ description: >
   Oggi, nel 1945, i nazisti impiccavano Dietrich Bonhoeffer. Che ha insegnato ai
   cristiani come avere fede in modo adulto - come evitare di fare di Dio un
   Tappabuchi.  
-  Sui social viene impiccati mille volte al giorno, il povero Bonhoeffer. La 
+  Sui social viene impiccato mille volte al giorno, il povero Bonhoeffer. La 
   fede cristiana ha imboccato, con i social, la direzione diametralmente 
   opposta. È diventata infantile.  
   "Se metti amen in giornata riceverai una buona notizia". "Gesù sta piangendo,
