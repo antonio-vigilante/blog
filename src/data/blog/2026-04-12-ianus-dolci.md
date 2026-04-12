@@ -7,7 +7,7 @@ tags:
  - Danilo Dolci
 heroImage: /images/post/2026/ianus_dolci.jpg
 description: >
-  L'ultima uscita della collana *Ianus. Educazione e trasformazione sociale* è dedicato a Danilo Dolci. Curato da me, Daniel Buraschi e Vincenzo Schirripa e ad accesso aperto.
+  L'ultima uscita della collana *Ianus. Educazione e trasformazione sociale* è un libro dedicato a Danilo Dolci. Curato da me, Daniel Buraschi e Vincenzo Schirripa e ad accesso aperto.
 ---
 
 ![](/images/post/2026/ianus_dolci.jpg)
