@@ -3,6 +3,7 @@ import { slugifyStr } from "@/utils/slugify";
 import type { CollectionEntry } from "astro:content";
 import { getPath } from "@/utils/getPath";
 import Datetime from "./Datetime.astro";
+import { renderInlineMarkdown } from "@/utils/markdownInline";
 
 export interface Props extends CollectionEntry<"blog"> {
   variant?: "h2" | "h3";
@@ -32,5 +33,5 @@ const headerProps = {
     }
   </a>
   <Datetime {pubDatetime} {modDatetime} {timezone} />
-  <p class="post-excerpt">{description}</p>
+<p class="post-excerpt" set:html={renderInlineMarkdown(description)} />
 </li>

@@ -6,8 +6,8 @@ tags:
  - scuola
  - Ivana Margarese
 description: >
-  Su "Dialoghi Mediterranei" dialogo con Ivana Margarese sui temi di "Senza 
-  cattedra. La scuola possibile".
+  Su *Dialoghi Mediterranei* dialogo con Ivana Margarese sui temi di *Senza 
+  cattedra. La scuola possibile*.
 ---
 
 Sul numero 75 di "Dialoghi Mediterranei" è possibile leggere un lungo dialogo con Ivana Margarese (che ringrazio di cuore, e con la quale è sempre un piacere confrontarmi) intorno a *Senza cattedra. La scuola possibile*.

@@ -5,11 +5,7 @@ pubDatetime: 2026-04-04
 tags:
  - scuola
 description: >
-  Leggo le prime reazioni a "Senza
-  cattedra". Molti like, molti cuoricini: e
-  molte reazioni sdegnate - qualcuna anche
-  offensiva. Era nel conto. Ne scriverò con   calma. Intanto un appunto su una cosa non
-  secondaria. 
+  Leggo le prime reazioni a *Senza  cattedra*. Molti like, molti cuoricini: e  molte reazioni sdegnate - qualcuna anche  offensiva. Era nel conto. Ne scriverò con   calma. Intanto un appunto su una cosa non  secondaria. 
 ---
 
 Leggo le prime reazioni a *Senza cattedra*. Molti like, molti cuoricini: e molte reazioni sdegnate - qualcuna anche offensiva. Che non sorprende: ho messo nel conto la *shitstorm*, perché so bene come funziona il discorso pubblico sulla scuola in Italia.
