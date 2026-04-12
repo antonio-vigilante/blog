@@ -10,8 +10,7 @@ export interface Props extends CollectionEntry<"blog"> {
 }
 
 const { variant = "h2", data, id, filePath } = Astro.props;
-
-const { title, description, pubDatetime, modDatetime, timezone } = data;
+const { title, description, pubDatetime, modDatetime, timezone, heroImage } = data;
 
 const headerProps = {
   style: { viewTransitionName: slugifyStr(title) },
@@ -33,5 +32,8 @@ const headerProps = {
     }
   </a>
   <Datetime {pubDatetime} {modDatetime} {timezone} />
-<p class="post-excerpt" set:html={renderInlineMarkdown(description)} />
+  {heroImage && (
+    <img src={heroImage} alt={title} class="w-full rounded mb-2" />
+  )}
+  <p class="post-excerpt" set:html={renderInlineMarkdown(description)}></p>
 </li>
