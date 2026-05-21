@@ -26,6 +26,8 @@ L'amministrazione, dunque, *continuerà* a fare la propria parte. Vuol dire dunq
 
 >intanto concentrarsi su spacciatori e drogati dei centri sociali comunisti
 
+![](/images/post/2026/rosso_01.jpg)
+
 Se la Digos scopre una cellula di tredici minori neonazisti e armati, bisogna agire prendendosela con gli spacciatori e i drogati dei centri sociali comunisti. Non mi risulta che esistano centri sociali comunisti, per cui anche volendo assecondare questa richiesta mi sfugge peraltro con chi bisognerebbe prendersela.
 
 Chi risponde non è un cittadino qualsiasi, ma una figura storica della destra senese, ex dirigente stato dirigente nazionale di Fratelli d'Italia. La sua pagina Facebook, che è aperta, è un ottimo strumento per analizzare il discorso pubblico della destra. Gli ultimi post sono tutti sulla vicenda di Modena. Il 16 maggio scrive:
@@ -41,6 +43,8 @@ Chi risponde non è un cittadino qualsiasi, ma una figura storica della destra s
 Il giorno dopo sintetizza in modo efficace la analisi:
 
 > La Sinistra: mandanti morali di Modena.
+
+![](/images/post/2026/rosso_02.jpg)
 
 Ora, potrei dire la stessa cosa. Potrei dire che la destra è la mandante morale della cellula di minori neonazisti. Non lo faccio: perché significherebbe accettare questa stessa logica, che logica non è. E diventare parte del problema.
 
