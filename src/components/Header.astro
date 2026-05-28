@@ -75,27 +75,27 @@ const isActive = (path: string, mode: "section" | "exact" = "section") => {
         
         <li class="col-span-2">
             <a href="/info" class:list={{ "active-nav": isActive("/info") }}>
-              info
+              Info
             </a>
           </li>
           
         <li class="col-span-2">
            <a href="/tags" class:list={{ "active-nav": isActive("/tags") }}>
-             indice
+             Indice
             </a>
           </li>
           
     
         <li class="col-span-2">
            <a href="/about" class:list={{ "active-nav": isActive("/about") }}>
-             ego
+             Ego
             </a>
           </li>
 
     
         <li class="col-span-2">
            <a href="/libri" class:list={{ "active-nav": isActive("/libri") }}>
-             i miei libri
+             I miei libri
             </a>
           </li>
           {
@@ -113,7 +113,7 @@ const isActive = (path: string, mode: "section" | "exact" = "section") => {
                   title="archivi"
                 >
                   <IconArchive class="hidden sm:inline-block" />
-                  <span class="sm:sr-only">archivi</span>
+                  <span class="sm:sr-only">Archivi</span>
                 </LinkButton>
               </li>
             )
@@ -125,7 +125,7 @@ const isActive = (path: string, mode: "section" | "exact" = "section") => {
                 "focus-outline flex p-3 sm:p-1",
                 { "[&>svg]:stroke-accent": isActive("/search") },
               ]}
-              ariaLabel="cerca"
+              ariaLabel="Cerca"
               title="Cerca"
             >
               <IconSearch />

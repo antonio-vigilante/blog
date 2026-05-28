@@ -40,7 +40,7 @@ E insomma: niente roghi, per favore. Non c'è niente da bruciare. Possiamo prova
 
 
 
-[^1]: Guy Grossman, Yotam Margalit, Tamar Mitts, *How the Ultrarich Use Media Ownership as a Political Investment*, in "The Journal of Politics", vol. 84, n. 4, 2022.
+[^1]: Guy Grossman, Yotam Margalit, Tamar Mitts, *How the Ultrarich Use Media Ownership as a Political Investment*, in *The Journal of Politics*, vol. 84, n. 4, 2022.
 
 
 

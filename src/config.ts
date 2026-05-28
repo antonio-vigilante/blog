@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://antoniovigilante.pages.dev/", // replace this with your deployed domain
+  website: "https://www.odnikud.it", 
   author: "Antonio Vigilante",
   profile: "https://www.odnikud.it",
   desc: "Blog di Antonio Vigilante.",
