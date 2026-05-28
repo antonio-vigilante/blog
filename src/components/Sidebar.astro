@@ -109,6 +109,15 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
         }
         <li>
           <a
+            href="/grafo"
+            class:list={[
+              "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+              { "text-accent font-medium": isActive("/grafo") },
+            ]}
+          >Grafo</a>
+        </li>
+        <li>
+          <a
             href="/search"
             class:list={[
               "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
