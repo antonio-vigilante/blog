@@ -1,14 +1,11 @@
  ---
 import { getCollection } from "astro:content";
 import Layout from "@/layouts/Layout.astro";
-import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import Socials from "@/components/Socials.astro";
 import LinkButton from "@/components/LinkButton.astro";
 import Card from "@/components/Card.astro";
-import Hr from "@/components/Hr.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
-import IconRss from "@/assets/icons/IconRss.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
 import { SOCIALS } from "@/constants";
@@ -17,42 +14,20 @@ import MastodonFeed from "../components/MastodonFeed.astro";
 const posts = await getCollection("blog");
 
 const sortedPosts = getSortedPosts(posts);
-const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 ---
 
 <Layout>
-  <Header />
   <main id="main-content" data-layout="index">
         <section id="hero" class="pt-1 pb-6">
                   
     
       <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-   
-<!--
-      <div class="flex items-center space-x-4 my-4 sm:my-8"> 
-<img
-      src="/images/io.jpg"
-      alt="Logo"
-      class="h-24 w-24 rounded-full object-cover"
-    />
-      <div class="h-20 border-l border-gray-400"></div>
-
-      <p></p>
- -->
         Blog di<br>Antonio Vigilante.
-
       </h1>
   
 <div class="home-text">
-  <p>
-
-Dove si parla di filosofia e di educazione, di anarchismo e di nonviolenza, di ateismo e di buddhismo: di inquietudini e di attraversamenti. 
- 
-<!--
-Mi sono occupato a lungo di nonviolenza, scrivendo libri su Aldo Capitini, Gandhi e Danilo Dolci. Ora scrivo per lo più di scuola e di filosofia interculturale. Cerco di stare alla larga dai fanatismi - e mi piace pensare che sia possibile l'uguaglianza tra esseri umani. Il mio ultimo libro è <a href="https://odnikud.it/posts/2026-01-28-senza-cattedra/"><em>Senza cattedra. La scuola possibile</em></a> (Loescher).
--->  
-</p>
+  <p>Dove si parla di filosofia e di educazione, di anarchismo e di nonviolenza, di ateismo e di buddhismo: di inquietudini e di attraversamenti.</p>
 </div>
 
 
@@ -73,30 +48,14 @@ Mi sono occupato a lungo di nonviolenza, scrivendo libri su Aldo Capitini, Gandh
         <section id="recent-posts" class="pt-4 pb-6">
           <h2 class="text-2xl font-semibold tracking-wide">Ultimi post</h2>
           <ul>
-            {recentPosts.map(
-              (data, index) =>
-                index < SITE.postPerIndex && <Card variant="h3" {...data} />
-            )}
+            {recentPosts.slice(0, SITE.postPerIndex).map(data => (
+              <Card variant="h3" {...data} />
+            ))}
           </ul>
         </section>
       )
     }
 
-    {
-      featuredPosts.length > 0 && (
-        <>
-          <section id="featured" class="pt-12 pb-6">
-            <h2 class="text-2xl font-semibold tracking-wide">Dall'archivio</h2>
-            <ul>
-              {featuredPosts.map(data => (
-                <Card variant="h3" {...data} />
-              ))}
-            </ul>
-          </section>
-          {recentPosts.length > 0 && <Hr />}
-        </>
-      )
-    }
 
     
 

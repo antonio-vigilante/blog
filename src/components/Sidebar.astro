@@ -1,0 +1,188 @@
+---
+import { getCollection } from "astro:content";
+import getSortedPosts from "@/utils/getSortedPosts";
+import { SITE } from "@/config";
+import { getPath } from "@/utils/getPath";
+import IconMoon from "@/assets/icons/IconMoon.svg";
+import IconSunHigh from "@/assets/icons/IconSunHigh.svg";
+import IconMenuDeep from "@/assets/icons/IconMenuDeep.svg";
+import IconX from "@/assets/icons/IconX.svg";
+
+const { pathname } = Astro.url;
+const currentPath =
+  pathname.endsWith("/") && pathname !== "/" ? pathname.slice(0, -1) : pathname;
+const isActive = (path: string) =>
+  currentPath === path || currentPath.startsWith(path + "/");
+
+const posts = await getCollection("blog");
+const sortedPosts = getSortedPosts(posts);
+const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5);
+---
+
+<aside
+  id="sidebar"
+  class="bg-background lg:w-64 lg:shrink-0 lg:flex lg:flex-col lg:border-r lg:border-border"
+>
+  <!-- Barra superiore mobile -->
+  <div class="flex items-center justify-between p-4 border-b border-border lg:hidden">
+    <a href="/" class="font-bold text-lg text-accent">Odnikud</a>
+    <button
+      id="sidebar-toggle"
+      aria-label="Menu"
+      aria-expanded="false"
+      aria-controls="sidebar-body"
+      class="focus-outline p-2"
+    >
+      <IconMenuDeep id="sidebar-open-icon" />
+      <IconX id="sidebar-close-icon" class="hidden" />
+    </button>
+  </div>
+
+  <!-- Corpo della sidebar -->
+  <div
+    id="sidebar-body"
+    class="hidden lg:flex lg:flex-col px-6 py-6"
+  >
+    <!-- Titolo (solo desktop, su mobile è nella barra superiore) -->
+    <a href="/" class="mb-6 hidden lg:block">
+      <div class="text-2xl font-bold text-accent leading-tight">Odnikud</div>
+    </a>
+
+    <!-- Immagine autore -->
+    <img
+      src="/images/io.jpg"
+      alt="Antonio Vigilante"
+      class="w-full rounded-lg mb-6 object-cover"
+    />
+
+    <!-- Navigazione -->
+    <nav class="mb-6">
+      <ul class="space-y-0.5">
+        <li>
+          <a
+            href="/info"
+            class:list={[
+              "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+              { "text-accent font-medium": isActive("/info") },
+            ]}
+          >info</a>
+        </li>
+        <li>
+          <a
+            href="/tags"
+            class:list={[
+              "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+              { "text-accent font-medium": isActive("/tags") },
+            ]}
+          >indice</a>
+        </li>
+        <li>
+          <a
+            href="/about"
+            class:list={[
+              "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+              { "text-accent font-medium": isActive("/about") },
+            ]}
+          >ego</a>
+        </li>
+        <li>
+          <a
+            href="/libri"
+            class:list={[
+              "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+              { "text-accent font-medium": isActive("/libri") },
+            ]}
+          >i miei libri</a>
+        </li>
+        {
+          SITE.showArchives && (
+            <li>
+              <a
+                href="/archives"
+                class:list={[
+                  "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+                  { "text-accent font-medium": isActive("/archives") },
+                ]}
+              >archivi</a>
+            </li>
+          )
+        }
+        <li>
+          <a
+            href="/search"
+            class:list={[
+              "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+              { "text-accent font-medium": isActive("/search") },
+            ]}
+          >cerca</a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- Cambio tema -->
+    {
+      SITE.lightAndDarkMode && (
+        <div class="mb-6">
+          <button
+            id="theme-btn"
+            class="focus-outline flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors w-full text-left"
+            title="Cambia tema"
+            aria-label="auto"
+            aria-live="polite"
+          >
+            <span class="relative size-4 shrink-0">
+              <IconMoon class="absolute inset-0 scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90" />
+              <IconSunHigh class="absolute inset-0 scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0" />
+            </span>
+            <span>cambia tema</span>
+          </button>
+        </div>
+      )
+    }
+
+    <!-- Post in evidenza -->
+    {
+      featuredPosts.length > 0 && (
+        <div>
+          <h2 class="text-xs font-semibold uppercase tracking-wider text-foreground/50 mb-3 px-2">
+            In evidenza
+          </h2>
+          <ul class="space-y-1">
+            {featuredPosts.map(post => (
+              <li>
+                <a
+                  href={getPath(post.id, post.filePath)}
+                  class="block py-1.5 px-2 text-sm leading-snug hover:text-accent transition-colors rounded"
+                >
+                  {post.data.title}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )
+    }
+  </div>
+</aside>
+
+<script>
+  function initSidebarToggle() {
+    const btn = document.getElementById("sidebar-toggle");
+    const body = document.getElementById("sidebar-body");
+    const openIcon = document.getElementById("sidebar-open-icon");
+    const closeIcon = document.getElementById("sidebar-close-icon");
+
+    if (!btn || !body) return;
+
+    btn.addEventListener("click", () => {
+      const isOpen = btn.getAttribute("aria-expanded") === "true";
+      btn.setAttribute("aria-expanded", isOpen ? "false" : "true");
+      body.classList.toggle("hidden", isOpen);
+      openIcon?.classList.toggle("hidden", !isOpen);
+      closeIcon?.classList.toggle("hidden", isOpen);
+    });
+  }
+
+  initSidebarToggle();
+  document.addEventListener("astro:after-swap", initSidebarToggle);
+</script>

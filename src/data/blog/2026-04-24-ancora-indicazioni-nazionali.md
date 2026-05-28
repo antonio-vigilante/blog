@@ -7,7 +7,7 @@ tags:
  - scuola
  - filosofia
 description: >
-  La bufala della rimozione di Marx e Gramsci dalla bozza delle nuove Indicazioni Nazionali. Due miei articoli, su *La Ricerca* e su *Micromega* su una proposta di cambiamento dell'insegnamento della filosofia che merita invece una discussione seria. Su *Insegnare* analizzo invece l'inutile proposta riguardante le scienze umane.
+  La bufala della rimozione di Marx e Gramsci dalla bozza delle nuove Indicazioni Nazionali. Due miei articoli, su *La Ricerca* e su *Micromega, riguardo una proposta di cambiamento dell'insegnamento della filosofia che merita  una discussione seria. Su *Insegnare* analizzo invece l'inutile proposta riguardante le scienze umane.
 ---
 "Addio a Marx nei programmi dei licei? Oltre 60 filosofi firmano contro la bozza", titola [*Domani*](https://www.editorialedomani.it/fatti/filosofia-marx-programmi-licei-lettera-docenti-contrari-dydfxlnk). [RaiNews](https://www.rainews.it/articoli/2026/05/tagli-alla-filosofia-60-professori-contro-il-ministero-c1fffd95-c7b5-4ffa-a168-a88634049a3a.html) si spinge oltre: "Tagli alla filosofia nei licei, 60 professori contro il ministero". Entrambi gli organi di informazione – ma potrei citarne molti altri – ignorano che non esistono più da un pezzo i *programmi*, sostituiti dalla Indicazioni Nazionali. La differenza non è solo terminologica: le Indicazioni Nazionali si limitano a *indicare*, appunto, senza prescrivere e lasciando ampia libertà ai docenti.
 
