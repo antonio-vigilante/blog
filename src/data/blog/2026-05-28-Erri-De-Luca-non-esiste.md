@@ -3,9 +3,9 @@ title: "Erri De Luca non esiste"
 author: Antonio Vigilante
 pubDatetime: 2026-05-28
 tags:
- - Erri De Luca
- - sionismo
- - genocidio
+  - Erri De Luca
+  - sionismo
+  - genocidio
 description: > 
   Non c'è nulla di male a essere sionisti. E non c'è alcun genocidio a Gaza. È, in estrema sintesi, quello che ha detto Erri De Luca in una intervista al quotidiano israeliano *Israel Hayom*. Un'intervista a Roma prima della sua partecipazione all'International Writers Festival a Mishkenot Sha'ananim, a Gerusalemme. Un gesto naturalmente politico: "un atto di allineamento morale contro i venti prevalenti" (*an act of moral alignment against the prevailing winds*), ha scritto l'intervistatore, Omer Lachmanovitch. Si può discutere che sia controcorrente, ma soprattutto che sia morale. Ma vediamo intanto con chi sta parlando, De Luca. 
 ---
