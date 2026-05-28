@@ -89,10 +89,10 @@ Dietro tutto questo c'è una realtà di oppressione che non è troppo diversa da
 
 ### Riferimenti
 
-Emanuel Carrére, _Limonov_, Adelphi eBook, Milano 2012. 
-Alexandr Dugin, _La Quarta Teoria Politica_, NovaEuropa, s.l. 2017. 
-Georg Mosse, _Nationalism and Sexuality_, The University of Wisconsin Press, Madison 1985. 
-Benito Mussolini, _Fascismo_, voce dell'Enciclopedia Italiana, vol. XIV, Treccani, Roma 1932. 
-Dariush Shayegan, _Lo sguardo mutilato. Schizofrenia culturale: paesi tradizionali di fronte alla modernità_, Ariele, Milano 2015. 
-Otto Weininger, _Sesso e carattere_, Mimesis, Udine 2012. 
-Matteo Zola, _Il potere della Chiesa russa_, in _Il Tascabile_, 24 ottobre 2016, url: [https://www.iltascabile.com/societa/potere-chiesa-russa](https://www.iltascabile.com/societa/potere-chiesa-russa)
+Emanuel Carrére, _Limonov_, Adelphi eBook, Milano 2012.   
+Alexandr Dugin, _La Quarta Teoria Politica_, NovaEuropa, s.l. 2017.   
+Georg Mosse, _Nationalism and Sexuality_, The University of Wisconsin Press, Madison 1985.   
+Benito Mussolini, _Fascismo_, voce dell'Enciclopedia Italiana, vol. XIV, Treccani, Roma 1932.   
+Dariush Shayegan, _Lo sguardo mutilato. Schizofrenia culturale: paesi tradizionali di fronte alla modernità_, Ariele, Milano 2015.   
+Otto Weininger, _Sesso e carattere_, Mimesis, Udine 2012.   
+Matteo Zola, _Il potere della Chiesa russa_, in _Il Tascabile_, 24 ottobre 2016, url: [https://www.iltascabile.com/societa/potere-chiesa-russa](https://www.iltascabile.com/societa/potere-chiesa-russa)  
