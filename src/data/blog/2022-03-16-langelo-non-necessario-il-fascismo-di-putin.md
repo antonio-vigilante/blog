@@ -17,13 +17,13 @@ description: >
   così, da quello che scrive.
 ---
 
-### Tolstoj
+## Tolstoj
 
 Nella sua più importante opera filosofica, così poco letta in Italia da far pensare a una vera rimozione, _Il Regno di Dio è in voi_ (1893), Lev Tolstoj analizzava la società russa del suo tempo come un sistema di dominio interamente fondato sulla violenza. Un sistema fortemente diseguale, con pochi ricchi e potenti e una grande massa di contadini poverissimi, tenuti a bada con la forza – la polizia, l'esercito – e con una prassi religiosa che era nulla più che superstizione e inganno, senza alcun rapporto con gli elementi etici del Vangelo. Una società violenta che Tolstoj invitata a sovvertire con la nonviolenza: rifiutandone, cioè, la logica stessa, e dunque minandone la base. Ma come, in concreto? Quale era il punto debole sul quale intervenire? La risposta di Tolstoj non è affatto ingenua. La leva per rovesciare l'assetto sociale è l'opinione pubblica. Nelle società contemporanee essa è una forza sociale fondamentale, controllare la quale è essenziale per il potere. E l'azione nonviolenta, con il suo carattere etico e la disponibilità al sacrificio, è la più adatta ad agire sull'opinione pubblica. Tanto più, osservata Tolstoj, che la società contemporanea è scissa. Da un lato la violenza dei forti sui deboli, degli oppressori sugli oppressi; dall'altra l'inquietudine degli stessi oppressori, in un'epoca in cui gli ideali umanitari vanno diffondendosi e la loro pratica di oppressione è sempre meno giustificabile ai loro stessi occhi. Su questo disagio la nonviolenza avrebbe fatto leva.
 
 Era, ho detto, una idea tutt'altro che ingenua. Ma Tolstoj non aveva previsto che con l'avvento della società di massa e la crescita dell'industria culturale il potere sarebbe riuscito a manipolare con efficacia quasi perfetta l'opinione pubblica. Quanto al disagio dell'oppressore, il metodo più semplice per liberarsene era semplicemente rinunciare agli ideali umanitari. Elaborare una nuova cultura, cinica e brutale, che si facesse beffa di ogni ideale umanitario. Tolstoj, insomma, non aveva previsto il fascismo (mentre aveva intuito che la realizzazione violenta degli ideali di giustizia non avrebbe portato nulla di buono).
 
-### Cos'è fascismo?
+## Cos'è fascismo?
 
 A dire il vero il fascismo non si è limitato – non si limita – a gettar via gli ideali umanitari, affermando contro di essi la forza bruta. Sarebbe stata una operazione sincera, e la sincerità è essa stessa un valore: mentre il fascismo è negazione di qualsiasi valore, menzogna allo stato puro. La negazione di ogni valore avviene dunque, nel fascismo, in nome della spiritualità. Si legga la prima parte della voce _Fascismo_ nell'Enciclopedia Treccani, firmata da Mussolini ma scritta da Giovanni Gentile, l'ideologo del fascismo. L'uomo fascista, scrive, è colui
 
@@ -35,7 +35,7 @@ Il sistema di sfruttamento resta lo stesso. I poveri continuano ad essere sfrutt
 
 Con l'avvento dei fascismi il sistema di dominio diventa più spirituale e più brutale ad un tempo. E si può forse dire che il fascismo italiano è stato meno brutale del nazismo proprio perché meno spirituale. Nel fascismo la rozza corporeità del duce, la sua imbarazzante carnalità tende a prendere tutta la scena. La propaganda nazista presenta invece Hitler intento ad accarezzare cani o caprioli, l'erede della tradizione spirituale romantica, dell'idealismo antiborghese dei Wandervogel, il dittatore vegetariano dalla fisicità diafana. E dalla ferocia perfetta.
 
-### Kirill
+## Kirill
 
 Buona parte del mondo occidentale ha scoperto il patriarca Kirill dopo il 6 marzo scorso. Un uomo vestito con paramenti tanto vistosi da diventare ridicoli, che tiene un discorso con il quale non si limita a giustificare l'invasione dell'Ucraina: lo fa con argomenti che appaiono deliranti. Il mondo occidentale è il mondo del peccato, il mondo delle libertà illecite, di cui il Gay Pride è per il patriarca la rappresentazione più scandalosa.
 
@@ -51,7 +51,7 @@ Oggi in Russia è all'opera qualcosa di simile. La Russia non ha bisogno di impa
 
 L'unità della Russia cercata attraverso la religione, nella sua forma più violenta. L'unità di potere spirituale e potere politico è evidenziata anche fisicamente dallo spostamento della dimora del patriarca Kirill nel Cremlino. Mentre la fede ortodossa conquista sempre più fedeli nella società russa, ampiamente secolarizzata, "il patriarcato – ricorda Matteo Zola, direttore di _East Journal_ – ha potuto mettere insieme un discreto gruzzolo di rubli, pari a quattro miliardi di dollari secondo il _Moscow Times_" (Zola 2016).
 
-### Dugin
+## Dugin
 
 Se alla sua destra ha l'ineffabile patriarca Kirill, con il suo deposito di cari vecchi valori cristiano-ortodossi, alla sinistra Putin ha Alexandr Dugin. Già fondatore, con Ėduard Limonov, del nazionalboscevismo, è ora per molti senz'altro l'ideologo di Putin. Definizione forse eccessiva; certo è che Putin trae molta ispirazione, diciamo così, da quello che scrive.
 
@@ -79,15 +79,15 @@ Che è una indicazione inquietante, fascista in senso stretto, ma non si può ne
 
 Il caos gode di ottima stampa, in ambito filosofico, dopo Nietzsche. Non sono sicuro però che la realizzazione storica di questo progetto filosofico rappresenti la salvezza per chicchessia.
 
-### Il sesso degli angeli
+## Il sesso degli angeli
 
 C'è un aspetto del pensiero di Dugin che pare singolare, soprattutto se si pensa all'omofobia di cui s'è detto. Per il filosofo russo il soggetto della Quarta Teoria politica – che, abbiamo visto, è il Dasein heideggeriano – non è il maschio. Che è dietro il logos occidentale. Ma non è nemmeno la femmina, che è il contrario del maschio, e dunque complementare ad esso. Il Dasein è al di qua del genere. È agender, o meglio androgino. "Un androgino è un essere umano alla radice, prima dell’essere umano sessuato e il suo radicalismo è in esso, significando il suo appartenere alle radici. " (Ivi, p. 314). I riferimenti, qui, sono esoterici, e vanno dal _Libro di Enoch_ all'_Atalanta Fugiens_. E si potrebbe dire che questo essere umano asessuato è anche astorico, qualcosa come l'uomo astratto di Feuerbach distrutto criticamente da Marx; oppure, ricordando (con qualche imbarazzo) _Gender_ di Ivan Illich, si potrebbe chiedere se non sia il soggetto proprio dell'odiato liberismo. È bene, piuttosto, ricordare l'influenza che ha avuto _Sesso e carattere_ di Otto Weininger sul nazismo. La donna (come gli ebrei) amorale, presa interamente dalla sessualità, il maschio attivo, produttivo, volto al bene, libero dal sesso (Weininger 2012; cfr. Mosse 1985, p. 145). L'androgino non è tanto il superamento del dualismo tra maschile e femminile, quanto la sublimazione del maschile. Se il maschio è, a differenza della femmina, libero dal sesso, un maschio completo sarà affrancato dalla stessa identità di genere. Sarà, cioè, un angelo. "Nello spirito dell’angelomorfismo dell’antropologia politica della Quarta Teoria Politica possiamo describere \[sic\] il sesso del soggetto di questa come il sesso degli angeli" (Ivi, p. 315). Viene da sorridere. Ma passa, il sorriso, se ricordiamo da dove siamo partiti: spiritualità e fascismo. L'uomo fascista, diceva Gentile, "sopprime l'istinto della vita chiusa nel breve giro del piacere". Il Dasein di Dugin lo sopprime al punto de eliminare il suo stesso genere.
 
-### Conclusione
+## Conclusione
 
 Dietro tutto questo c'è una realtà di oppressione che non è troppo diversa da quello descritta, denunciata, _dissacrata_ da Tolstoj. Un sistema politico nelle mani di una casta di oligarchi ricchissimi e loschi, intenti a fare affari con il tanto odiato Occidente in accordo con la mafia o mafiosi essi stessi, mentre qualunque voce di dissenso viene spenta con la violenza. È chiaro a chiunque sappia usare il cervello che _questa_ Russia non può rappresentare la seria alternativa ad alcunché. È un paese che ha smarrito la sua identità ed è caduto in uno stato di confusione. Se il compito della filosofia è esprimere lo spirito di un'epoca, un dilettante della filosofia come Dugin è realmente, come si definisce sul suo profilo Facebook, il più grande filosofo russo. La sua confusione mentale, il suo scimmiottare le avanguardie occidentali pretendendo si trarre da esse una alternativa _russa_ all'Occidente, è il riflesso perfetto della confusione della Russia di oggi. Risolvere questa confusione con una politica di potenza porterà la Russia alla sua bancarotta completa. Bisognerà vedere se sarà un disastro che riguarderà solo la Russia o nella sua missione suicida, nella sua vocazione al caos coinvolgerà anche l'Occidente.
 
-### Riferimenti
+## Riferimenti
 
 Emanuel Carrére, _Limonov_, Adelphi eBook, Milano 2012.   
 Alexandr Dugin, _La Quarta Teoria Politica_, NovaEuropa, s.l. 2017.   
