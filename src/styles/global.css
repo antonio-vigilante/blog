@@ -69,13 +69,13 @@ html[data-theme="dark"] {
 }
 
 .post-excerpt {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.55;
 }
 
 /* Colora i link nella homepage come nei post */
 .home-text p {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.55;
 }
 
