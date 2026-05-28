@@ -68,7 +68,17 @@ html[data-theme="dark"] {
   scroll-margin-block: 1rem;
 }
 
+.post-excerpt {
+  font-size: 14px;
+  line-height: 1.55;
+}
+
 /* Colora i link nella homepage come nei post */
+.home-text p {
+  font-size: 14px;
+  line-height: 1.55;
+}
+
 .home-text a {
   color: var(--color-accent);
   text-decoration: underline;
