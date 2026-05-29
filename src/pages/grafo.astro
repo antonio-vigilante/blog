@@ -46,11 +46,11 @@ const graphData = { nodes: graphNodes, links: graphLinks };
     <div class="px-4 py-3 border-b border-border shrink-0">
       <h1 class="text-xl font-bold mb-0.5">Grafo dei post</h1>
       <p class="text-xs text-foreground/50">
-        Nodi blu: post &middot; Nodi arancioni: tag &middot; Scorri per zoomare &middot; Trascina per spostare &middot; Clicca per aprire
+        Nodi blu: post &middot; Nodi arancioni: tag &middot; Scorri/pizzica per zoomare &middot; Trascina per spostare &middot; Clicca per aprire
       </p>
     </div>
     <div id="graph-container" class="relative flex-1 min-h-0 overflow-hidden">
-      <canvas id="graph-canvas" class="w-full h-full" style="cursor: grab"></canvas>
+      <canvas id="graph-canvas" class="w-full h-full" style="cursor: grab; touch-action: none; user-select: none"></canvas>
       <div
         id="graph-tooltip"
         class="pointer-events-none absolute z-10 hidden rounded bg-background border border-border px-2 py-1 text-xs shadow-md max-w-xs whitespace-nowrap"
@@ -201,14 +201,18 @@ const graphData = { nodes: graphNodes, links: graphLinks };
       draw();
     }
 
-    // Center after layout settles
+    // Fit-to-viewport after layout settles
     simulation.on("end", () => {
       const xs = nodes.map(n => n.x ?? 0);
       const ys = nodes.map(n => n.y ?? 0);
-      const minX = Math.min(...xs),
-        maxX = Math.max(...xs);
-      const minY = Math.min(...ys),
-        maxY = Math.max(...ys);
+      const minX = Math.min(...xs), maxX = Math.max(...xs);
+      const minY = Math.min(...ys), maxY = Math.max(...ys);
+      const padding = 40;
+      T.k = Math.min(
+        canvas.width / (maxX - minX + padding * 2),
+        canvas.height / (maxY - minY + padding * 2),
+        1
+      );
       const cx = (minX + maxX) / 2;
       const cy = (minY + maxY) / 2;
       T.x = canvas.width / 2 - cx * T.k;
@@ -221,8 +225,30 @@ const graphData = { nodes: graphNodes, links: graphLinks };
     let isPanning = false;
     let panStart = { x: 0, y: 0 };
     let pointerDownPos = { x: 0, y: 0 };
+    const activePointers = new Map<number, { x: number; y: number }>();
+    let lastPinchDist = 0;
+    let hadMultiTouch = false;
+
+    function getPinchInfo() {
+      const pts = Array.from(activePointers.values());
+      return {
+        dist: Math.hypot(pts[1].x - pts[0].x, pts[1].y - pts[0].y),
+        mid: { x: (pts[0].x + pts[1].x) / 2, y: (pts[0].y + pts[1].y) / 2 },
+      };
+    }
 
     canvas.addEventListener("pointerdown", e => {
+      activePointers.set(e.pointerId, { x: e.offsetX, y: e.offsetY });
+      canvas.setPointerCapture(e.pointerId);
+
+      if (activePointers.size >= 2) {
+        hadMultiTouch = true;
+        dragNode = null;
+        isPanning = false;
+        lastPinchDist = getPinchInfo().dist;
+        return;
+      }
+
       pointerDownPos = { x: e.offsetX, y: e.offsetY };
       const node = getNodeAt(e.offsetX, e.offsetY);
       if (node) {
@@ -236,10 +262,24 @@ const graphData = { nodes: graphNodes, links: graphLinks };
         panStart = { x: e.offsetX - T.x, y: e.offsetY - T.y };
         canvas.style.cursor = "grabbing";
       }
-      canvas.setPointerCapture(e.pointerId);
     });
 
     canvas.addEventListener("pointermove", e => {
+      activePointers.set(e.pointerId, { x: e.offsetX, y: e.offsetY });
+
+      if (activePointers.size >= 2) {
+        const { dist, mid } = getPinchInfo();
+        if (lastPinchDist > 0) {
+          const factor = dist / lastPinchDist;
+          T.x = mid.x - (mid.x - T.x) * factor;
+          T.y = mid.y - (mid.y - T.y) * factor;
+          T.k = Math.min(12, Math.max(0.05, T.k * factor));
+          draw();
+        }
+        lastPinchDist = dist;
+        return;
+      }
+
       if (dragNode) {
         const w = screenToWorld(e.offsetX, e.offsetY);
         dragNode.fx = w.x;
@@ -263,12 +303,25 @@ const graphData = { nodes: graphNodes, links: graphLinks };
       }
     });
 
-    canvas.addEventListener("pointerup", e => {
+    function cleanupPointer(e: PointerEvent) {
+      activePointers.delete(e.pointerId);
+      try { canvas.releasePointerCapture(e.pointerId); } catch {}
+
+      if (activePointers.size === 1) {
+        lastPinchDist = 0;
+        const [rem] = activePointers.values();
+        dragNode = null;
+        isPanning = true;
+        panStart = { x: rem.x - T.x, y: rem.y - T.y };
+        return;
+      }
+
+      lastPinchDist = 0;
       const dx = e.offsetX - pointerDownPos.x;
       const dy = e.offsetY - pointerDownPos.y;
-      const wasDrag = Math.hypot(dx, dy) > 4;
+      const wasTap = Math.hypot(dx, dy) <= 8 && !hadMultiTouch;
 
-      if (!wasDrag) {
+      if (wasTap) {
         const node = getNodeAt(e.offsetX, e.offsetY);
         if (node) window.location.href = node.url;
       }
@@ -280,9 +333,12 @@ const graphData = { nodes: graphNodes, links: graphLinks };
         dragNode = null;
       }
       isPanning = false;
+      hadMultiTouch = false;
       canvas.style.cursor = "grab";
-      canvas.releasePointerCapture(e.pointerId);
-    });
+    }
+
+    canvas.addEventListener("pointerup", cleanupPointer);
+    canvas.addEventListener("pointercancel", cleanupPointer);
 
     canvas.addEventListener(
       "wheel",
