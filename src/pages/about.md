@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "Ego etc."
+title: "Il processo temporaneo Antonio Vigilante"
 ---
 ![Io e Mirò a Ponte allo Spino](/images/ponte-allo-spino.jpg)
 
