@@ -15,6 +15,6 @@ Un vocale - che, lo ricordo, è la versione povera del podcast - a margine di un
 </audio>
 
 
-[Scarica](https://antoniovigilante.pages.dev/audio/02-errore-comportamentale.mp3)
+[Scarica](https://www.odnikud.it/audio/02-errore-comportamentale.mp3)
 
 

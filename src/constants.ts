@@ -23,7 +23,7 @@ export const SOCIALS: Social[] = [
 
 {
     name: "RSS",
-    href: "https://antoniovigilante.pages.dev/rss.xml",
+    href: "https://www.odnikud.it/rss.xml",
     linkTitle: `${SITE.title} RSS`,
     icon: IconRss,
   },
