@@ -5,7 +5,9 @@ title: "I miei libri"
 
 ## Saggi
 
-[*Senza cattedra. La scuola possibile*](posts/2026-01-28-senza-cattedra), Loescher, Torino 2026.
+[*Textus. Manuale pratico di didattica digitale della filosofia*](https://zenodo.org/records/19956641), Zenodo, 2026.
+
+[*Senza cattedra. La scuola possibile*](https://odnikud.it/posts/2026-01-28-senza-cattedra/), Loescher, Torino 2026.
 
 *La stanza di fronte. Tre saggi di filosofia interculturale*, Ledizioni, Milano 2024
 
