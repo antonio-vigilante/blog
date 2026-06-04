@@ -9,8 +9,6 @@ tags:
 description: >
   Una lettura critica dei *margini* (e delle assenze) della lettera enciclica *Magnifica humanitas* di Leone XIV. 
 ---
-[PDF/DOI: 10.5281/10.5281/zenodo.20546325](https://zenodo.org/records/20546326)
-
 
 ## Res nova
 
