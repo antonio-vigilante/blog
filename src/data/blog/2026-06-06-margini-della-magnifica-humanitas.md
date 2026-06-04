@@ -1,5 +1,5 @@
 ---
-title: "Margini della *Magnifica humanitas*"
+title: Margini della "Magnifica humanitas"
 author: Antonio Vigilante
 pubDatetime: 2026-06-04
 tags:
@@ -9,6 +9,7 @@ tags:
 description: >
   Una lettura critica dei *margini* (e delle assenze) della lettera enciclica *Magnifica humanitas* di Leone XIV. 
 ---
+PDF/DOI: [10.5281/zenodo.2054652](https://zenodo.org/records/20546520)
 
 ## Res nova
 
