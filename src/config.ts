@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://www.odnikud.it",
   desc: "Blog di Antonio Vigilante.",
   title: "Odnikud. Blog di Antonio Vigilante",
-  ogImage: "og-image.png",
+  ogImage: "og.png",
   lightAndDarkMode: true,
   postPerIndex: 10,
   postPerPage:15,

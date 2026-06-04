@@ -100,6 +100,9 @@ const isXML = Astro.url.pathname.endsWith(".xml");
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:type" content={pubDatetime ? "article" : "website"} />
     <meta property="og:image" content={socialImageURL} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:type" content="image/png" />
 
     <!-- Article Published/Modified time -->
     {pubDatetime && (
