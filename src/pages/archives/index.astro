@@ -13,6 +13,10 @@ if (!SITE.showArchives) {
 
 const posts = await getCollection("blog", ({ data }) => !data.draft);
 
+const years = Object.keys(
+  getPostsByGroupCondition(posts, post => post.data.pubDatetime.getFullYear())
+).sort((a, b) => Number(b) - Number(a));
+
 const months = [
   "Gennaio",
   "Febbraio",
@@ -31,6 +35,16 @@ const months = [
 
 <Layout title={`Archivi | ${SITE.title}`}>
   <Main pageTitle="Archivi" pageDesc="Tutti gli articoli per data.">
+    <div class="mb-8 flex flex-wrap gap-2">
+      {years.map(year => (
+        <a
+          href={`#year-${year}`}
+          class="rounded border border-skin-line px-3 py-1 text-sm font-semibold hover:bg-skin-card-muted"
+        >
+          {year}
+        </a>
+      ))}
+    </div>
     {
       Object.entries(
         getPostsByGroupCondition(posts, post =>
@@ -39,7 +53,7 @@ const months = [
       )
         .sort(([yearA], [yearB]) => Number(yearB) - Number(yearA))
         .map(([year, yearGroup]) => (
-          <div>
+          <div id={`year-${year}`} class="mt-10 first:mt-0">
             <span class="text-2xl font-bold">{year}</span>
             <sup class="text-sm">{yearGroup.length}</sup>
             {Object.entries(
@@ -57,7 +71,7 @@ const months = [
                   </div>
                   
                   
-                  <ul>
+                  <ul class="sm:mt-6">
   {monthGroup
     .sort(
       (a, b) =>
