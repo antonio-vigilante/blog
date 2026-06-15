@@ -71,6 +71,7 @@ html[data-theme="dark"] {
 .post-excerpt {
   font-size: 16px;
   line-height: 1.55;
+  margin-top: 0.5rem;
 }
 
 /* Colora i link nella homepage come nei post */
