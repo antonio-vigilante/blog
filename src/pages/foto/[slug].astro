@@ -4,6 +4,7 @@ import Layout from "@/layouts/Layout.astro";
 import Footer from "@/components/Footer.astro";
 import Tag from "@/components/Tag.astro";
 import { slugifyStr } from "@/utils/slugify";
+import { renderInlineMarkdown } from "@/utils/markdownInline";
 import dayjs from "dayjs";
 import "dayjs/locale/it";
 dayjs.locale("it");
@@ -36,7 +37,7 @@ const date = dayjs(pubDatetime).format("D MMMM YYYY");
       <time>{date}</time>
       {location && <span>📍 {location}</span>}
     </div>
-    {description && <p class="mb-6 leading-relaxed">{description}</p>}
+    {description && <p class="mb-6 leading-relaxed" set:html={renderInlineMarkdown(description)} />}
     {tags.length > 0 && (
       <ul class="flex flex-wrap gap-1">
         {tags.map(tag => <Tag tag={slugifyStr(tag)} tagName={tag} />)}
