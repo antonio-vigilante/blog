@@ -1,0 +1,47 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Footer from "@/components/Footer.astro";
+import Tag from "@/components/Tag.astro";
+import { slugifyStr } from "@/utils/slugify";
+import dayjs from "dayjs";
+import "dayjs/locale/it";
+dayjs.locale("it");
+
+export async function getStaticPaths() {
+  const photos = await getCollection("gallery");
+  return photos.map(photo => ({
+    params: { slug: photo.id },
+    props: { photo },
+  }));
+}
+
+const { photo } = Astro.props;
+const { title, image, description, location, pubDatetime, tags } = photo.data;
+const date = dayjs(pubDatetime).format("D MMMM YYYY");
+---
+
+<Layout title={`${title} — Odnikud`}>
+  <main id="main-content" class="ml-0 mr-auto w-full max-w-app px-4 pb-12 mt-8">
+    <a href="/foto/" class="text-sm text-accent hover:underline mb-6 inline-block">
+      ← Tutte le foto
+    </a>
+    <img
+      src={image}
+      alt={title}
+      class="w-full max-h-[70vh] object-contain bg-muted mb-6"
+    />
+    <h1 class="text-2xl font-semibold mb-1">{title}</h1>
+    <div class="flex items-center gap-4 text-sm opacity-70 mb-4">
+      <time>{date}</time>
+      {location && <span>📍 {location}</span>}
+    </div>
+    {description && <p class="mb-6 leading-relaxed">{description}</p>}
+    {tags.length > 0 && (
+      <ul class="flex flex-wrap gap-1">
+        {tags.map(tag => <Tag tag={slugifyStr(tag)} tagName={tag} />)}
+      </ul>
+    )}
+  </main>
+  <Footer />
+</Layout>

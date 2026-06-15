@@ -1,0 +1,30 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Footer from "@/components/Footer.astro";
+
+const photos = (await getCollection("gallery")).sort(
+  (a, b) => b.data.pubDatetime.getTime() - a.data.pubDatetime.getTime()
+);
+---
+
+<Layout title="Foto — Odnikud">
+  <main id="main-content" class="ml-0 mr-auto w-full max-w-app px-4 pb-12 mt-8">
+    <h1 class="text-2xl font-semibold mb-8">Foto</h1>
+    <div class="grid grid-cols-2 sm:grid-cols-3 gap-2">
+      {photos.map(photo => (
+        <a
+          href={`/foto/${photo.id}/`}
+          class="group block aspect-square overflow-hidden bg-muted"
+        >
+          <img
+            src={photo.data.image}
+            alt={photo.data.title}
+            class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+          />
+        </a>
+      ))}
+    </div>
+  </main>
+  <Footer />
+</Layout>

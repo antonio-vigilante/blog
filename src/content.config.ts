@@ -24,4 +24,18 @@ const blog = defineCollection({
     }),
 });
 
-export const collections = { blog };
+export const GALLERY_PATH = "src/data/gallery";
+
+const gallery = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/data/gallery" }),
+  schema: z.object({
+    title: z.string(),
+    pubDatetime: z.date(),
+    image: z.string(),
+    description: z.string().optional(),
+    location: z.string().optional(),
+    tags: z.array(z.string()).default([]),
+  }),
+});
+
+export const collections = { blog, gallery };
