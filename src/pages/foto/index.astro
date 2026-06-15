@@ -1,30 +1,179 @@
 ---
-import { getCollection } from "astro:content";
+import fs from "node:fs";
+import path from "node:path";
 import Layout from "@/layouts/Layout.astro";
 import Footer from "@/components/Footer.astro";
+import { renderInlineMarkdown } from "@/utils/markdownInline";
 
-const photos = (await getCollection("gallery")).sort(
-  (a, b) => b.data.pubDatetime.getTime() - a.data.pubDatetime.getTime()
-);
+const galleryDir = path.join(process.cwd(), "public/images/gallery");
+const exts = new Set([".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif"]);
+
+const captionsFile = path.join(galleryDir, "_captions.json");
+const captions: Record<string, string> = fs.existsSync(captionsFile)
+  ? JSON.parse(fs.readFileSync(captionsFile, "utf-8"))
+  : {};
+
+type Photo = { src: string; caption: string };
+
+const photos: Photo[] = fs.existsSync(galleryDir)
+  ? fs.readdirSync(galleryDir)
+      .filter(f => exts.has(path.extname(f).toLowerCase()))
+      .sort((a, b) => b.localeCompare(a))
+      .map(f => ({ src: `/images/gallery/${f}`, caption: renderInlineMarkdown(captions[f] ?? "") }))
+  : [];
 ---
 
 <Layout title="Foto — Odnikud">
   <main id="main-content" class="ml-0 mr-auto w-full max-w-app px-4 pb-12 mt-8">
     <h1 class="text-2xl font-semibold mb-8">Foto</h1>
-    <div class="grid grid-cols-2 sm:grid-cols-3 gap-2">
-      {photos.map(photo => (
-        <a
-          href={`/foto/${photo.id}/`}
-          class="group block aspect-square overflow-hidden bg-muted"
-        >
-          <img
-            src={photo.data.image}
-            alt={photo.data.title}
-            class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
-          />
-        </a>
-      ))}
-    </div>
+    {photos.length === 0 ? (
+      <p class="text-sm opacity-60">Nessuna foto.</p>
+    ) : (
+      <>
+        <div class="grid grid-cols-2 sm:grid-cols-3 gap-2">
+          {photos.map((photo, i) => (
+            <button
+              type="button"
+              class:list={[
+                "group block aspect-square overflow-hidden bg-muted cursor-zoom-in",
+                i >= 24 && "hidden"
+              ]}
+              data-index={i}
+              data-lightbox
+              aria-label="Apri foto"
+            >
+              <img
+                src={photo.src}
+                alt={photo.caption}
+                class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105 pointer-events-none"
+                loading="lazy"
+              />
+            </button>
+          ))}
+        </div>
+        {photos.length > 24 && (
+          <div class="mt-8 text-center">
+            <button
+              id="load-more"
+              type="button"
+              class="text-sm font-medium underline underline-offset-4 opacity-60 hover:opacity-100 transition-opacity"
+            >
+              Carica altre ({photos.length - 24})
+            </button>
+          </div>
+        )}
+      </>
+    )}
   </main>
   <Footer />
 </Layout>
+
+<!-- Lightbox -->
+<div
+  id="lightbox"
+  class="fixed inset-0 z-50 hidden flex-col items-center justify-center bg-black/90 px-4"
+  role="dialog"
+  aria-modal="true"
+  aria-label="Visualizzatore foto"
+>
+  <button
+    id="lb-close"
+    class="absolute top-4 right-4 text-white opacity-70 hover:opacity-100 transition-opacity"
+    aria-label="Chiudi"
+  >
+    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+    </svg>
+  </button>
+
+  <button
+    id="lb-prev"
+    class="absolute left-3 top-1/2 -translate-y-1/2 text-white opacity-70 hover:opacity-100 transition-opacity"
+    aria-label="Precedente"
+  >
+    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <polyline points="15 18 9 12 15 6"/>
+    </svg>
+  </button>
+
+  <img
+    id="lb-img"
+    src=""
+    alt=""
+    class="max-h-[80vh] max-w-[90vw] object-contain select-none"
+  />
+
+  <p
+    id="lb-caption"
+    class="mt-4 max-w-prose text-center text-sm text-white/80 leading-relaxed"
+  ></p>
+
+  <button
+    id="lb-next"
+    class="absolute right-3 top-1/2 -translate-y-1/2 text-white opacity-70 hover:opacity-100 transition-opacity"
+    aria-label="Successiva"
+  >
+    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <polyline points="9 18 15 12 9 6"/>
+    </svg>
+  </button>
+</div>
+
+<script define:vars={{ photos }}>
+  const lb = document.getElementById("lightbox");
+  const lbImg = document.getElementById("lb-img");
+  const lbCaption = document.getElementById("lb-caption");
+  const lbClose = document.getElementById("lb-close");
+  const lbPrev = document.getElementById("lb-prev");
+  const lbNext = document.getElementById("lb-next");
+
+  let current = 0;
+
+  function show(index) {
+    current = (index + photos.length) % photos.length;
+    const { src, caption } = photos[current];
+    lbImg.src = src;
+    lbImg.alt = caption;
+    lbCaption.innerHTML = caption;
+    lbCaption.style.display = caption ? "" : "none";
+    lb.classList.remove("hidden");
+    lb.classList.add("flex");
+    lbPrev.style.display = photos.length > 1 ? "" : "none";
+    lbNext.style.display = photos.length > 1 ? "" : "none";
+    document.body.style.overflow = "hidden";
+  }
+
+  function close() {
+    lb.classList.add("hidden");
+    lb.classList.remove("flex");
+    lbImg.src = "";
+    document.body.style.overflow = "";
+  }
+
+  // "Carica altre"
+  const loadMoreBtn = document.getElementById("load-more");
+  if (loadMoreBtn) {
+    loadMoreBtn.addEventListener("click", () => {
+      document.querySelectorAll("[data-lightbox].hidden").forEach(el => {
+        el.classList.remove("hidden");
+      });
+      loadMoreBtn.closest("div")?.remove();
+    });
+  }
+
+  document.querySelectorAll("[data-lightbox]").forEach(btn => {
+    btn.addEventListener("click", () => show(Number(btn.dataset.index)));
+  });
+
+  lbClose.addEventListener("click", close);
+  lbPrev.addEventListener("click", () => show(current - 1));
+  lbNext.addEventListener("click", () => show(current + 1));
+  lb.addEventListener("click", e => { if (e.target === lb) close(); });
+
+  document.addEventListener("keydown", e => {
+    if (lb.classList.contains("hidden")) return;
+    if (e.key === "Escape") close();
+    if (e.key === "ArrowLeft") show(current - 1);
+    if (e.key === "ArrowRight") show(current + 1);
+  });
+</script>
