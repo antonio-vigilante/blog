@@ -79,6 +79,14 @@ export default defineConfig({
         weights: [300, 400, 500, 600, 700],
         styles: ["normal", "italic"],
       },
+      {
+        name: "Raleway",
+        cssVariable: "--font-raleway",
+        provider: fontProviders.google(),
+        fallbacks: ["sans-serif"],
+        weights: [300, 400, 500, 600, 700],
+        styles: ["normal", "italic"],
+      },
     ],
   },
 });

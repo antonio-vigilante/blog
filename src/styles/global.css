@@ -64,7 +64,8 @@ html[data-theme="dark"] {
 
 @layer base {
   h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-google-sans-code);
+    font-family: var(--font-raleway);
+    letter-spacing: -0.01em;
   }
 }
 
