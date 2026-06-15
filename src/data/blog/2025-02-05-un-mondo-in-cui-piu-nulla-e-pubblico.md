@@ -2,6 +2,7 @@
 title: "Un mondo in cui più nulla è pubblico"
 author: Antonio Vigilante
 pubDatetime: 2025-02-05
+featured: true
 tags: 
   - social network
 description: "Stare su un social network, insomma, vuol dire accettare di spostare una parte significativa della nostra vita in un mondo parallelo che rappresenta uno dei peggiori incubi che l’umanità abbia concepito. Nel mondo reale il sogno capitalistico di trasformare tutto in merce e proprietà privata procede tra mille attriti; nel mondo parallelo sembra non trovare resistenza alcuna. Questo è il frame, la cornice politica di tutti i nostri scambi su social network come Facebook o X; ed è una cornice che prescinde dall’aspetto più o meno presentabile del padrone del social...."

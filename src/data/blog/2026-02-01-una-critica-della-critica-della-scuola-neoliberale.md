@@ -3,6 +3,7 @@
 title: "Una critica della critica della scuola neoliberale"
 author: Antonio Vigilante
 pubDatetime: 2026-02-01
+featured: true
 tags:
   - scuola
   - recensioni
