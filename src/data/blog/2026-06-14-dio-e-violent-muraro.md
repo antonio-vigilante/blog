@@ -17,7 +17,7 @@ description: >
 
 *Mi sarebbe piaciuto rileggere, ora che Muraro non c'è più, il suo* Dio è violent, *un librino che mi sembra una sintesi di tutto ciò che in lei ho sempre trovato, diciamo così, discutibile. Non l'ho ritrovato: è un vezzo dei librini quello di non farsi trovare. Ho ritrovato però la recensione che ne feci per il quarto numero di* Educazione Aperta.
 
-*L. Muraro, Dio è violent, Roma, Nottetempo, 2012, pp. 75.*
+L. Muraro, *Dio è violent*, Roma, Nottetempo, 2012, pp. 75.
 
 La riflessione di Luisa Muraro parte da una scritta comparsa su un muro nel centro storico di Lecce, che è quella che dà il titolo al libretto. La lettera finale di *violent* è stata cancellata, di modo che non è dato sapere se si tratta di un Dio maschio o femmina – una differenza non di poco conto per una autrice come Muraro, che è tra le rappresentanti più rilevanti del femminismo italiano. Ma quella di Muraro non è una riflessione sul genere di Dio. È una riflessione politica sulla violenza. Se Dio c'entra è perché, spiega, si tratta di «trovare vedute alte e larghe sull'uso della violenza»: e non c'è nulla di più efficace di Dio, quando si tratta di allargare le vedute.
 
