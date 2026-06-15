@@ -35,5 +35,5 @@ const headerProps = {
   {heroImage && (
     <img src={heroImage} alt={title} class="w-full rounded mb-2" />
   )}
-  <p class="post-excerpt" set:html={renderInlineMarkdown(description)}></p>
+  <p class="post-excerpt mt-2" set:html={renderInlineMarkdown(description)}></p>
 </li>
