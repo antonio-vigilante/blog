@@ -84,6 +84,10 @@ const isXML = Astro.url.pathname.endsWith(".xml");
     
 <!-- Load Font -->
     <Font
+      cssVariable="--font-merriweather"
+      preload={[{ subset: "latin", weight: 400, style: "normal" }]}
+    />
+    <Font
       cssVariable="--font-google-sans-code"
       preload={[{ subset: "latin", weight: 400, style: "normal" }]}
     />

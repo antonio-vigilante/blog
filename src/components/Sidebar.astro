@@ -25,7 +25,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
 >
   <!-- Barra superiore mobile -->
   <div class="flex items-center justify-between p-4 border-b border-border lg:hidden">
-    <a href="/" class="font-bold text-lg text-accent">Odnikud</a>
+    <a href="/" class="font-bold text-lg text-accent font-title">Odnikud</a>
     <button
       id="sidebar-toggle"
       aria-label="Menu"
@@ -45,7 +45,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
   >
     <!-- Titolo (solo desktop, su mobile è nella barra superiore) -->
     <a href="/" class="mb-6 hidden lg:block">
-      <div class="text-2xl font-bold text-accent leading-tight">Odnikud</div>
+      <div class="text-2xl font-bold text-accent leading-tight font-title">Odnikud</div>
     </a>
 
     <!-- Immagine autore -->
@@ -56,7 +56,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
     />
 
     <!-- Navigazione -->
-    <nav class="mb-6">
+    <nav class="mb-6 font-title">
       <ul class="space-y-0.5">
         <li>
           <a

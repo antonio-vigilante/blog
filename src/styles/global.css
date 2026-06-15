@@ -20,7 +20,7 @@ html[data-theme="dark"] {
 }
 
 @theme inline {
-  --font-app: var(--font-google-sans-code);
+  --font-app: var(--font-merriweather);
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-accent: var(--accent);
@@ -56,6 +56,16 @@ html[data-theme="dark"] {
 
 @utility max-w-app {
   @apply max-w-3xl;
+}
+
+@utility font-title {
+  font-family: var(--font-google-sans-code);
+}
+
+@layer base {
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-google-sans-code);
+  }
 }
 
 .active-nav {

@@ -64,6 +64,14 @@ export default defineConfig({
     preserveScriptOrder: true,
     fonts: [
       {
+        name: "Merriweather",
+        cssVariable: "--font-merriweather",
+        provider: fontProviders.google(),
+        fallbacks: ["serif"],
+        weights: [400, 700],
+        styles: ["normal", "italic"],
+      },
+      {
         name: "Google Sans Code",
         cssVariable: "--font-google-sans-code",
         provider: fontProviders.google(),
