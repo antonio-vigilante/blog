@@ -6,7 +6,7 @@
 html[data-theme="light"] {
   --background: #ffffff;
   --foreground: #282728;
-  --accent: #006cac;
+  --accent: #1e3a5f;
   --muted: #e6e6e6;
   --border: #ece9e9;
 }
@@ -50,12 +50,12 @@ html[data-theme="dark"] {
   }
   section,
   footer {
-    @apply mx-auto max-w-app px-4;
+    @apply ml-0 mr-auto max-w-app px-4;
   }
 }
 
 @utility max-w-app {
-  @apply max-w-3xl;
+  @apply max-w-[52rem];
 }
 
 @utility font-title {

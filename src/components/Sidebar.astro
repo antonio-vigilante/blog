@@ -3,10 +3,16 @@ import { getCollection } from "astro:content";
 import getSortedPosts from "@/utils/getSortedPosts";
 import { SITE } from "@/config";
 import { getPath } from "@/utils/getPath";
-import IconMoon from "@/assets/icons/IconMoon.svg";
-import IconSunHigh from "@/assets/icons/IconSunHigh.svg";
+import IconHalfMoon from "@/assets/icons/IconHalfMoon.svg";
 import IconMenuDeep from "@/assets/icons/IconMenuDeep.svg";
 import IconX from "@/assets/icons/IconX.svg";
+import IconInfo from "@/assets/icons/IconInfo.svg";
+import IconHash from "@/assets/icons/IconHash.svg";
+import IconUser from "@/assets/icons/IconUser.svg";
+import IconBook from "@/assets/icons/IconBook.svg";
+import IconArchive from "@/assets/icons/IconArchive.svg";
+import IconGraph from "@/assets/icons/IconGraph.svg";
+import IconSearch from "@/assets/icons/IconSearch.svg";
 
 const { pathname } = Astro.url;
 const currentPath =
@@ -62,37 +68,49 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
           <a
             href="/info"
             class:list={[
-              "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+              "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
               { "text-accent font-medium": isActive("/info") },
             ]}
-          >Info</a>
+          >
+            <IconInfo class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
+            Info
+          </a>
         </li>
         <li>
           <a
             href="/tags"
             class:list={[
-              "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+              "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
               { "text-accent font-medium": isActive("/tags") },
             ]}
-          >Indice</a>
+          >
+            <IconHash class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
+            Indice
+          </a>
         </li>
         <li>
           <a
             href="/about"
             class:list={[
-              "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+              "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
               { "text-accent font-medium": isActive("/about") },
             ]}
-          >Ego</a>
+          >
+            <IconUser class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
+            Ego
+          </a>
         </li>
         <li>
           <a
             href="/libri"
             class:list={[
-              "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+              "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
               { "text-accent font-medium": isActive("/libri") },
             ]}
-          >I miei libri</a>
+          >
+            <IconBook class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
+            I miei libri
+          </a>
         </li>
         {
           SITE.showArchives && (
@@ -100,10 +118,13 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
               <a
                 href="/archives"
                 class:list={[
-                  "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+                  "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
                   { "text-accent font-medium": isActive("/archives") },
                 ]}
-              >Archivi</a>
+              >
+                <IconArchive class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
+                Archivi
+              </a>
             </li>
           )
         }
@@ -111,19 +132,25 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
           <a
             href="/grafo"
             class:list={[
-              "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+              "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
               { "text-accent font-medium": isActive("/grafo") },
             ]}
-          >Grafo</a>
+          >
+            <IconGraph class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
+            Grafo
+          </a>
         </li>
         <li>
           <a
             href="/search"
             class:list={[
-              "block py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+              "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
               { "text-accent font-medium": isActive("/search") },
             ]}
-          >Cerca</a>
+          >
+            <IconSearch class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
+            Cerca
+          </a>
         </li>
       </ul>
     </nav>
@@ -134,15 +161,12 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
         <div class="mb-6">
           <button
             id="theme-btn"
-            class="focus-outline flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors w-full text-left"
+            class="group focus-outline flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors w-full text-left"
             title="Cambia tema"
             aria-label="auto"
             aria-live="polite"
           >
-            <span class="relative size-4 shrink-0">
-              <IconMoon class="absolute inset-0 scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90" />
-              <IconSunHigh class="absolute inset-0 scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0" />
-            </span>
+            <IconHalfMoon class="size-4 shrink-0 stroke-current transition-transform group-hover:rotate-6" />
             <span>Cambia tema</span>
           </button>
         </div>
