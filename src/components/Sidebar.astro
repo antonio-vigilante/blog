@@ -13,6 +13,7 @@ import IconBook from "@/assets/icons/IconBook.svg";
 import IconArchive from "@/assets/icons/IconArchive.svg";
 import IconGraph from "@/assets/icons/IconGraph.svg";
 import IconSearch from "@/assets/icons/IconSearch.svg";
+import IconRss from "@/assets/icons/IconRss.svg";
 
 const { pathname } = Astro.url;
 const currentPath =
@@ -150,6 +151,15 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
           >
             <IconSearch class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
             Cerca
+          </a>
+        </li>
+        <li>
+          <a
+            href="/rss.xml"
+            class="group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors"
+          >
+            <IconRss class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
+            RSS
           </a>
         </li>
       </ul>
