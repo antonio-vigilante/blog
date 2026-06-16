@@ -77,7 +77,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
             href="/info"
             class:list={[
               "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
-              { "text-accent font-medium": isActive("/info") },
+              { "bg-accent/10 text-accent font-semibold": isActive("/info") },
             ]}
           >
             <IconInfo class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
@@ -89,11 +89,11 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
             href="/tags"
             class:list={[
               "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
-              { "text-accent font-medium": isActive("/tags") },
+              { "bg-accent/10 text-accent font-semibold": isActive("/tags") },
             ]}
           >
             <IconHash class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
-            Indice
+            Tag
           </a>
         </li>
         <li>
@@ -101,7 +101,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
             href="/about"
             class:list={[
               "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
-              { "text-accent font-medium": isActive("/about") },
+              { "bg-accent/10 text-accent font-semibold": isActive("/about") },
             ]}
           >
             <IconUser class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
@@ -113,7 +113,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
             href="/libri"
             class:list={[
               "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
-              { "text-accent font-medium": isActive("/libri") },
+              { "bg-accent/10 text-accent font-semibold": isActive("/libri") },
             ]}
           >
             <IconBook class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
@@ -127,7 +127,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
                 href="/archives"
                 class:list={[
                   "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
-                  { "text-accent font-medium": isActive("/archives") },
+                  { "bg-accent/10 text-accent font-semibold": isActive("/archives") },
                 ]}
               >
                 <IconArchive class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
@@ -141,7 +141,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
             href="/grafo"
             class:list={[
               "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
-              { "text-accent font-medium": isActive("/grafo") },
+              { "bg-accent/10 text-accent font-semibold": isActive("/grafo") },
             ]}
           >
             <IconGraph class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
@@ -153,7 +153,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
             href="/foto"
             class:list={[
               "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
-              { "text-accent font-medium": isActive("/foto") },
+              { "bg-accent/10 text-accent font-semibold": isActive("/foto") },
             ]}
           >
             <IconPhoto class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
@@ -165,7 +165,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
             href="/search"
             class:list={[
               "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
-              { "text-accent font-medium": isActive("/search") },
+              { "bg-accent/10 text-accent font-semibold": isActive("/search") },
             ]}
           >
             <IconSearch class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
