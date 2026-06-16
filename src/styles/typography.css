@@ -56,7 +56,7 @@
   }
 
   img {
-    @apply mx-auto border border-border;
+    @apply mx-auto;
   }
 
   figcaption {
