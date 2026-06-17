@@ -7,7 +7,7 @@ import Footer from "@/components/Footer.astro";
   <main class="ml-0 mr-auto w-full max-w-app px-4 py-12">
     <h1 class="mb-8 text-2xl font-bold text-accent sm:text-3xl">Contatta</h1>
 
-    <form id="contact-form" class="flex flex-col gap-5 max-w-lg">
+    <form id="contact-form" method="post" action="/api/contact" class="flex flex-col gap-5 max-w-lg">
       <!-- Honeypot -->
       <input type="text" name="website" class="hidden" tabindex="-1" autocomplete="off" />
 
@@ -69,39 +69,47 @@ import Footer from "@/components/Footer.astro";
   <Footer />
 </Layout>
 
-<script>
-  const form = document.getElementById("contact-form") as HTMLFormElement;
-  const status = document.getElementById("form-status") as HTMLParagraphElement;
+<script is:inline>
+  (function () {
+    var form = document.getElementById("contact-form");
+    var status = document.getElementById("form-status");
+    if (!form || !status) return;
 
-  form.addEventListener("submit", async e => {
-    e.preventDefault();
-    const btn = form.querySelector("button[type='submit']") as HTMLButtonElement;
-    btn.disabled = true;
-    btn.textContent = "Invio in corso…";
-    status.className = "hidden text-sm";
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var btn = form.querySelector("button[type='submit']");
+      btn.disabled = true;
+      btn.textContent = "Invio in corso…";
+      status.className = "hidden text-sm";
 
-    try {
-      const res = await fetch("/api/contact", {
+      fetch("/api/contact", {
         method: "POST",
         body: new FormData(form),
-      });
-      const data = await res.json();
-
-      if (res.ok) {
-        form.reset();
-        status.textContent = "Messaggio inviato. Grazie!";
-        status.className = "text-sm text-green-700";
-      } else {
-        status.textContent = data.error ?? "Errore nell'invio.";
-        status.className = "text-sm text-red-600";
-      }
-    } catch {
-      status.textContent = "Errore di rete. Riprova più tardi.";
-      status.className = "text-sm text-red-600";
-    } finally {
-      btn.disabled = false;
-      btn.textContent = "Invia";
-      status.classList.remove("hidden");
-    }
-  });
+      })
+        .then(function (res) {
+          return res.json().then(function (data) {
+            return { ok: res.ok, data: data };
+          });
+        })
+        .then(function (result) {
+          if (result.ok) {
+            form.reset();
+            status.textContent = "Messaggio inviato. Grazie!";
+            status.className = "text-sm text-green-700";
+          } else {
+            status.textContent = result.data.error || "Errore nell’invio.";
+            status.className = "text-sm text-red-600";
+          }
+        })
+        .catch(function () {
+          status.textContent = "Errore di rete. Riprova più tardi.";
+          status.className = "text-sm text-red-600";
+        })
+        .finally(function () {
+          btn.disabled = false;
+          btn.textContent = "Invia";
+          status.classList.remove("hidden");
+        });
+    });
+  })();
 </script>
