@@ -31,7 +31,8 @@ const gallery = defineCollection({
   schema: z.object({
     title: z.string(),
     pubDatetime: z.date(),
-    image: z.string(),
+    image: z.string().optional(),
+    video: z.string().optional(),
     description: z.string().optional(),
     location: z.string().optional(),
     tags: z.array(z.string()).default([]),

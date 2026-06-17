@@ -18,7 +18,7 @@ export async function getStaticPaths() {
 }
 
 const { photo } = Astro.props;
-const { title, image, description, location, pubDatetime, tags } = photo.data;
+const { title, image, video, description, location, pubDatetime, tags } = photo.data;
 const date = dayjs(pubDatetime).format("D MMMM YYYY");
 ---
 
@@ -27,11 +27,21 @@ const date = dayjs(pubDatetime).format("D MMMM YYYY");
     <a href="/foto/" class="text-sm text-accent hover:underline mb-6 inline-block">
       ← Tutte le foto
     </a>
-    <img
-      src={image}
-      alt={title}
-      class="w-full max-h-[70vh] object-contain bg-muted mb-6"
-    />
+    {video ? (
+      <video
+        src={video}
+        poster={image}
+        controls
+        playsinline
+        class="w-full max-h-[70vh] object-contain bg-muted mb-6"
+      />
+    ) : image ? (
+      <img
+        src={image}
+        alt={title}
+        class="w-full max-h-[70vh] object-contain bg-muted mb-6"
+      />
+    ) : null}
     <h1 class="text-2xl font-semibold mb-1">{title}</h1>
     <div class="flex items-center gap-4 text-sm opacity-70 mb-4">
       <time>{date}</time>

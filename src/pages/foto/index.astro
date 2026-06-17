@@ -6,59 +6,88 @@ import Footer from "@/components/Footer.astro";
 import { renderInlineMarkdown } from "@/utils/markdownInline";
 
 const galleryDir = path.join(process.cwd(), "public/images/gallery");
-const exts = new Set([".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif"]);
+const imgExts = new Set([".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif"]);
+const vidExts = new Set([".mp4", ".webm", ".mov"]);
 
 const captionsFile = path.join(galleryDir, "_captions.json");
 const captions: Record<string, string> = fs.existsSync(captionsFile)
   ? JSON.parse(fs.readFileSync(captionsFile, "utf-8"))
   : {};
 
-type Photo = { src: string; caption: string };
+type MediaItem = { src: string; caption: string; type: "image" | "video" };
 
-const photos: Photo[] = fs.existsSync(galleryDir)
+const items: MediaItem[] = fs.existsSync(galleryDir)
   ? fs.readdirSync(galleryDir)
-      .filter(f => exts.has(path.extname(f).toLowerCase()))
+      .filter(f => {
+        const ext = path.extname(f).toLowerCase();
+        return imgExts.has(ext) || vidExts.has(ext);
+      })
       .sort((a, b) => b.localeCompare(a))
-      .map(f => ({ src: `/images/gallery/${f}`, caption: renderInlineMarkdown(captions[f] ?? "") }))
+      .map(f => {
+        const ext = path.extname(f).toLowerCase();
+        return {
+          src: `/images/gallery/${f}`,
+          caption: renderInlineMarkdown(captions[f] ?? ""),
+          type: vidExts.has(ext) ? "video" : "image",
+        };
+      })
   : [];
 ---
 
 <Layout title="Foto — Odnikud">
   <main id="main-content" class="ml-0 mr-auto w-full max-w-app px-4 pb-12 mt-8">
     <h1 class="text-2xl font-semibold mb-8">Foto</h1>
-    {photos.length === 0 ? (
+    {items.length === 0 ? (
       <p class="text-sm opacity-60">Nessuna foto.</p>
     ) : (
       <>
         <div class="grid grid-cols-2 sm:grid-cols-3 gap-2">
-          {photos.map((photo, i) => (
+          {items.map((item, i) => (
             <button
               type="button"
               class:list={[
-                "group block aspect-square overflow-hidden bg-muted cursor-zoom-in",
+                "group relative block aspect-square overflow-hidden bg-muted cursor-zoom-in",
                 i >= 24 && "hidden"
               ]}
               data-index={i}
               data-lightbox
-              aria-label="Apri foto"
+              aria-label={item.type === "video" ? "Apri video" : "Apri foto"}
             >
-              <img
-                src={photo.src}
-                alt={photo.caption}
-                class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105 pointer-events-none"
-                loading="lazy"
-              />
+              {item.type === "video" ? (
+                <>
+                  <video
+                    src={item.src}
+                    muted
+                    playsinline
+                    preload="metadata"
+                    class="w-full h-full object-cover pointer-events-none"
+                  />
+                  <div class="absolute inset-0 flex items-center justify-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+                      <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.45)"/>
+                      <path d="M20 15 L36 24 L20 33 Z" fill="white"/>
+                    </svg>
+                  </div>
+                </>
+              ) : (
+                <img
+                  src={item.src}
+                  alt={item.caption}
+                  class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105 pointer-events-none"
+                  loading="lazy"
+                />
+              )}
             </button>
           ))}
         </div>
-        {photos.length > 24 && (
+        {items.length > 24 && (
           <div class="mt-8 text-center">
             <button
               id="load-more"
               type="button"
               class="text-sm font-medium underline underline-offset-4 opacity-60 hover:opacity-100 transition-opacity"
             >
-              Carica altre ({photos.length - 24})
+              Carica altri ({items.length - 24})
             </button>
           </div>
         )}
@@ -74,7 +103,7 @@ const photos: Photo[] = fs.existsSync(galleryDir)
   class="fixed inset-0 z-50 hidden flex-col items-center justify-center bg-black/90 px-4"
   role="dialog"
   aria-modal="true"
-  aria-label="Visualizzatore foto"
+  aria-label="Visualizzatore media"
 >
   <button
     id="lb-close"
@@ -102,6 +131,13 @@ const photos: Photo[] = fs.existsSync(galleryDir)
     alt=""
     class="max-h-[80vh] max-w-[90vw] object-contain select-none"
   />
+  <video
+    id="lb-video"
+    src=""
+    controls
+    playsinline
+    class="max-h-[80vh] max-w-[90vw] object-contain select-none hidden"
+  />
 
   <p
     id="lb-caption"
@@ -119,9 +155,10 @@ const photos: Photo[] = fs.existsSync(galleryDir)
   </button>
 </div>
 
-<script define:vars={{ photos }}>
+<script define:vars={{ items }}>
   const lb = document.getElementById("lightbox");
   const lbImg = document.getElementById("lb-img");
+  const lbVideo = document.getElementById("lb-video");
   const lbCaption = document.getElementById("lb-caption");
   const lbClose = document.getElementById("lb-close");
   const lbPrev = document.getElementById("lb-prev");
@@ -130,16 +167,30 @@ const photos: Photo[] = fs.existsSync(galleryDir)
   let current = 0;
 
   function show(index) {
-    current = (index + photos.length) % photos.length;
-    const { src, caption } = photos[current];
-    lbImg.src = src;
-    lbImg.alt = caption;
+    current = (index + items.length) % items.length;
+    const { src, caption, type } = items[current];
+
+    lbVideo.pause();
+    lbVideo.src = "";
+    lbImg.src = "";
+
+    if (type === "video") {
+      lbVideo.src = src;
+      lbVideo.classList.remove("hidden");
+      lbImg.classList.add("hidden");
+    } else {
+      lbImg.src = src;
+      lbImg.alt = caption;
+      lbImg.classList.remove("hidden");
+      lbVideo.classList.add("hidden");
+    }
+
     lbCaption.innerHTML = caption;
     lbCaption.style.display = caption ? "" : "none";
     lb.classList.remove("hidden");
     lb.classList.add("flex");
-    lbPrev.style.display = photos.length > 1 ? "" : "none";
-    lbNext.style.display = photos.length > 1 ? "" : "none";
+    lbPrev.style.display = items.length > 1 ? "" : "none";
+    lbNext.style.display = items.length > 1 ? "" : "none";
     document.body.style.overflow = "hidden";
   }
 
@@ -147,10 +198,11 @@ const photos: Photo[] = fs.existsSync(galleryDir)
     lb.classList.add("hidden");
     lb.classList.remove("flex");
     lbImg.src = "";
+    lbVideo.pause();
+    lbVideo.src = "";
     document.body.style.overflow = "";
   }
 
-  // "Carica altre"
   const loadMoreBtn = document.getElementById("load-more");
   if (loadMoreBtn) {
     loadMoreBtn.addEventListener("click", () => {
