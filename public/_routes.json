@@ -1,9 +1,5 @@
 {
   "version": 1,
-  "include": [
-    "/sitemap-index.xml",
-    "/sitemap-0.xml",
-    "/*"
-  ],
+  "include": ["/api/*"],
   "exclude": []
 }
