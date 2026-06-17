@@ -28,7 +28,7 @@ export async function onRequestPost(context) {
     },
     body: JSON.stringify({
       from: "Odnikud <onboarding@resend.dev>",
-      to: "antoniovigilante@autistici.org",
+      to: "rimarerum@gmail.com",
       subject: `Messaggio da ${name}`,
       text: `Nome: ${name}\nEmail: ${email}\nAutorizza pubblicazione: ${publish}\n\n${message}`,
       reply_to: email,
