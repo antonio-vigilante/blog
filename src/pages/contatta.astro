@@ -7,7 +7,7 @@ import Footer from "@/components/Footer.astro";
   <main class="ml-0 mr-auto w-full max-w-app px-4 py-12">
     <h1 class="mb-8 text-2xl font-bold text-accent sm:text-3xl">Contatta</h1>
 
-    <form id="contact-form" method="post" action="/api/contact" class="flex flex-col gap-5 max-w-lg">
+    <form id="contact-form" class="flex flex-col gap-5 max-w-lg">
       <!-- Honeypot -->
       <input type="text" name="website" class="hidden" tabindex="-1" autocomplete="off" />
 
@@ -77,6 +77,7 @@ import Footer from "@/components/Footer.astro";
 
     form.addEventListener("submit", function (e) {
       e.preventDefault();
+      e.stopImmediatePropagation();
       var btn = form.querySelector("button[type='submit']");
       btn.disabled = true;
       btn.textContent = "Invio in corso…";
