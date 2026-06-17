@@ -44,6 +44,18 @@ import Footer from "@/components/Footer.astro";
         ></textarea>
       </div>
 
+      <div class="flex items-start gap-2">
+        <input
+          type="checkbox"
+          id="publish"
+          name="publish"
+          class="mt-0.5 accent-accent"
+        />
+        <label for="publish" class="text-sm text-foreground/80 cursor-pointer">
+          Autorizzo la pubblicazione di questo commento
+        </label>
+      </div>
+
       <button
         type="submit"
         class="self-start rounded bg-accent px-5 py-2 text-sm font-semibold text-background hover:opacity-80 transition-opacity"

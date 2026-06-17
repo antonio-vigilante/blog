@@ -5,6 +5,7 @@ export async function onRequestPost(context) {
   const name = formData.get("name")?.toString().trim() ?? "";
   const email = formData.get("email")?.toString().trim() ?? "";
   const message = formData.get("message")?.toString().trim() ?? "";
+  const publish = formData.get("publish") === "on" ? "Sì" : "No";
   const honeypot = formData.get("website")?.toString() ?? "";
 
   // Honeypot anti-spam
@@ -29,7 +30,7 @@ export async function onRequestPost(context) {
       from: "Odnikud <onboarding@resend.dev>",
       to: "antoniovigilante@autistici.org",
       subject: `Messaggio da ${name}`,
-      text: `Nome: ${name}\nEmail: ${email}\n\n${message}`,
+      text: `Nome: ${name}\nEmail: ${email}\nAutorizza pubblicazione: ${publish}\n\n${message}`,
       reply_to: email,
     }),
   });
