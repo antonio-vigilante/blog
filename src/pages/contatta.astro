@@ -1,0 +1,95 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Footer from "@/components/Footer.astro";
+---
+
+<Layout title="Contatta | Odnikud">
+  <main class="ml-0 mr-auto w-full max-w-app px-4 py-12">
+    <h1 class="mb-8 text-2xl font-bold text-accent sm:text-3xl">Contatta</h1>
+
+    <form id="contact-form" class="flex flex-col gap-5 max-w-lg">
+      <!-- Honeypot -->
+      <input type="text" name="website" class="hidden" tabindex="-1" autocomplete="off" />
+
+      <div class="flex flex-col gap-1">
+        <label for="name" class="text-sm font-semibold">Nome</label>
+        <input
+          type="text"
+          id="name"
+          name="name"
+          required
+          class="rounded border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/50"
+        />
+      </div>
+
+      <div class="flex flex-col gap-1">
+        <label for="email" class="text-sm font-semibold">Email</label>
+        <input
+          type="email"
+          id="email"
+          name="email"
+          required
+          class="rounded border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/50"
+        />
+      </div>
+
+      <div class="flex flex-col gap-1">
+        <label for="message" class="text-sm font-semibold">Messaggio</label>
+        <textarea
+          id="message"
+          name="message"
+          rows="6"
+          required
+          class="rounded border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/50 resize-y"
+        ></textarea>
+      </div>
+
+      <button
+        type="submit"
+        class="self-start rounded bg-accent px-5 py-2 text-sm font-semibold text-background hover:opacity-80 transition-opacity"
+      >
+        Invia
+      </button>
+
+      <p id="form-status" class="hidden text-sm"></p>
+    </form>
+  </main>
+  <Footer />
+</Layout>
+
+<script>
+  const form = document.getElementById("contact-form") as HTMLFormElement;
+  const status = document.getElementById("form-status") as HTMLParagraphElement;
+
+  form.addEventListener("submit", async e => {
+    e.preventDefault();
+    const btn = form.querySelector("button[type='submit']") as HTMLButtonElement;
+    btn.disabled = true;
+    btn.textContent = "Invio in corso…";
+    status.className = "hidden text-sm";
+
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        body: new FormData(form),
+      });
+      const data = await res.json();
+
+      if (res.ok) {
+        form.reset();
+        status.textContent = "Messaggio inviato. Grazie!";
+        status.className = "text-sm text-green-700";
+      } else {
+        status.textContent = data.error ?? "Errore nell'invio.";
+        status.className = "text-sm text-red-600";
+      }
+    } catch {
+      status.textContent = "Errore di rete. Riprova più tardi.";
+      status.className = "text-sm text-red-600";
+    } finally {
+      btn.disabled = false;
+      btn.textContent = "Invia";
+      status.classList.remove("hidden");
+    }
+  });
+</script>
