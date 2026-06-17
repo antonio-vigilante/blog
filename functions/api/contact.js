@@ -6,12 +6,11 @@ export async function onRequestPost(context) {
   const email = formData.get("email")?.toString().trim() ?? "";
   const message = formData.get("message")?.toString().trim() ?? "";
   const publish = formData.get("publish") === "on" ? "Sì" : "No";
-  const honeypot = formData.get("website")?.toString() ?? "";
+  const honeypot = formData.get("b_address")?.toString() ?? "";
 
-  // Honeypot anti-spam (temporaneamente disabilitato per debug)
-  // if (honeypot) {
-  //   return new Response(JSON.stringify({ success: true }), { status: 200 });
-  // }
+  if (honeypot) {
+    return new Response(JSON.stringify({ success: true }), { status: 200 });
+  }
 
   if (!name || !email || !message) {
     return new Response(
