@@ -8,10 +8,10 @@ export async function onRequestPost(context) {
   const publish = formData.get("publish") === "on" ? "Sì" : "No";
   const honeypot = formData.get("website")?.toString() ?? "";
 
-  // Honeypot anti-spam
-  if (honeypot) {
-    return new Response(JSON.stringify({ success: true }), { status: 200 });
-  }
+  // Honeypot anti-spam (temporaneamente disabilitato per debug)
+  // if (honeypot) {
+  //   return new Response(JSON.stringify({ success: true }), { status: 200 });
+  // }
 
   if (!name || !email || !message) {
     return new Response(
