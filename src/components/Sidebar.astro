@@ -54,10 +54,20 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
     class="hidden lg:flex lg:flex-col px-6 py-6"
   >
     <!-- Titolo (solo desktop, su mobile è nella barra superiore) -->
-    <a href="/" class="hidden lg:block">
-      <div class="relative w-full bg-gray-100 text-[#1e3a5f] px-3 py-3 text-center font-title border-2 border-dashed border-[#1e3a5f] mb-8">
-<div class="relative text-3xl font-semibold tracking-wide" style="font-family: var(--font-raleway);">Odnikud</div>
-      </div>
+    <a href="/" class="hidden lg:block mb-8">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 66" width="100%" role="img" aria-label="Odnikud">
+        <!-- Testo -->
+        <text
+          x="100" y="52"
+          font-family="Raleway, sans-serif"
+          font-size="31"
+          font-weight="700"
+          letter-spacing="4"
+          fill="#1e3a5f"
+          text-anchor="middle"
+        >Odnikud</text>
+        <line x1="20" y1="60" x2="180" y2="60" stroke="#1e3a5f" stroke-width="0.75"/>
+      </svg>
     </a>
 
     <!-- Immagine autore -->
