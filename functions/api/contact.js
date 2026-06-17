@@ -36,8 +36,10 @@ export async function onRequestPost(context) {
   });
 
   if (!res.ok) {
+    const resendError = await res.json().catch(() => ({}));
+    console.error("Resend error:", JSON.stringify(resendError));
     return new Response(
-      JSON.stringify({ error: "Errore nell'invio. Riprova più tardi." }),
+      JSON.stringify({ error: resendError.message ?? "Errore nell'invio. Riprova più tardi." }),
       { status: 500, headers: { "Content-Type": "application/json" } }
     );
   }
