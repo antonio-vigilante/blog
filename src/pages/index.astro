@@ -10,7 +10,6 @@ import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import IconNewspaper from "@/assets/icons/IconNewspaper.svg";
 import { SITE } from "@/config";
 import { SOCIALS } from "@/constants";
-import MastodonFeed from "../components/MastodonFeed.astro";
 
 const posts = await getCollection("blog");
 
@@ -59,9 +58,6 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         Tutti i post <IconArrowRight class="inline-block rtl:-rotate-180" />
       </LinkButton>
     </div>
-
-<MastodonFeed />
-
 
   </main>
   <Footer />

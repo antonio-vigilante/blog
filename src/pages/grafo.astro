@@ -1,7 +1,6 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "@/layouts/Layout.astro";
-import Breadcrumb from "@/components/Breadcrumb.astro";
 import Footer from "@/components/Footer.astro";
 import { getPath } from "@/utils/getPath";
 import { slugifyStr } from "@/utils/slugify";
@@ -43,9 +42,8 @@ const graphData = { nodes: graphNodes, links: graphLinks };
 ---
 
 <Layout title="Grafo — Odnikud">
-  <Breadcrumb />
   <main id="main-content" class="flex flex-col" style="height: calc(100dvh - 2rem)">
-    <div class="px-4 py-3 border-b border-border shrink-0">
+    <div class="px-4 pt-10 pb-3 border-b border-border shrink-0">
       <h1 class="text-2xl font-semibold sm:text-3xl mb-0.5">Grafo dei post</h1>
       <p class="text-xs text-foreground/50">
         Nodi blu: post &middot; Nodi arancioni: tag &middot; Scorri/pizzica per zoomare &middot; Trascina per spostare &middot; Clicca per aprire
