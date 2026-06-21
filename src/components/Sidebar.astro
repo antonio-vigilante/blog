@@ -16,6 +16,7 @@ import IconSearch from "@/assets/icons/IconSearch.svg";
 import IconRss from "@/assets/icons/IconRss.svg";
 import IconMail from "@/assets/icons/IconMail.svg";
 import IconPhoto from "@/assets/icons/IconPhoto.svg";
+import IconFolder from "@/assets/icons/IconFolder.svg";
 import IconMapPin from "@/assets/icons/IconMapPin.svg";
 import IconPushpin from "@/assets/icons/IconPushpin.svg";
 
@@ -169,6 +170,18 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
           >
             <IconPhoto class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
             Foto
+          </a>
+        </li>
+        <li>
+          <a
+            href="/progetti"
+            class:list={[
+              "group flex items-center gap-2 py-2 px-2 rounded text-sm hover:text-accent transition-colors",
+              { "bg-accent/10 text-accent font-semibold": isActive("/progetti") },
+            ]}
+          >
+            <IconFolder class="size-4 shrink-0 fill-transparent stroke-current stroke-2 transition-transform group-hover:rotate-6" />
+            Progetti
           </a>
         </li>
         <li>

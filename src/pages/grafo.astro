@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "@/layouts/Layout.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
 import Footer from "@/components/Footer.astro";
 import { getPath } from "@/utils/getPath";
 import { slugifyStr } from "@/utils/slugify";
@@ -42,9 +43,10 @@ const graphData = { nodes: graphNodes, links: graphLinks };
 ---
 
 <Layout title="Grafo — Odnikud">
+  <Breadcrumb />
   <main id="main-content" class="flex flex-col" style="height: calc(100dvh - 2rem)">
     <div class="px-4 py-3 border-b border-border shrink-0">
-      <h1 class="text-xl font-bold mb-0.5">Grafo dei post</h1>
+      <h1 class="text-2xl font-semibold sm:text-3xl mb-0.5">Grafo dei post</h1>
       <p class="text-xs text-foreground/50">
         Nodi blu: post &middot; Nodi arancioni: tag &middot; Scorri/pizzica per zoomare &middot; Trascina per spostare &middot; Clicca per aprire
       </p>
@@ -193,16 +195,24 @@ const graphData = { nodes: graphNodes, links: graphLinks };
       .alphaDecay(0.012)
       .on("tick", draw);
 
+    let initialFitDone = false;
+
     function resize() {
       const rect = container.getBoundingClientRect();
       canvas.width = rect.width;
       canvas.height = rect.height;
       simulation.force("center", d3.forceCenter(rect.width / 2, rect.height / 2));
+      if (!initialFitDone) {
+        initialFitDone = true;
+        simulation.stop();
+        for (let i = 0; i < 300; i++) simulation.tick();
+        fitViewport();
+        simulation.restart();
+      }
       draw();
     }
 
-    // Fit-to-viewport after layout settles
-    simulation.on("end", () => {
+    function fitViewport() {
       const xs = nodes.map(n => n.x ?? 0);
       const ys = nodes.map(n => n.y ?? 0);
       const minX = Math.min(...xs), maxX = Math.max(...xs);
@@ -212,13 +222,14 @@ const graphData = { nodes: graphNodes, links: graphLinks };
         canvas.width / (maxX - minX + padding * 2),
         canvas.height / (maxY - minY + padding * 2),
         1
-      );
+      ) * 1.0;
       const cx = (minX + maxX) / 2;
       const cy = (minY + maxY) / 2;
       T.x = canvas.width / 2 - cx * T.k;
       T.y = canvas.height / 2 - cy * T.k;
-      draw();
-    });
+    }
+
+    simulation.on("end", () => { fitViewport(); draw(); });
 
     // --- Interaction ---
     let dragNode: GraphNode | null = null;
