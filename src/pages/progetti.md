@@ -10,7 +10,7 @@ Un progetto di didattica e divulgazione della filosofia in prospettiva intercult
 
 ## endehors
 
-Un è un progetto culturale libertario; il nome è un omaggio a Zo d'Axa e Émile Armand. Tra gli altri volumi pubblicati -- tutti open access -- *Il Regno di Dio è in voi* di Lev Tolstoj e *Per la soppressione dei partiti politici* di Simone Weil.
+Un un progetto culturale libertario; il nome è un omaggio a Zo d'Axa e Émile Armand. Tra gli altri volumi pubblicati -- tutti open access -- *Il Regno di Dio è in voi* di Lev Tolstoj e *Per la soppressione dei partiti politici* di Simone Weil.
 
 [noblogo.org/endehors/](https://noblogo.org/endehors)
 
