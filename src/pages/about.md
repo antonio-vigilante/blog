@@ -18,6 +18,6 @@ Sono ateo. E lo sarei anche se fossi credente.
 
 Vivo con Xhokonda, nostro figlio Ermes e Mirò.
 
-Non amo essere fotografato, e per questo non è facile trovare mie foto in rete. Cercando il mio nome su Google compaiono diverse facce di omonimi: un uomo con la barba sorridente, un uomo con una camicia bianca, una macchina fotografica e un bel sorriso: e un politico di non so quale partito di destra.  Nella foto qui sopra sono a Ponte allo Spino, uno dei posti che amo di più, con Mirò; quella in calde ai post invece è stata scattata a San Galgano, in un giorno particolarmente difficile.
+Non amo essere fotografato, e per questo non è facile trovare mie foto in rete. Cercando il mio nome su Google compaiono diverse facce di omonimi: un uomo con la barba sorridente, un uomo con una camicia bianca, una macchina fotografica e un bel sorriso: e un politico di non so quale partito di destra.  Nella foto qui sopra sono a Ponte allo Spino, uno dei posti che amo di più, con Mirò; quella in calce ai post invece è stata scattata a San Galgano, in un giorno particolarmente difficile.
 
  
