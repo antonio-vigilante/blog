@@ -1,0 +1,30 @@
+CARTELLA INBOX — Blog Odnikud
+==============================
+
+Questa cartella è la "cassetta di ingresso" per i file multimediali
+da allegare al prossimo post del blog.
+
+COME FUNZIONA
+─────────────
+1. Copia qui (o trascina) le immagini, i file audio o video che vuoi
+   inserire nel post PRIMA di lanciare nuovo-post.bat.
+
+2. Avvia nuovo-post.bat, compila la maschera e premi "Crea post".
+
+3. Lo script:
+   • Sposta le immagini in  public/images/post/{anno}/
+   • Sposta l'audio in      public/audio/
+   • Sposta i video in      public/video/
+   • Inserisce i link relativi nel frontmatter del nuovo post.
+
+FORMATI SUPPORTATI
+──────────────────
+  Immagini : jpg  jpeg  png  gif  webp  svg  avif
+  Audio    : mp3  wav  ogg  m4a  flac  aac
+  Video    : mp4  webm  mov  avi  mkv
+
+NOTA
+────
+I file presenti in questa cartella vengono spostati e rimossi da qui
+automaticamente a ogni esecuzione dello script.
+Se non vuoi collegare media, tieni la cartella vuota.

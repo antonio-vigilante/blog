@@ -1,1 +1,48 @@
+BLOG ODNIKUD — Note operative
+==============================
+
+MODIFICARE IL MENU
+──────────────────
 Modificare il testo dei link del menu: file Header.astro nella cartella src/components
+
+
+CREARE UN NUOVO POST  (nuovo-post.bat)
+──────────────────────────────────────
+Fai doppio clic su  nuovo-post.bat  nella cartella principale del blog.
+
+Si apre una maschera con:
+  1. Data del post
+     • "Data odierna"        → usa la data di oggi automaticamente
+     • "Data personalizzata" → seleziona la data dal calendario
+  2. Titolo del post         → scrivi il titolo per esteso
+
+Lo script crea il file  AAAA-MM-GG-titolo-del-post.md  nella cartella
+src/data/blog/  e lo apre nell'editor predefinito, già con il
+frontmatter compilato (title, author, pubDatetime, tags, description).
+
+
+ALLEGARE FILE MULTIMEDIALI (cartella Inbox)
+───────────────────────────────────────────
+Vuoi inserire immagini, audio o video nel post?
+
+  Passo 1 — Copia i file nella cartella  Inbox/
+             (si trova qui nella cartella principale del blog)
+
+  Passo 2 — Avvia nuovo-post.bat e compila la maschera come al solito.
+
+Lo script:
+  • Sposta le immagini  →  public/images/post/{anno}/
+  • Sposta l'audio     →  public/audio/
+  • Sposta i video     →  public/video/
+  e inserisce i relativi link nel file .md appena creato.
+
+Formati supportati:
+  Immagini : jpg  jpeg  png  gif  webp  svg  avif
+  Audio    : mp3  wav  ogg  m4a  flac  aac
+  Video    : mp4  webm  mov  avi  mkv
+
+
+PUBBLICARE IL BLOG
+──────────────────
+Il blog viene pubblicato automaticamente su Cloudflare Pages
+a ogni push su GitHub. Basta fare git commit + git push.
