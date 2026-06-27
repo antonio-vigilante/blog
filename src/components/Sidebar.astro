@@ -37,7 +37,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
 >
   <!-- Barra superiore mobile -->
   <div class="flex items-center justify-between p-4 border-b border-border lg:hidden">
-    <a href="/" class="font-bold text-2xl text-accent font-title">Odnikud</a>
+    <a href="/" class="font-bold text-2xl text-accent" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-variant-caps: small-caps;">Odnikud</a>
     <button
       id="sidebar-toggle"
       aria-label="Menu"
@@ -58,17 +58,16 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
     <!-- Titolo (solo desktop, su mobile è nella barra superiore) -->
     <a href="/" class="hidden lg:block mb-8">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 66" width="100%" role="img" aria-label="Odnikud">
-        <!-- Testo -->
         <text
           x="100" y="52"
-          font-family="Raleway, sans-serif"
+          font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
           font-size="31"
           font-weight="700"
-          letter-spacing="4"
-          fill="#1e3a5f"
+          letter-spacing="1"
+          fill="#003153"
           text-anchor="middle"
+          style="font-variant-caps: small-caps;"
         >Odnikud</text>
-        <line x1="20" y1="60" x2="180" y2="60" stroke="#1e3a5f" stroke-width="0.75"/>
       </svg>
     </a>
 

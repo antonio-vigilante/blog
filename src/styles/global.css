@@ -6,7 +6,7 @@
 html[data-theme="light"] {
   --background: #ffffff;
   --foreground: #282728;
-  --accent: #1e3a5f;
+  --accent: #003153;
   --muted: #e6e6e6;
   --border: #ece9e9;
 }
@@ -38,6 +38,9 @@ html[data-theme="dark"] {
     @apply overflow-y-scroll scroll-smooth;
   }
   body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
     @apply flex min-h-svh flex-col font-app text-foreground selection:bg-accent/75 selection:text-background;
     background-color: #a8acb0;
   }
