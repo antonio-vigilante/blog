@@ -13,7 +13,7 @@ description: >
 
 ![](/images/post/2026/valutazione-condotta.jpg)
 
-Questa è la griglia di valutazione della condotta di un liceo, uguale a quella di tanti altri licei. La studentessa che prenderà dieci avrà avuto un comportamento rispettoso delle persone, collaborativo e costruttivo; si sarà attenuta in modo scrupoloso al Regolamento d’Istituto e avrà frequentato sempre; e mai un ritardo.
+Questa è la griglia di valutazione della condotta (o *comportamento*) di un liceo, uguale a quella di tanti altri licei. La studentessa che prenderà dieci avrà avuto un comportamento rispettoso delle persone, collaborativo e costruttivo; si sarà attenuta in modo scrupoloso al Regolamento d’Istituto e avrà frequentato sempre; e mai un ritardo.
 
 Manca, in questa griglia, una cosa che ci serve come il pane: la capacità critica e la visione istituzionale. La studentessa avrà un atteggiamento collaborativo e costruttivo durante le attività didattiche: non romperà le scatole e farà quello che le si chiede. E la scatola istituzionale è fuori discussione. Così come il regolamento. Se l'istituzione è perfetta, evidentemente non si può prendere in considerazione la posisbilità che una critica o un atteggiamento trasformativo verso l'istituzione possano essere segni di una qualche maturità. Andranno penalizzati con un cattivo voto di condotta -- magari dopo aver messo qualche nota.
 
