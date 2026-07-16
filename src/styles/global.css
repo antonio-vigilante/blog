@@ -6,7 +6,7 @@
 html[data-theme="light"] {
   --background: #ffffff;
   --foreground: #282728;
-  --accent: #003153;
+  --accent: #3d6360;
   --muted: #e6e6e6;
   --border: #ece9e9;
   --pastel-yellow: #fbe8a6;
@@ -25,7 +25,7 @@ html[data-theme="dark"] {
 }
 
 @theme inline {
-  --font-app: var(--font-lora);
+  --font-app: var(--font-source-sans);
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-accent: var(--accent);
@@ -47,7 +47,7 @@ html[data-theme="dark"] {
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
     @apply flex min-h-svh flex-col font-app text-foreground selection:bg-accent/75 selection:text-background;
-    background-color: #f3f4f6;
+    background-color: #eef2f1;
     font-size: 16px;
   }
   html[data-theme="dark"] body {
@@ -143,7 +143,8 @@ li:nth-of-type(4n+4) .nav-link .nav-label::before {
 
 .post-excerpt {
   font-size: 20px;
-  line-height: 1.55;
+  font-weight: 400;
+  line-height: 1.4;
   margin-top: 0.5rem;
 }
 

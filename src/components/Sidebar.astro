@@ -64,7 +64,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
           font-size="40"
           font-weight="700"
           letter-spacing="1"
-          fill="#003153"
+          fill="var(--accent)"
           text-anchor="middle"
         >Odnikud</text>
       </svg>
@@ -248,7 +248,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
               <li>
                 <a
                   href={getPath(post.id, post.filePath)}
-                  class="block py-1.5 px-2 text-sm leading-snug hover:text-accent transition-colors rounded"
+                  class="block py-1.5 px-2 text-base leading-snug hover:text-accent transition-colors rounded"
                 >
                   {post.data.title}
                 </a>

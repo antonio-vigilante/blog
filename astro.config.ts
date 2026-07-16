@@ -88,11 +88,11 @@ export default defineConfig({
         styles: ["normal", "italic"],
       },
       {
-        name: "Lora",
-        cssVariable: "--font-lora",
+        name: "Source Sans 3",
+        cssVariable: "--font-source-sans",
         provider: fontProviders.google(),
-        fallbacks: ["serif"],
-        weights: [400, 700],
+        fallbacks: ["sans-serif"],
+        weights: [400, 600, 700],
         styles: ["normal", "italic"],
       },
       {

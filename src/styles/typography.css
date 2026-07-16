@@ -4,7 +4,8 @@
   .app-prose {
   @apply prose;
   font-size: 20px;
-  line-height: 1.55;
+  font-weight: 400;
+  line-height: 1.4;
 }
 
   .app-prose blockquote p {

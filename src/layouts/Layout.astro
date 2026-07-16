@@ -96,7 +96,7 @@ const isXML = Astro.url.pathname.endsWith(".xml");
       preload={[{ subset: "latin", weight: 400, style: "normal" }]}
     />
     <Font
-      cssVariable="--font-lora"
+      cssVariable="--font-source-sans"
       preload={[{ subset: "latin", weight: 400, style: "normal" }]}
     />
     <Font
@@ -163,7 +163,7 @@ const isXML = Astro.url.pathname.endsWith(".xml");
   </head>
 
   <body>
-    <div class="flex-1 flex flex-col lg:flex-row lg:gap-x-6 w-full max-w-[75.6rem] mx-auto bg-background">
+    <div class="flex-1 flex flex-col lg:flex-row lg:gap-x-6 w-full max-w-[75rem] mx-auto bg-background">
       <Sidebar />
       <div class="flex-1 min-w-0 flex flex-col">
         <slot />
