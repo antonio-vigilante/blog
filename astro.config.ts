@@ -87,6 +87,22 @@ export default defineConfig({
         weights: [300, 400, 500, 600, 700],
         styles: ["normal", "italic"],
       },
+      {
+        name: "Lora",
+        cssVariable: "--font-lora",
+        provider: fontProviders.google(),
+        fallbacks: ["serif"],
+        weights: [400, 700],
+        styles: ["normal", "italic"],
+      },
+      {
+        name: "Inter",
+        cssVariable: "--font-inter",
+        provider: fontProviders.google(),
+        fallbacks: ["sans-serif"],
+        weights: [400, 500, 600, 700],
+        styles: ["normal", "italic"],
+      },
     ],
   },
 });

@@ -95,6 +95,14 @@ const isXML = Astro.url.pathname.endsWith(".xml");
       cssVariable="--font-raleway"
       preload={[{ subset: "latin", weight: 400, style: "normal" }]}
     />
+    <Font
+      cssVariable="--font-lora"
+      preload={[{ subset: "latin", weight: 400, style: "normal" }]}
+    />
+    <Font
+      cssVariable="--font-inter"
+      preload={[{ subset: "latin", weight: 400, style: "normal" }, { subset: "latin", weight: 600, style: "normal" }]}
+    />
 
     <!-- General Meta Tags -->
     <title>{title}</title>
@@ -155,7 +163,7 @@ const isXML = Astro.url.pathname.endsWith(".xml");
   </head>
 
   <body>
-    <div class="flex-1 flex flex-col lg:flex-row lg:gap-x-6 w-full max-w-6xl mx-auto bg-background">
+    <div class="flex-1 flex flex-col lg:flex-row lg:gap-x-6 w-full max-w-[75.6rem] mx-auto bg-background">
       <Sidebar />
       <div class="flex-1 min-w-0 flex flex-col">
         <slot />
