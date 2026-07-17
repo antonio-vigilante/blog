@@ -6,6 +6,7 @@
 html[data-theme="light"] {
   --background: #ffffff;
   --foreground: #282728;
+  --title: #3f3f3f;
   --accent: #5c2a4d;
   --muted: #e6e6e6;
   --border: #ece9e9;
@@ -47,7 +48,7 @@ html[data-theme="dark"] {
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
     @apply flex min-h-svh flex-col font-app text-foreground selection:bg-accent/75 selection:text-background;
-    background-color: #eef2f1;
+    background-color: var(--background);
     font-size: 17px;
     line-height: 1.4;
   }
@@ -80,6 +81,7 @@ html[data-theme="dark"] {
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-raleway);
     letter-spacing: -0.01em;
+    color: var(--title);
   }
 }
 

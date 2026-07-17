@@ -96,7 +96,7 @@ const nextPost =
   >
     <h1
       transition:name={slugifyStr(title)}
-      class="inline-block text-2xl font-bold text-accent sm:text-3xl"
+      class="inline-block text-2xl font-bold sm:text-3xl"
       style="font-family: var(--font-inter);"
     >
       {title}
@@ -141,7 +141,7 @@ const nextPost =
             <IconChevronLeft class="inline-block flex-none rtl:rotate-180" />
             <div>
               <span>Post precedente</span>
-              <div class="text-sm text-accent/85">{prevPost.title}</div>
+              <div class="text-sm" style="color: var(--title); opacity: 0.85;">{prevPost.title}</div>
             </div>
           </a>
         )
@@ -154,7 +154,7 @@ const nextPost =
           >
             <div>
               <span>Post seguente</span>
-              <div class="text-sm text-accent/85">{nextPost.title}</div>
+              <div class="text-sm" style="color: var(--title); opacity: 0.85;">{nextPost.title}</div>
             </div>
             <IconChevronRight class="inline-block flex-none rtl:rotate-180" />
           </a>

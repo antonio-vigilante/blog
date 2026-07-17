@@ -3,6 +3,7 @@ import { Font } from "astro:assets";
 import { ClientRouter } from "astro:transitions";
 import { SITE } from "@/config";
 import "@/styles/global.css";
+import Header from "@/components/Header.astro";
 import Sidebar from "@/components/Sidebar.astro";
 
 
@@ -163,6 +164,7 @@ const isXML = Astro.url.pathname.endsWith(".xml");
   </head>
 
   <body>
+    <Header />
     <div class="flex-1 flex flex-col lg:flex-row lg:gap-x-6 w-full max-w-[71.25rem] mx-auto bg-background">
       <Sidebar />
       <div class="flex-1 min-w-0 flex flex-col">

@@ -36,8 +36,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
   class="bg-white lg:w-64 lg:shrink-0 lg:flex lg:flex-col"
 >
   <!-- Barra superiore mobile -->
-  <div class="flex items-center justify-between p-4 border-b border-border lg:hidden">
-    <a href="/" class="font-bold text-3xl text-accent" style="font-family: var(--font-inter);">Odnikud</a>
+  <div class="flex items-center justify-end p-4 border-b border-border lg:hidden">
     <button
       id="sidebar-toggle"
       aria-label="Menu"
@@ -55,27 +54,12 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
     id="sidebar-body"
     class="hidden lg:flex lg:flex-col px-6 py-6"
   >
-    <!-- Titolo (solo desktop, su mobile è nella barra superiore) -->
-    <a href="/" class="hidden lg:block mb-8">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 66" width="100%" role="img" aria-label="Odnikud" style="overflow: visible;">
-        <text
-          x="100" y="52"
-          font-family="var(--font-inter)"
-          font-size="40"
-          font-weight="700"
-          letter-spacing="1"
-          fill="var(--accent)"
-          text-anchor="middle"
-        >Odnikud</text>
-      </svg>
-    </a>
-
-    <!-- Immagine autore -->
+    <!-- Presentazione autore -->
     <div class="mb-6 hidden lg:block">
       <img
-        src="/images/io.jpg"
-        alt="Antonio Vigilante"
-        class="w-full aspect-square mx-0 object-cover rounded-full mix-blend-multiply"
+        src="/images/hoax_logo.gif"
+        alt=""
+        class="mx-0 w-full"
       />
     </div>
 
