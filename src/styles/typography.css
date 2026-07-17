@@ -3,7 +3,7 @@
 @layer base {
   .app-prose {
   @apply prose;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.4;
 }

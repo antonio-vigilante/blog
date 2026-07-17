@@ -88,11 +88,11 @@ export default defineConfig({
         styles: ["normal", "italic"],
       },
       {
-        name: "Source Sans 3",
-        cssVariable: "--font-source-sans",
+        name: "IBM Plex Sans",
+        cssVariable: "--font-ibm-plex-sans",
         provider: fontProviders.google(),
         fallbacks: ["sans-serif"],
-        weights: [400, 600, 700],
+        weights: [400, 500, 600, 700],
         styles: ["normal", "italic"],
       },
       {
