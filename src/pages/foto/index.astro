@@ -156,76 +156,83 @@ const items: MediaItem[] = fs.existsSync(galleryDir)
 </div>
 
 <script define:vars={{ items }}>
-  const lb = document.getElementById("lightbox");
-  const lbImg = document.getElementById("lb-img");
-  const lbVideo = document.getElementById("lb-video");
-  const lbCaption = document.getElementById("lb-caption");
-  const lbClose = document.getElementById("lb-close");
-  const lbPrev = document.getElementById("lb-prev");
-  const lbNext = document.getElementById("lb-next");
+  function initGallery() {
+    const lb = document.getElementById("lightbox");
+    if (!lb) return;
 
-  let current = 0;
+    const lbImg = document.getElementById("lb-img");
+    const lbVideo = document.getElementById("lb-video");
+    const lbCaption = document.getElementById("lb-caption");
+    const lbClose = document.getElementById("lb-close");
+    const lbPrev = document.getElementById("lb-prev");
+    const lbNext = document.getElementById("lb-next");
 
-  function show(index) {
-    current = (index + items.length) % items.length;
-    const { src, caption, type } = items[current];
+    let current = 0;
 
-    lbVideo.pause();
-    lbVideo.src = "";
-    lbImg.src = "";
+    function show(index) {
+      current = (index + items.length) % items.length;
+      const { src, caption, type } = items[current];
 
-    if (type === "video") {
-      lbVideo.src = src;
-      lbVideo.classList.remove("hidden");
-      lbImg.classList.add("hidden");
-    } else {
-      lbImg.src = src;
-      lbImg.alt = caption;
-      lbImg.classList.remove("hidden");
-      lbVideo.classList.add("hidden");
+      lbVideo.pause();
+      lbVideo.src = "";
+      lbImg.src = "";
+
+      if (type === "video") {
+        lbVideo.src = src;
+        lbVideo.classList.remove("hidden");
+        lbImg.classList.add("hidden");
+      } else {
+        lbImg.src = src;
+        lbImg.alt = caption;
+        lbImg.classList.remove("hidden");
+        lbVideo.classList.add("hidden");
+      }
+
+      lbCaption.innerHTML = caption;
+      lbCaption.style.display = caption ? "" : "none";
+      lb.classList.remove("hidden");
+      lb.classList.add("flex");
+      lbPrev.style.display = items.length > 1 ? "" : "none";
+      lbNext.style.display = items.length > 1 ? "" : "none";
+      document.body.style.overflow = "hidden";
     }
 
-    lbCaption.innerHTML = caption;
-    lbCaption.style.display = caption ? "" : "none";
-    lb.classList.remove("hidden");
-    lb.classList.add("flex");
-    lbPrev.style.display = items.length > 1 ? "" : "none";
-    lbNext.style.display = items.length > 1 ? "" : "none";
-    document.body.style.overflow = "hidden";
-  }
+    function close() {
+      lb.classList.add("hidden");
+      lb.classList.remove("flex");
+      lbImg.src = "";
+      lbVideo.pause();
+      lbVideo.src = "";
+      document.body.style.overflow = "";
+    }
 
-  function close() {
-    lb.classList.add("hidden");
-    lb.classList.remove("flex");
-    lbImg.src = "";
-    lbVideo.pause();
-    lbVideo.src = "";
-    document.body.style.overflow = "";
-  }
-
-  const loadMoreBtn = document.getElementById("load-more");
-  if (loadMoreBtn) {
-    loadMoreBtn.addEventListener("click", () => {
-      document.querySelectorAll("[data-lightbox].hidden").forEach(el => {
-        el.classList.remove("hidden");
+    const loadMoreBtn = document.getElementById("load-more");
+    if (loadMoreBtn) {
+      loadMoreBtn.addEventListener("click", () => {
+        document.querySelectorAll("[data-lightbox].hidden").forEach(el => {
+          el.classList.remove("hidden");
+        });
+        loadMoreBtn.closest("div")?.remove();
       });
-      loadMoreBtn.closest("div")?.remove();
+    }
+
+    document.querySelectorAll("[data-lightbox]").forEach(btn => {
+      btn.addEventListener("click", () => show(Number(btn.dataset.index)));
+    });
+
+    lbClose.addEventListener("click", close);
+    lbPrev.addEventListener("click", () => show(current - 1));
+    lbNext.addEventListener("click", () => show(current + 1));
+    lb.addEventListener("click", e => { if (e.target === lb) close(); });
+
+    document.addEventListener("keydown", e => {
+      if (lb.classList.contains("hidden")) return;
+      if (e.key === "Escape") close();
+      if (e.key === "ArrowLeft") show(current - 1);
+      if (e.key === "ArrowRight") show(current + 1);
     });
   }
 
-  document.querySelectorAll("[data-lightbox]").forEach(btn => {
-    btn.addEventListener("click", () => show(Number(btn.dataset.index)));
-  });
-
-  lbClose.addEventListener("click", close);
-  lbPrev.addEventListener("click", () => show(current - 1));
-  lbNext.addEventListener("click", () => show(current + 1));
-  lb.addEventListener("click", e => { if (e.target === lb) close(); });
-
-  document.addEventListener("keydown", e => {
-    if (lb.classList.contains("hidden")) return;
-    if (e.key === "Escape") close();
-    if (e.key === "ArrowLeft") show(current - 1);
-    if (e.key === "ArrowRight") show(current + 1);
-  });
+  initGallery();
+  document.addEventListener("astro:after-swap", initGallery);
 </script>
