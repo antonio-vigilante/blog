@@ -13,8 +13,8 @@ const { variant = "h2", data, id, filePath } = Astro.props;
 const { title, description, pubDatetime, modDatetime, timezone, heroImage } = data;
 
 const headerProps = {
-  style: { viewTransitionName: slugifyStr(title), fontFamily: "var(--font-inter)", fontSize: "28px" },
-  class: "font-bold decoration-dashed hover:underline",
+  style: { viewTransitionName: slugifyStr(title), fontFamily: "var(--font-inter)", lineHeight: "1.25" },
+  class: "font-bold decoration-dashed hover:underline text-[25.2px] sm:text-[28px]",
 };
 ---
 

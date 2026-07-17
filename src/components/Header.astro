@@ -1,4 +1,6 @@
 ---
+import IconMenuDeep from "@/assets/icons/IconMenuDeep.svg";
+import IconX from "@/assets/icons/IconX.svg";
 ---
 
 <header class="bg-[#fafafa]">
@@ -12,7 +14,7 @@
 
   <!-- Logo + menu -->
   <div class="border-b border-border">
-    <div class="mx-auto flex max-w-[71.25rem] items-center justify-between px-4 py-6 sm:px-6">
+    <div class="mx-auto flex max-w-[71.25rem] items-center justify-between gap-4 px-4 py-6 sm:px-6">
       <a
         href="/"
         class="font-bold"
@@ -20,10 +22,22 @@
       >
         Odnikud
       </a>
-      <p class="max-w-sm text-right text-sm text-foreground/70">
-        "Ricordati che non è un disonore smarrirsi nell'immensa foresta della
-        vita." — Janusz Korczak
-      </p>
+      <div class="flex items-center gap-3">
+        <p class="hidden max-w-sm text-right text-sm text-foreground/70 lg:block">
+          "Ricordati che non è un disonore smarrirsi nell'immensa foresta
+          della vita." — Janusz Korczak
+        </p>
+        <button
+          id="sidebar-toggle"
+          aria-label="Menu"
+          aria-expanded="false"
+          aria-controls="sidebar-body"
+          class="focus-outline shrink-0 p-2 lg:hidden"
+        >
+          <IconMenuDeep id="sidebar-open-icon" />
+          <IconX id="sidebar-close-icon" class="hidden" />
+        </button>
+      </div>
     </div>
   </div>
 </header>

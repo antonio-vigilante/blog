@@ -4,8 +4,6 @@ import getSortedPosts from "@/utils/getSortedPosts";
 import { SITE } from "@/config";
 import { getPath } from "@/utils/getPath";
 import IconHalfMoon from "@/assets/icons/IconHalfMoon.svg";
-import IconMenuDeep from "@/assets/icons/IconMenuDeep.svg";
-import IconX from "@/assets/icons/IconX.svg";
 import IconInfo from "@/assets/icons/IconInfo.svg";
 import IconHash from "@/assets/icons/IconHash.svg";
 import IconUser from "@/assets/icons/IconUser.svg";
@@ -35,20 +33,6 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
   id="sidebar"
   class="bg-white lg:w-64 lg:shrink-0 lg:flex lg:flex-col"
 >
-  <!-- Barra superiore mobile -->
-  <div class="flex items-center justify-end p-4 border-b border-border lg:hidden">
-    <button
-      id="sidebar-toggle"
-      aria-label="Menu"
-      aria-expanded="false"
-      aria-controls="sidebar-body"
-      class="focus-outline p-2"
-    >
-      <IconMenuDeep id="sidebar-open-icon" />
-      <IconX id="sidebar-close-icon" class="hidden" />
-    </button>
-  </div>
-
   <!-- Corpo della sidebar -->
   <div
     id="sidebar-body"
