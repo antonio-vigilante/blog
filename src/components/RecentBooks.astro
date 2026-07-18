@@ -1,0 +1,83 @@
+---
+import { books } from "@/data/books";
+import IconArrowLeft from "@/assets/icons/IconArrowLeft.svg";
+import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
+
+const hasMultiple = books.length > 3;
+---
+
+{
+  books.length > 0 && (
+    <section id="recent-books" class="relative pt-2 pb-4 hidden lg:block">
+      <div
+        id="books-track"
+        class="grid grid-flow-col auto-cols-[42%] sm:auto-cols-[calc((100%-2*1.5rem)/3)] gap-4 sm:gap-6 overflow-x-auto snap-x snap-mandatory scroll-smooth pb-1"
+        style="scrollbar-width: none;"
+      >
+        {books.map(book => (
+          <a
+            href={book.url}
+            class="snap-start shrink-0 focus-outline"
+            target={book.url.startsWith("http") ? "_blank" : undefined}
+            rel={book.url.startsWith("http") ? "noopener noreferrer" : undefined}
+          >
+            <img
+              src={book.image}
+              alt={book.title}
+              class="w-full aspect-[2/3] object-cover rounded-md shadow-sm"
+              loading="lazy"
+            />
+          </a>
+        ))}
+      </div>
+
+      {hasMultiple && (
+        <div class="mt-2 flex justify-end gap-2">
+          <button
+            id="books-prev"
+            type="button"
+            aria-label="Copertine precedenti"
+            class="focus-outline p-1.5 rounded hover:text-accent transition-colors"
+          >
+            <IconArrowLeft class="size-5" />
+          </button>
+          <button
+            id="books-next"
+            type="button"
+            aria-label="Copertine successive"
+            class="focus-outline p-1.5 rounded hover:text-accent transition-colors"
+          >
+            <IconArrowRight class="size-5" />
+          </button>
+        </div>
+      )}
+    </section>
+  )
+}
+
+<style>
+  #books-track::-webkit-scrollbar {
+    display: none;
+  }
+</style>
+
+<script>
+  function initBooksCarousel() {
+    const track = document.getElementById("books-track");
+    const prev = document.getElementById("books-prev");
+    const next = document.getElementById("books-next");
+    if (!track || !prev || !next) return;
+
+    const scrollByCard = (dir: 1 | -1) => {
+      const card = track.querySelector("a");
+      const step = card ? card.clientWidth + 16 : track.clientWidth / 3;
+      track.scrollBy({ left: dir * step, behavior: "smooth" });
+    };
+
+    prev.addEventListener("click", () => scrollByCard(-1));
+    next.addEventListener("click", () => scrollByCard(1));
+  }
+
+  initBooksCarousel();
+  document.addEventListener("astro:after-swap", initBooksCarousel);
+</script>

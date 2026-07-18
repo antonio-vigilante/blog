@@ -5,6 +5,7 @@ import Footer from "@/components/Footer.astro";
 import Socials from "@/components/Socials.astro";
 import LinkButton from "@/components/LinkButton.astro";
 import Card from "@/components/Card.astro";
+import RecentBooks from "@/components/RecentBooks.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
@@ -32,6 +33,8 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 
 
     </section>
+
+    <RecentBooks />
 
 {
       recentPosts.length > 0 && (
