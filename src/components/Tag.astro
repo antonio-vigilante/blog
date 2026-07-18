@@ -7,10 +7,17 @@ export interface Props {
 
 const { tag, tagName, size = "sm" } = Astro.props;
 
+const pastels = [
+  "var(--pastel-yellow)",
+  "var(--pastel-pink)",
+  "var(--pastel-mint)",
+  "var(--pastel-lavender)",
+  "var(--pastel-peach)",
+];
+
 let hash = 0;
 for (const ch of tag) hash = (hash * 31 + ch.charCodeAt(0)) & 0xffff;
-const hue = hash % 360;
-const color = `hsl(${hue}, 40%, 32%)`;
+const color = pastels[hash % pastels.length];
 ---
 
 
@@ -19,10 +26,10 @@ const color = `hsl(${hue}, 40%, 32%)`;
     href={`/tags/${tag}/`}
     transition:name={tag}
     class:list={[
-      "inline-block text-white no-underline rounded hover:opacity-80 transition-opacity focus-visible:outline-2 focus-visible:outline-dashed",
+      "inline-block no-underline rounded hover:opacity-80 transition-opacity focus-visible:outline-2 focus-visible:outline-dashed",
       size === "sm" ? "text-xs px-2.5 py-0.5" : "text-sm px-3 py-1",
     ]}
-    style={`background-color: ${color}`}
+    style={{ background: color, color: "#282728" }}
   >
     {tagName}
   </a>

@@ -94,6 +94,15 @@ const nextPost =
     ]}
     data-pagefind-body
   >
+    {
+      tags.length > 0 && (
+        <ul class="mb-3 flex flex-wrap gap-1">
+          {tags.map(tag => (
+            <Tag tag={slugifyStr(tag)} tagName={tag} />
+          ))}
+        </ul>
+      )
+    }
     <h1
       transition:name={slugifyStr(title)}
       class="inline-block text-2xl font-bold sm:text-3xl"
@@ -119,10 +128,6 @@ const nextPost =
     <AuthorCard />
 
     <EditPost class="sm:hidden" {hideEditPost} {post} />
-
-    <ul class="mt-4 mb-8 sm:my-8">
-      {tags.map(tag => <Tag tag={slugifyStr(tag)} tagName={tag} />)}
-    </ul>
 
     <BackToTopButton />
 
