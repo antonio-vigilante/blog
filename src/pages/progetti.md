@@ -8,9 +8,15 @@ Un progetto di didattica e divulgazione della filosofia in prospettiva intercult
 
 [monimos.org](https://www.monimos.org)
 
+## De rerum natura
+
+La mia traduzione del poema di Lucrezio in endecasillabi, con Guida alla lettura e testo latino.
+
+[https://lucrezio.pages.dev](https://lucrezio.pages.dev)
+
 ## endehors
 
-Un un progetto culturale libertario; il nome è un omaggio a Zo d'Axa e Émile Armand. Tra gli altri volumi pubblicati -- tutti open access -- *Il Regno di Dio è in voi* di Lev Tolstoj e *Per la soppressione dei partiti politici* di Simone Weil.
+Un progetto culturale libertario; il nome è un omaggio a Zo d'Axa e Émile Armand. Tra gli altri volumi pubblicati -- tutti open access -- *Il Regno di Dio è in voi* di Lev Tolstoj e *Per la soppressione dei partiti politici* di Simone Weil.
 
 [noblogo.org/endehors/](https://noblogo.org/endehors)
 
