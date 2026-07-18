@@ -31,7 +31,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
 
 <aside
   id="sidebar"
-  class="bg-white lg:w-64 lg:shrink-0 lg:flex lg:flex-col"
+  class="bg-background lg:w-64 lg:shrink-0 lg:flex lg:flex-col"
 >
   <!-- Corpo della sidebar -->
   <div
@@ -40,11 +40,13 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
   >
     <!-- Presentazione autore -->
     <div class="mb-6 hidden lg:block">
-      <img
-        src="/images/hoax_logo.gif"
-        alt=""
-        class="mx-0 w-full"
-      />
+      <div class="overflow-hidden rounded-lg bg-white p-2 shadow-sm">
+        <img
+          src="/images/hoax_logo.gif"
+          alt=""
+          class="mx-0 w-full rounded"
+        />
+      </div>
     </div>
 
     <!-- Navigazione -->

@@ -9,6 +9,8 @@ import ShareLinks from "@/components/ShareLinks.astro";
 import BackButton from "@/components/BackButton.astro";
 import BackToTopButton from "@/components/BackToTopButton.astro";
 import AuthorCard from "@/components/AuthorCard.astro";
+import RelatedPosts from "@/components/RelatedPosts.astro";
+import getRelatedPosts from "@/utils/getRelatedPosts";
 import { getPath } from "@/utils/getPath";
 import { slugifyStr } from "@/utils/slugify";
 import IconChevronLeft from "@/assets/icons/IconChevronLeft.svg";
@@ -82,6 +84,8 @@ const currentPostIndex = allPosts.findIndex(a => a.id === post.id);
 const prevPost = currentPostIndex !== 0 ? allPosts[currentPostIndex - 1] : null;
 const nextPost =
   currentPostIndex !== allPosts.length ? allPosts[currentPostIndex + 1] : null;
+
+const relatedPosts = getRelatedPosts(post, posts);
 ---
 
 <Layout {...layoutProps}>
@@ -132,6 +136,15 @@ const nextPost =
     <BackToTopButton />
 
     <ShareLinks />
+
+    {
+      relatedPosts.length > 0 && (
+        <>
+          <hr class="my-8 border-dashed" />
+          <RelatedPosts posts={relatedPosts} />
+        </>
+      )
+    }
 
     <hr class="my-6 border-dashed" />
 

@@ -222,17 +222,34 @@ const limit = 8; // Numero di post da mostrare
     stroke-linejoin: round;
   }
 
-  @media (prefers-color-scheme: dark) {
-    .mastodon-post {
-      background: #1a1a1a;
-    }
-    .error {
-      background: #7f1d1d;
-      color: #fca5a5;
-    }
-    .card-info {
-      border-top-color: rgba(255, 255, 255, 0.06);
-    }
+  :global(html[data-theme="dark"]) .mastodon-post {
+    background: #1a1a1a;
+  }
+
+  :global(html[data-theme="dark"]) .error {
+    background: #7f1d1d;
+    color: #fca5a5;
+  }
+
+  :global(html[data-theme="dark"]) .card-info {
+    border-top-color: rgba(255, 255, 255, 0.06);
+  }
+
+  :global(html[data-theme="dark"]) .post-author,
+  :global(html[data-theme="dark"]) .post-content,
+  :global(html[data-theme="dark"]) .card-title,
+  :global(html[data-theme="dark"]) .view-more {
+    color: #eaedf3;
+  }
+
+  :global(html[data-theme="dark"]) .view-more:hover {
+    text-decoration-color: #eaedf3;
+  }
+
+  :global(html[data-theme="dark"]) .loading,
+  :global(html[data-theme="dark"]) .post-date,
+  :global(html[data-theme="dark"]) .post-stats {
+    color: #9ca3af;
   }
 
   @media (max-width: 768px) {

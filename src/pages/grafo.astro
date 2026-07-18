@@ -109,7 +109,7 @@ const graphData = { nodes: graphNodes, links: graphLinks };
 
     function getColors() {
       const s = getComputedStyle(document.documentElement);
-      const isDark = document.documentElement.classList.contains("dark");
+      const isDark = document.documentElement.getAttribute("data-theme") === "dark";
       return {
         post: s.getPropertyValue("--color-accent").trim() || (isDark ? "#818cf8" : "#4f46e5"),
         tag: "#f97316",

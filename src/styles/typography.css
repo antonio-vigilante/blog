@@ -132,5 +132,13 @@
   .app-prose a:hover {
     color: #6d1a1a;
   }
+
+  html[data-theme="dark"] .app-prose a {
+    color: #e2908f;
+  }
+
+  html[data-theme="dark"] .app-prose a:hover {
+    color: #f0b8b7;
+  }
 }
 

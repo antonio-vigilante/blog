@@ -1,0 +1,39 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { getPath } from "@/utils/getPath";
+import Datetime from "./Datetime.astro";
+
+export interface Props {
+  posts: CollectionEntry<"blog">[];
+}
+
+const { posts } = Astro.props;
+---
+
+{
+  posts.length > 0 && (
+    <div data-pagefind-ignore>
+      <h2 class="text-sm font-semibold uppercase tracking-wider text-foreground/50 mb-3">
+        Post correlati
+      </h2>
+      <ul class="grid grid-cols-1 gap-4 sm:grid-cols-2">
+        {posts.map(post => (
+          <li>
+            <a
+              href={getPath(post.id, post.filePath)}
+              class="inline-block font-medium leading-snug hover:text-accent transition-colors"
+              style={{ color: "var(--title)" }}
+            >
+              {post.data.title}
+            </a>
+            <Datetime
+              pubDatetime={post.data.pubDatetime}
+              modDatetime={post.data.modDatetime}
+              timezone={post.data.timezone}
+            />
+          </li>
+        ))}
+      </ul>
+    </div>
+  )
+}

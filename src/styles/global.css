@@ -1,6 +1,7 @@
 @import "tailwindcss";
 @import "./typography.css";
 @custom-variant light (&:where([data-theme=dark], [data-theme=dark] *));
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
 :root,
 html[data-theme="light"] {
@@ -20,9 +21,10 @@ html[data-theme="light"] {
 html[data-theme="dark"] {
   --background: #212737;
   --foreground: #eaedf3;
+  --title: #eaedf3;
   --accent: #ff6b01;
   --muted: #343f60;
-  --border: #ab4b08;
+  --border: #38415a;
 }
 
 @theme inline {
@@ -116,6 +118,11 @@ html[data-theme="dark"] {
 .nav-link:hover .nav-label::before,
 .nav-link.nav-active .nav-label::before {
   opacity: 1;
+}
+
+/* Su sfondo scuro il multiply scurisce invece di evidenziare: si passa a screen */
+html[data-theme="dark"] .nav-label::before {
+  mix-blend-mode: screen;
 }
 
 li:nth-of-type(4n+1) .nav-link .nav-label::before {
