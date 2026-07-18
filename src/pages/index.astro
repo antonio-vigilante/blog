@@ -39,6 +39,9 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 {
       recentPosts.length > 0 && (
         <section id="recent-posts" class="pt-2 pb-6 sm:pt-4">
+          <h2 class="text-xs uppercase tracking-wider opacity-60 mb-2">
+            Ultimi post
+          </h2>
           <ul>
             {recentPosts.slice(0, SITE.postPerIndex).map(data => (
               <Card variant="h3" {...data} />

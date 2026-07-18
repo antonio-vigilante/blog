@@ -3,30 +3,44 @@ import { books } from "@/data/books";
 import IconArrowLeft from "@/assets/icons/IconArrowLeft.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 
-const hasMultiple = books.length > 3;
+const hasMultiple = books.length > 4;
+const pastels = [
+  "var(--pastel-yellow)",
+  "var(--pastel-pink)",
+  "var(--pastel-mint)",
+  "var(--pastel-lavender)",
+  "var(--pastel-peach)",
+];
 ---
 
 {
   books.length > 0 && (
-    <section id="recent-books" class="relative pt-2 pb-4 hidden lg:block">
+    <section id="recent-books" class="relative pt-2 pb-4">
+      <h2 class="text-xs uppercase tracking-wider opacity-60 mb-2">
+        Ultimi libri
+      </h2>
       <div
         id="books-track"
-        class="grid grid-flow-col auto-cols-[42%] sm:auto-cols-[calc((100%-2*1.5rem)/3)] gap-4 sm:gap-6 overflow-x-auto snap-x snap-mandatory scroll-smooth pb-1"
+        class="grid grid-flow-col auto-cols-[46%] sm:auto-cols-[31%] lg:auto-cols-[calc((100%-3*0.75rem)/4)] gap-3 overflow-x-auto snap-x snap-mandatory scroll-smooth pb-1"
         style="scrollbar-width: none;"
       >
-        {books.map(book => (
+        {books.map((book, i) => (
           <a
             href={book.url}
-            class="snap-start shrink-0 focus-outline"
+            class="snap-start shrink-0 focus-outline rounded-md p-3 flex flex-col justify-center items-center text-center min-h-[130px] transition-transform hover:-translate-y-0.5"
+            style={{ background: pastels[i % pastels.length], color: "#282728" }}
             target={book.url.startsWith("http") ? "_blank" : undefined}
             rel={book.url.startsWith("http") ? "noopener noreferrer" : undefined}
           >
-            <img
-              src={book.image}
-              alt={book.title}
-              class="w-full aspect-[2/3] object-cover rounded-md shadow-sm"
-              loading="lazy"
-            />
+            <span
+              class="italic text-sm leading-snug"
+              style="font-family: var(--font-merriweather);"
+            >
+              {book.title}
+            </span>
+            <span class="mt-2 text-xs opacity-70">
+              {book.publisher}, {book.year}
+            </span>
           </a>
         ))}
       </div>
@@ -70,7 +84,7 @@ const hasMultiple = books.length > 3;
 
     const scrollByCard = (dir: 1 | -1) => {
       const card = track.querySelector("a");
-      const step = card ? card.clientWidth + 16 : track.clientWidth / 3;
+      const step = card ? card.clientWidth + 12 : track.clientWidth / 4;
       track.scrollBy({ left: dir * step, behavior: "smooth" });
     };
 
