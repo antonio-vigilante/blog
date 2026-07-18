@@ -9,7 +9,7 @@
 }
 
   .app-prose blockquote p {
-    @apply not-italic;
+    @apply not-italic font-normal;
   }
 
 .app-prose blockquote p::before,

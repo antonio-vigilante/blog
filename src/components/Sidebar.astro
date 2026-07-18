@@ -40,13 +40,18 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured).slice(0, 5
   >
     <!-- Presentazione autore -->
     <div class="mb-6 hidden lg:block">
-      <div class="overflow-hidden rounded-lg bg-white p-2 dark:shadow-sm">
+      <div class="overflow-hidden rounded-lg bg-white p-2 dark:hidden">
         <img
           src="/images/hoax_logo.gif"
           alt=""
           class="mx-0 w-full rounded"
         />
       </div>
+      <img
+        src="/images/io.jpg"
+        alt="Antonio Vigilante"
+        class="mx-auto hidden size-44 rounded-full object-cover dark:block"
+      />
     </div>
 
     <!-- Navigazione -->
