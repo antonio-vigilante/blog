@@ -1,6 +1,8 @@
 ---
 import IconMenuDeep from "@/assets/icons/IconMenuDeep.svg";
 import IconX from "@/assets/icons/IconX.svg";
+import IconHalfMoon from "@/assets/icons/IconHalfMoon.svg";
+import { SITE } from "@/config";
 ---
 
 <header class="bg-[#fafafa] dark:bg-background">
@@ -27,6 +29,18 @@ import IconX from "@/assets/icons/IconX.svg";
           "Ricordati che non è un disonore smarrirsi nell'immensa foresta
           della vita." — Janusz Korczak
         </p>
+        {
+          SITE.lightAndDarkMode && (
+            <button
+              class="theme-btn focus-outline shrink-0 p-2 lg:hidden"
+              title="Cambia tema"
+              aria-label="auto"
+              aria-live="polite"
+            >
+              <IconHalfMoon />
+            </button>
+          )
+        }
         <button
           id="sidebar-toggle"
           aria-label="Menu"
