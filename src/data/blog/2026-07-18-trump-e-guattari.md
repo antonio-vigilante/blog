@@ -6,6 +6,7 @@ tags:
   - Felix Guattari
   - Donald Trump
   - capitalismo
+  - filosofia
 description: >
    Trump come un'*alga* degenerata che prolifera nel sistema mediatico-capitalistico, come le alghe mutanti che invadono la laguna di Venezia, di cui parla poco prima. Era il 1989: e con ogni probabilità Guattari si sarebbe meravigliato non poco se qualcuno gli avesse detto che quell'alga degenerata avrebbe ottenuto la presidenza degli Stati Uniti per ben due volte. Con meno difficoltà avrebbe previsto che, una volta giunto ad essere l'uomo più potente del mondo, avrebbe partorito mostruosità come il progetto della striscia di Gaza trasformata in un resort di lusso --  un incubo in perfetta continuità con le sue antiche pratiche predatorie.
 ---

@@ -14,4 +14,12 @@ Questa proposta, rivolta alla mia quarta del prossimo anno, prevede che all'iniz
 
 Questa è una bozza. Ogni contributo critico è ben accetto.
 
-[Scarica PDF](/PDF/Vigilante_Progettazione_condivisa.pdf)
+<iframe
+  src="/PDF/Vigilante_Progettazione_condivisa.pdf"
+  title="Progettazione didattica condivisa (PDF)"
+  width="100%"
+  height="800"
+  style="border: 1px solid var(--color-border); border-radius: 8px;"
+></iframe>
+
+[Scarica il PDF](/PDF/Vigilante_Progettazione_condivisa.pdf)
