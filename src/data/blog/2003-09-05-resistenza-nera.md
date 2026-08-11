@@ -1,0 +1,13 @@
+---
+title: "Resistenza nera?"
+author: Antonio Vigilante
+pubDatetime: 2003-09-05T13:27:59+00:00
+tags:
+  - vollkommenheit
+description: >
+   Io non amo il sindaco della mia città. Questa premessa è necessaria, perché mi accingo a commentare quello che sull'ultimo numero dell' Espresso si può leggere...
+---
+
+Io non amo il sindaco della mia città. Questa premessa è necessaria, perché mi accingo a commentare quello che sull'ultimo numero dell'*Espresso* si può leggere sul sindaco della mia città, in un articolo non firmato intitolato *Resistenza nera*. Un articolo che dice che il sindaco rappresenta l'esempio "più clamoroso" di nostalgia per il passato fascista, e la dimostrazione che in realtà quella di Fiuggi fu solo una svolta superficiale. E perché mai? Perché il sindaco ha chiesto la medaglia d'oro al valor militare per la mia città, la quale ha avuto ventimila morti (ma sulla cifra si può discutere) in seguito ai bombardamenti anglo-americani: e ciò, osserva, "in contrapposizione a Barletta che è stata insignita della massima decorazione per la sua resistenza (guidata dal colonnello Francesco Grasso) e nazisti e fascisti (morirono 22 civili e 37 militari".
+Io non sono d'accordo con la richiesta della medaglia al valor militare. Come antimilitarista, sono contrario alle medaglie, che fanno parte della logica della guerra. Ma non posso fare a meno di notare che la richiesta di un riconoscimento per il sacrificio sostenuto dalla nostra città durante la seconda guerra mondiale avanzata dal sindaco è condivisa da molta gente, al di là degli schieramenti ideologici; e che il sindaco ha voluto sottolineare che non c'è alcuna contrapposizione a Barletta. Le ventimila vittime dei bombardamenti anglo-americani non meritano alcun riconoscimento perché quelli che li hanno uccisi erano amici. Strani amici. Ho ancora impressi nella memoria i racconti di mia nonna, di come avvenivano in concreto i bombardamenti anglo-americani. Dell'accanimento contro la popolazione civile. Dei colpi di mitragliatrice nella villa comunale contro la gente inerme. La strategia di un certo Harris, detto "il macellaio".
+Ed ecco allora - medaglia o non medaglia - il punto. Ricordare le vittime di uno dei tanti bombardamenti anglo-americani è oggi più importante che ricordare le vittime della resistenza al fascismo. Perché in quel massacro della popolazione civile c'era un altro fascismo, che non è stato ancora condannato dalla storia. Che è anzi vincente, trionfante. Il fascismo di superpotenze che portano il terrore massacrando la popolazione civile. Il fascismo del macellaio Harris che continua nel macellaio Bush jr e nel macellaio Blair.
