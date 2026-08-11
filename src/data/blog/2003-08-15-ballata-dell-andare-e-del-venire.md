@@ -40,7 +40,7 @@ E sa di notte e sonno senza fine.
 
 Così cantò Hurtaly. Poi ruttò forte (aveva bevuto davvero molta birra), si ritirò in un angolo e dormì.
 
-*Hurtaly. Un prophète métropolitain*, par le soins de Pierre Levy, La Table Ronde, Paris 2002, pp.77-8.
+*Hurtaly. Un prophète métropolitain*, par les soins de Pierre Levy, La Table Ronde, Paris 2002, pp.77-8.
 
 ---
 
