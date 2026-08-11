@@ -10,18 +10,18 @@ description: >
 
 Ho penetrato la rosa mistica.
 
-Gocce di sangue sulla terra
+Gocce di sangue sulla terra  
 Gocce di sangue vivo e profumato sulla terra.
 
-Uomini curvi nascono
-uomini curvi e infelici, figli
-che mi odiano mi odiano mi odiano
+Uomini curvi nascono  
+uomini curvi e infelici, figli  
+che mi odiano mi odiano mi odiano  
 mi odiano mi odiano mi odiano.
 
-Scavando nel fango della loro carne
-cercano, uomini curvi e infelici
-cercano una traccia dell'antico profumo
-fino a distruggersi maledicendomi
+Scavando nel fango della loro carne  
+cercano, uomini curvi e infelici  
+cercano una traccia dell'antico profumo  
+fino a distruggersi maledicendomi  
 uomini curvi, figli.
 
 ---
@@ -38,6 +38,6 @@ Il sangue degli uomini non profuma.
 
 **[Fainberg](http://invasiva.splinder.it)** — 2003-08-23
 
-oh... scusa, ora ho capito.
+oh... scusa, ora ho capito.  
 (credo)
 

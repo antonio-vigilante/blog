@@ -10,7 +10,7 @@ description: >
 
 ![](http://www.fariselliproject.com/foto/empty%201.jpg)
 
-Alle nove di sera del due dicembre del '77, al Teatro Lirico di Milano, John Cage cominciò a leggere le sue parole vuote estratte da Thoreau adoperando il procedimento del *Libro dei Mutamenti*. Folle vecchio, e perciò vicino ad altro. Uncultivated gift. Dopo qualche minuto il pubblico cominciò a spazientirsi. Insulti, poi applausi di scherno. Qualcuno andò sul palco e cercò di aggredirlo.
+Alle nove di sera del due dicembre del '77, al Teatro Lirico di Milano, John Cage cominciò a leggere le sue parole vuote estratte da Thoreau adoperando il procedimento del *Libro dei Mutamenti*. Folle vecchio, e perciò vicino ad altro. Uncultivated gift. Dopo qualche minuto il pubblico cominciò a spazientirsi. Insulti, poi applausi di scherno. Qualcuno andò sul palco e cercò di aggredirlo.  
 Il primo a parlare fu un giovane che gridò a Cage: "Assassino!". Quella sera, in effetti, fu compiuto un assassinio.
 
 ---

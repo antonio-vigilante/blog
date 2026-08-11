@@ -8,9 +8,9 @@ description: >
    Lo spettacolo più bello del mondo è quello d'una madre che racconta una fiaba al suo bimbo. E' sera, lui è nel letto, lei gli sta seduta accanto. C'è poca...
 ---
 
-Lo spettacolo più bello del mondo è quello d'una madre che racconta una fiaba al suo bimbo.
-E' sera, lui è nel letto, lei gli sta seduta accanto. C'è poca luce, quanto basta per leggere. La donna è un po' chinata. Non c'è più nessuna promessa nei suoi seni, tutto è sulle sue labbra, su quelle labbra dalle quali leggere si precipitano giù le parole. Lui sgrana gli occhi, e vede, vede realmente tutto ciò che quelle parole, accarezzandolo, gli mostrano. In quei suoi occhi c'è tutta la forza dell'immaginazione - una delle grandi motrici della storia.
-Ci sono la madre e il bimbo. E l'altro. Il narratore, l'estraneo che ha scritto la storia che la madre legge al bimbo. Ma l'altro non è il *terzo*, e questa è una costa straordinaria. Non è quel terzo che uccide la magia della reciprocità ed impone un suo mondo d'istituzioni e formalismi. E' un terzo non estraneo, che sta tra il bimbo e la madre, incorporato nella loro intimità, complice della seduzione della madre e dell'incanto del bimbo.
+Lo spettacolo più bello del mondo è quello d'una madre che racconta una fiaba al suo bimbo.  
+E' sera, lui è nel letto, lei gli sta seduta accanto. C'è poca luce, quanto basta per leggere. La donna è un po' chinata. Non c'è più nessuna promessa nei suoi seni, tutto è sulle sue labbra, su quelle labbra dalle quali leggere si precipitano giù le parole. Lui sgrana gli occhi, e vede, vede realmente tutto ciò che quelle parole, accarezzandolo, gli mostrano. In quei suoi occhi c'è tutta la forza dell'immaginazione - una delle grandi motrici della storia.  
+Ci sono la madre e il bimbo. E l'altro. Il narratore, l'estraneo che ha scritto la storia che la madre legge al bimbo. Ma l'altro non è il *terzo*, e questa è una costa straordinaria. Non è quel terzo che uccide la magia della reciprocità ed impone un suo mondo d'istituzioni e formalismi. E' un terzo non estraneo, che sta tra il bimbo e la madre, incorporato nella loro intimità, complice della seduzione della madre e dell'incanto del bimbo.  
 Io vorrei essere quel terzo. Dovrei imparare a scrivere storie per bambini, invece dei soliti saggi noiosissimi e perfettamente inutili su *Dio il male e il postmoderno* e roba del genere.
 
 ---

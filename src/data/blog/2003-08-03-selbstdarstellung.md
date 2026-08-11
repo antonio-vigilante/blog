@@ -12,10 +12,10 @@ description: >
 
 - Io? Ehm... io... Ecco, leggi qui [*ma fallo lentamente, caro il mio spirito libero: quando avrai finito vorrei essere lontano*]:
 
-*Sulla terra deserta di passione
-Sotto un cielo d'immobile distanza
-Sono uno che abita il terrore
-E in ogni sua parola ascolta il nulla
+*Sulla terra deserta di passione  
+Sotto un cielo d'immobile distanza  
+Sono uno che abita il terrore  
+E in ogni sua parola ascolta il nulla  
 *
 
 ---

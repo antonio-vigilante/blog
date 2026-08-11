@@ -8,10 +8,10 @@ description: >
    Assaddho akatañño ca sandhichedo ca ya naro Hatavakaso vantaso sa ve uttamaporiso. E' privo di fede, privo di gratitudine, uno scardinatore, un uomo che ha...
 ---
 
-*Assaddho akatañño ca sandhichedo ca ya naro
+*Assaddho akatañño ca sandhichedo ca ya naro  
 Hatavakaso vantaso sa ve uttamaporiso.*
 
-E' privo di fede, privo di gratitudine, uno scardinatore, un uomo
+E' privo di fede, privo di gratitudine, uno scardinatore, un uomo  
 che ha distrutto il possibile ed eliminato la speranza. E' un essere superiore.
 
 *Dhammapada*, 7.8 (97)

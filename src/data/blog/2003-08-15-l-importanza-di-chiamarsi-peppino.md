@@ -16,8 +16,8 @@ description: >
 
 **anonimo** — 2003-08-15
 
-la memoria dovrebbe essere l'unica cosa che non ha pace
-http://digilander.libero.it/infoprc/doc2.htm
+la memoria dovrebbe essere l'unica cosa che non ha pace  
+http://digilander.libero.it/infoprc/doc2.htm  
 (e.)
 
 **[pulsatilla](http://pulsatilla.splinder.it)** — 2003-08-17

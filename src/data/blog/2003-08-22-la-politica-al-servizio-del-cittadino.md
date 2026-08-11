@@ -8,12 +8,12 @@ description: >
    L'umanità di quelli di Alleanza Nazionale è un dato indiscutibile. Mentre i diessini veleggiano al largo dell'Adriatico, mentre i rifondaroli mettono la pancia...
 ---
 
-L'umanità di quelli di Alleanza Nazionale è un dato indiscutibile. Mentre i diessini veleggiano al largo dell'Adriatico, mentre i rifondaroli mettono la pancia al sole sulle spiagge cubane, loro restano in città. E per far cosa? Per attivare il [numero verde](http://www.alleanzanazionale.it/an_ti_segnala/campagnadagosto/030806_campagnaanziani.htm)per gli anziani in città. Grandioso.
+L'umanità di quelli di Alleanza Nazionale è un dato indiscutibile. Mentre i diessini veleggiano al largo dell'Adriatico, mentre i rifondaroli mettono la pancia al sole sulle spiagge cubane, loro restano in città. E per far cosa? Per attivare il [numero verde](http://www.alleanzanazionale.it/an_ti_segnala/campagnadagosto/030806_campagnaanziani.htm)per gli anziani in città. Grandioso.  
 Zitti un po'. Sento squillare il telefono. Sentiamo.
 
 - Pronto?
-- *Faccettaaa neraaaa, bella abbissinaaaa
-*- Come?
+- *Faccettaaa neraaaa, bella abbissinaaaa*
+- Come?
 - Oh, scusi. E' la radio. Peppì, abbassa un po' 'sta radio. Diceva?
 - Avevo detto "pronto".
 - Ah. Pronto! Risponde il telefono amico di Alleanza Nazionale. Siete anziani e soli? Non deprimetevi, siamo qui per ascoltarvi ed offrirvi conforto.
@@ -56,10 +56,10 @@ Zitti un po'. Sento squillare il telefono. Sentiamo.
 - E comunque non posso andare a toccare le femmine. Ho una certa età e un nipote, un bel bambino...
 - Che ha detto? Vuole toccare un bambino?
 - No, che ha capito?
-- Ho capito benissimo, lei vuole toccare un bambino. Si vergogni, comunista di merda e per giunta pedofilo!
-Click.
-- Peppì, accandi la radio. Questi se ne vanno al mare e ci lasciano a noi a parlare co 'sti stronzi di comunisti pedofili.
-*Ciao biondinaaa è giunta l'oraaaa...
+- Ho capito benissimo, lei vuole toccare un bambino. Si vergogni, comunista di merda e per giunta pedofilo!  
+Click.  
+- Peppì, accandi la radio. Questi se ne vanno al mare e ci lasciano a noi a parlare co 'sti stronzi di comunisti pedofili.  
+*Ciao biondinaaa è giunta l'oraaaa...  
 *
 
 ---
@@ -88,7 +88,7 @@ Precisamente.
 
 **[Fainberg](http://invasiva.splinder.it)** — 2003-08-22
 
-Non mi fai paura. Sappilo.
+Non mi fai paura. Sappilo.  
 Tsè.
 
 **[anonimo](http://vollkommenheit.splinder.it)** — 2003-08-22
@@ -97,11 +97,11 @@ Perché non sai ancora nulla delle 2.567 pagine del mio terrificante volume "Ber
 
 **[Fainberg](http://invasiva.splinder.it)** — 2003-08-23
 
-Beh, forse un po' di paura... Ma poca, eh!
+Beh, forse un po' di paura... Ma poca, eh!  
 PS: Non credo tu intenda mostro nell'accezione latina.
 
 **anonimo** — 2003-08-24
 
-ignoranza e arroganza, le ho viste, le ho sentite anche io...non riesco a dimenticarle ancora, quando avrò dimenticato sarò guarita, anziana ma guarita.
+ignoranza e arroganza, le ho viste, le ho sentite anche io...non riesco a dimenticarle ancora, quando avrò dimenticato sarò guarita, anziana ma guarita.  
 :)
 

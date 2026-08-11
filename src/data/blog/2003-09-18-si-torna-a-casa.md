@@ -24,7 +24,7 @@ Non ho visto commenti idioti :)
 
 **[Fainberg](http://invasiva.splinder.it)** — 2003-09-21
 
-Sì che c'erano, ma vabbè. Scripta manent, e ben mi sta.
+Sì che c'erano, ma vabbè. Scripta manent, e ben mi sta.  
 Ma di questo blog allora che ne facciamo?
 
 **[Naciketas](http://naciketas.splinder.it)** — 2003-09-21
@@ -33,7 +33,7 @@ Resta così, credo. Se lo vuoi te lo regalo.
 
 **[Fainberg](http://invasiva.splinder.it)** — 2003-09-22
 
-La superstar è Naciketas. Hurtaly lo trovavo più vero. Antonio non so. Strano che si stia parlando di un'unica persona.
+La superstar è Naciketas. Hurtaly lo trovavo più vero. Antonio non so. Strano che si stia parlando di un'unica persona.  
 Alla fine va avanti chi si è venduto meglio?
 
 **[anonimo](http://naciketas.splinder.it)** — 2003-09-23

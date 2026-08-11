@@ -8,7 +8,7 @@ description: >
    Mi sento secolare . Difficile decrivere la sensazione. Tra pochezze e piccolezze, il senso di una continuità, di uno scorrere sotterraneo che unisce le vene e...
 ---
 
-Mi sento *secolare*. Difficile decrivere la sensazione. Tra pochezze e piccolezze, il senso di una continuità, di uno scorrere sotterraneo che unisce le vene e i nervi e i respiri.
+Mi sento *secolare*. Difficile decrivere la sensazione. Tra pochezze e piccolezze, il senso di una continuità, di uno scorrere sotterraneo che unisce le vene e i nervi e i respiri.  
 Da ragazzino lessi un libro del '37 di un certo Arundale. Si intitolava *Voi*, ed era una sintesi di quel che la teosofia aveva da dire all'uomo della strada. Nel capitolo sull'educazione spiegava che un bambino non è un bambino. E' un essere che ha alle spalle una manciata di secoli.
 
 ---

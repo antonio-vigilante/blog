@@ -16,7 +16,7 @@ Va bene, va bene: ha ragione anche [lui](http://www.corriere.it/Primo_Piano/Cron
 
 **[poltarek](http://poltarek.splinder.it)** — 2003-08-24
 
-...ed allora, facciamoli pure questi puntini ....adagiamoli al video come parte integrante del tutto mentre socrate, con calma, china il capo e , curioso, sospira scrutando le sue mille sospensioni....
-fa bei sogni
+...ed allora, facciamoli pure questi puntini ....adagiamoli al video come parte integrante del tutto mentre socrate, con calma, china il capo e , curioso, sospira scrutando le sue mille sospensioni....  
+fa bei sogni  
 jonas
 
