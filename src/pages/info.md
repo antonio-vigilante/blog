@@ -10,7 +10,7 @@ Ho recuperato [in una sezione](/tags/vollkommenheit) i post di *Vollkommenheit*,
 
 Il blog è realizzato con [Astro](https://astro.build/) (tema [Astro Paper](https://astro.build/themes/details/astropaper/), modificato), ospitato su GitHub e diffuso via Cloudflare. Non raccoglie alcun dato degli utenti.
 
-Non sono consentiti i commenti. Se vuoi discutere qualcosa, scrivimi: antoniovigilante @ etik.com (la mail antoniovigilante @ autistici.org non è più attiva dopo la chiusura di Autistici/Inventati).
+Se vuoi discutere qualcosa, scrivimi: antoniovigilante @ etik.com (la mail antoniovigilante @ autistici.org non è più attiva dopo la chiusura di Autistici/Inventati).
 
 
  
