@@ -4,7 +4,7 @@ author: Antonio Vigilante
 pubDatetime: 2026-08-14
 tags:
   - burqa
-  - Scuola
+  - scuola
 description: >
    Le contraddizioni di una scuola che ha la pretesa di essere luogo di emancipazione ma esclude chi non è già emancipato.
 ---
