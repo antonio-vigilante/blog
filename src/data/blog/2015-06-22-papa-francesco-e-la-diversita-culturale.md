@@ -1,0 +1,37 @@
+---
+title: "Papa Francesco e la diversità culturale"
+pubDatetime: 2015-06-22
+description: "Tra gli aspetti più interessanti ed apprezzabili dell'enciclica Laudato si' di papa Francesco c'è l'affermazione del valore della diversità culturale…"
+tags: 
+  - "cattolicesimo"
+  - "Papa Francesco"
+  - "Gli Stati Generali"
+---
+
+[![](/images/debry.jpg)](http://3.bp.blogspot.com/-sxf2Jwe8kNA/VYfhpsDguHI/AAAAAAAAAyA/92qoFfqGU6o/s1600/debry.jpg)
+
+Tra gli aspetti più interessanti ed apprezzabili dell'enciclica _Laudato si'_ di papa Francesco c'è l'affermazione del valore della diversità culturale e della necessità di preservarla. Scrive papa Francesco: "La scomparsa di una cultura può essere grave come o più della scomparsa di una specie animale o vegetale. L’imposizione di uno stile egemonico di vita legato a un modo di produzio­ne può essere tanto nocivo quanto l’alterazione degli ecosistemi" (1). Il riferimento è, naturalmente, alla globalizzazione, che in ogni parte del mondo impone lo stile di vita ed i modelli di consumo occidentali, travolgendo le culture locali.
+
+Si tratta di una affermazione che è interessante perché viene dal capo della istituzione, la Chiesa cattolica, che con ogni probabilità si può considerare la maggiore responsabile della distruzione della diversità culturale nella storia. **Fin dalle sue origini, il cristianesimo è stato terribilmente aggressivo verso ogni diversità.** La Chiesa è passata nel giro di pochissimo tempo dall'essere perseguitata al perseguitare. Dopo l'editto di Tessalonica (380), che dichiara il cristianesimo unica religione ufficiale dell'Impero romano, proibendo tutti gli altri culti, è cominciata la persecuzione nei confronti degli eretici, degli ebrei e dei pagani. Particolare fu lo zelo con il quale ci si dedicò alla distruzione della cultura pagana, colpita anche nei suoi luoghi di culto. Porfirio di Gaza si conquistò la santità demolendo i templi pagani della sua città, mentre la barbara uccisione della filosofa Ipazia - fatta letteralmente a pezzi con dei cocci da una folla di fanatici cristiani - non impedisce di considerare il vescovo Cirillo di Alessandria, che in quell'assassinio brutale ebbe non poche responsabilità, santo e dottore della Chiesa (peraltro, tra le sue imprese meritorie c'è la cacciata degli ebrei da Alessandria).
+
+L'ebraismo è riuscito a sopravvivere, il paganesimo è morto, le eresie si sono trasformate e sono ricomparse sotto diverse forme, fino a quando non sono state estirpate con il ferro ed il fuoco.
+
+Dopo secoli di lotta contro il diverso musulmano, che l'occidente cristiano ha tentato inutilmente di eliminare con le crociate - durante l'assedio di Gerusalemme, narra Raimondo di Aguilers, "gli uomini cavalcavano con il sangue fino alle ginocchia" -, la nuova sfida è stata rappresentata dall'America, abitata da popoli che non solo non avevano mai sentito nominare Gesù Cristo, ma che andavano in giro nudi e non conoscevano il valore del denaro. Anche in questo caso la risposta dell'occidente cristiano è stata lo sterminio. Il più grande genocidio della storia, secondo lo storico David Stannard(2).
+
+Disgustato da tanta violenza, il buon Bartolomé de Las Casas scriverà nel suo testamento:
+
+> Credo che, a causa di queste opere empie, scellerate e ignominiose, perpetrate in modo così ingiusto, barbaro e tirannico, Dio riverserà sulla Spagna la sua ira e il suo furore, giacché tutta la Spagna si è presa la sua parte, grande o piccola, delle sanguinose ricchezze usurpate a prezzo di tante rovine e di tanti massacri(3).
+
+Ma era solo l'inizio. Devastato il popolo indio, l'occidente cristiano si sarebbe accanito contro i neri africani, verso il quali lo stesso Las Casas, sensibile ai diritti degli americani, non provava alcuna simpatia. E la distruzione, l'omicidio di massa, la sottomissione, la riduzione in schiavitù sono andati sempre di pari passo con la negazione della cultura e della religione e l'imposizione del cristianesimo. Per sopravvivere, i culti antichi hanno dovuto camuffarsi sotto una veste cattolica, come è accaduto in Brasile con il candomblé. Si dirà: sono cose ben note, errori per i quali la Chiesa cattolica ha chiesto scusa già da tempo, con Giovanni Paolo II. E' vero, e bisogna prenderne atto. Ma **non si può fare a meno di chiedersi se tanta violenza negatrice dell'alterità non abbia lasciato un residuo**. Ora, l'impressione è che questo residuo ci sia. E' nota la lotta decennale di Giovanni Paolo II contro il relativismo, considerato l'origine di tutti i mali. Un attacco frontale a qualsiasi forma di cultura non assolutista che ha segnato un solco profondo tra la Chiesa a la cultura laica. Papa Francesco, pur senza i toni accesi di Giovanni Paolo II (assiduamente citato nell'enciclica), sembra condividerne pienamente l'anti-relativismo. Scrive, ad esempio:
+
+> Non possiamo sostenere una spiritualità che dimentichi Dio onnipotente e creatore. In questo modo, finiremmo per adorare altre poten­ze del mondo, o ci collocheremmo al posto del Signore, fino a pretendere di calpestare la realtà creata da Lui senza conoscere limite(4).
+
+Consideriamo le implicazioni di questa affermazione. Il papa sta dicendo che chiunque non creda in Dio dovrà necessariamente adorare il denaro, o lo Stato, o il successo, e devastare la natura. Chi non crede è brutto, sporco e cattivo: necessariamente. Naturalmente si tratta di una affermazione violenta, negatrice della differenza e del dialogo. Poco più oltre la "cultura del relativismo" è ricondotta alla posizione morale di chi mette prima di ogni cosa i propri interessi personali ed è risposto ad usare l'altro come mezzo; una cultura che il papa non manca di associare a cose come la pedofilia (5). Ora, sarebbe anche troppo facile replicare che qualche problema con la pedofilia l'ha anche la Chiesa, nonostante il suo assolutismo. Quello che colpisce è l'uso del termine relativismo, che vuol dire molte cose, per indicare posizioni immorali che non si può fare a meno di condannare. E' come se qualcuno usasse la parola cattolicesimo come un insulto.
+
+In sostanza, il papa afferma il valore della diversità culturale, ma **afferma poi che qualsiasi cultura che neghi Dio è insostenibile ("non possiamo sostenere"), negando dunque qualsiasi cultura non teistica**. La diversità culturale non è solo quella degli aborigeni. E', ad esempio, quella dei buddhisti, che non credono in un Dio "onnipotente e creatore", e che tuttavia da duemila e cinquecento anni hanno sviluppato un'etica della compassione che comprende anche la vita non umana e l'ambiente. Per papa Bergoglio, una spiritualità insostenibile. Insostenibile appare, in realtà, l'assolutismo di chi si crede depositario unico della verità: una posizione che nella storia ha fatto molti più danni dell'aborrito relativismo.
+
+### Note
+
+(1) _Lettera enciclica Laudato si’ del Santo Padre Francesco sulla cura della casa comune_, Tipografia Vaticana, Roma 2015, p. 113 (2) D. Stannard, _American Holocaust: The Conquest of the New World_, Oxford University Press, Oxford 1992. (3) T. Todorov, _La conquista dell'America. Il problema dell'"altro"_, tr. it., Einaudi, Torino 1992. (4) _Lettera enciclica Laudato si’_ , cit., p. 59. (5) Ivi, p. 95.
+
+_Nell'immagine: Theodor De Bry, illustrazione della_ Narratio Regionum indicarum per Hispanos Quosdam devastatarum verissima _di Bartolomé de las Casas._ _Articolo pubblicato su_ [Gli Stati Generali](http://www.glistatigenerali.com/religione/papa-francesco-e-la-diversita-culturale/)_, 22 giugno 2015._
