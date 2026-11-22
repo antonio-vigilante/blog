@@ -27,7 +27,7 @@ Il secondo caso è quello in cui la decisione di porre fine alla nostra vita cau
 
 Poiché siamo esseri in relazione, a qualunque nostra azione ha effetti sugli altri. Da ciò viene anche quello che potremmo chiamare il *dovere di uccidersi*, che intenderei soprattutto come dovere di smettere di essere causa di sofferenza. Cosa che non richiede la soppressione fisica. Lucrezio ripete spesso, nel *De rerum natura*, che la morte è smettere di essere ciò che si era:
 
-nam quodcumque suis mutatum finibus exit,
-continuo hoc mors est illius quod fuit ante (I, 670–671, ripreso poi più volte nel corso del poema).
+>nam quodcumque suis mutatum finibus exit,
+>continuo hoc mors est illius quod fuit ante (I, 670–671, ripreso poi più volte nel corso del poema).
 
 Qualunque cosa, mutata, esca dai suoi confini, ciò è la morte di ciò che era prima. Nel pensiero buddhista contemporaneo, ad esempio in Buddhadasa, c'è una convinzione simile riguardo alla rinascita: il nostro io muore e rinasce di continuo, nella nostra vita quotidiana, senza che sia necessaria la morte fisica. E c'è il dovere morale, soprattutto quando diverse persone sono a contatto con noi in modi tali da provare sofferenza per il nostro modo di essere, di ucciderci e rinascere a noi stessi.
