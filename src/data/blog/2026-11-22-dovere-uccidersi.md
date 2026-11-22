@@ -12,7 +12,7 @@ description: >
 ---
 
 
-Dopo la morte di Corrado Augias ha ripreso a circolare un frammento di un [episodio del 2019 di "Cartabianca"](https://www.youtube.com/watch?v=GTPGaNcDySM) in cui lo scrittore dialoga con Bianca Berlinguer. Si parla di fine vita, e Augias, rispondendo alla domanda "A chi appartiene la nostra vita", afferma che
+Dopo la morte di Corrado Augias ha ripreso a circolare un frammento di un [episodio del 2019 di "Cartabianca"](https://www.youtube.com/watch?v=GTPGaNcDySM) in cui lo scrittore dialoga con Bianca Berlinguer. Si parla di fine vita, e Augias, rispondendo alla domanda "A chi appartiene la nostra vita?", afferma che
 
 > La mia vita appartiene a me, di questo sono assolutamente certo. Chi dice che la vita è un dono di Dio, con ogni dovuto rispetto, dice una sciocchezza.
 
